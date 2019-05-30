@@ -2,3 +2,15 @@
 :PROPERTIES:
 :Custom_id: reading_winters15:_motiv_switc
 :END:
+* TODO Ben Elton (2008): Stark
+:PROPERTIES:
+:Custom_id: reading_elton08:_stark
+:END:
+* TODO J.K. Accinni (2013): Alien Species Intervention: Books 1-3: An Alien Apocalyptic Saga
+:PROPERTIES:
+:Custom_id: reading_accinni13:_alien_species_inter
+:END:
+* TODO Louisa May Alcott (????): Little Women
+:PROPERTIES:
+:Custom_id: reading_alcott:_littl_women
+:END:

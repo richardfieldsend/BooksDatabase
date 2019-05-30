@@ -14,3 +14,12 @@ science-fiction
 self improvement
 to read
 women's rights
+scripting
+computing
+linux
+reference
+non-fiction
+fantasy
+classic
+environment
+politics
