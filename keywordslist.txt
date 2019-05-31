@@ -23,3 +23,10 @@ fantasy
 classic
 environment
 politics
+comic
+emacs
+programming
+pdf
+crafts
+dog
+crime

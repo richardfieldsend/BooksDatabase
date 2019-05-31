@@ -14,3 +14,23 @@
 :PROPERTIES:
 :Custom_id: reading_alcott:_littl_women
 :END:
+* TODO Liu Alexander (2015): Organize Your Day: The 12 Golden Steps To Avoid Stress, Procrastination and Achieve Success and Productivity
+:PROPERTIES:
+:Custom_id: reading_alexander15:_organ_your_day
+:END:
+* TODO David Allen (2011): Getting Things Done: How to achieve stress-free productivity
+:PROPERTIES:
+:Custom_id: reading_allen11:_gettin_thing_done
+:END:
+* TODO D.M. Annechino (2010): They Never Die Quietly
+:PROPERTIES:
+:Custom_id: reading_annechino10:_they_never_quiet
+:END:
+* TODO John Anthony (2015): Dog Training Made Simple: The Ultimate Dog Training Guide: Start Training Today Have Your Dog Obeying in Minutes
+:PROPERTIES:
+:Custom_id: reading_anthony15:_dog_train_made_simpl
+:END:
+* TODO Dogwood Apps (2017): 99 Crochet Flowers: Awesome Flowers for Embellishing
+:PROPERTIES:
+:Custom_id: reading_apps17:_croch_flower
+:END:
