@@ -30,3 +30,13 @@ pdf
 crafts
 dog
 crime
+pdf, computing
+security
+machine learning
+hardware
+perl
+python
+windows
+humble bundle
+sql
+database
