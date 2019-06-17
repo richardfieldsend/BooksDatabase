@@ -1,0 +1,4 @@
+* David Allen (2011): Getting Things Done: How to achieve stress-free productivity
+:PROPERTIES:
+:Custom_id: allen11:_gettin_thing_done
+:END:
