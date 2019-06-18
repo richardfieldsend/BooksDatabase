@@ -1,4 +1,0 @@
-* Douwe Osinga (2018): Deep Learning Cookbook: Practical Recipes to Get Started Quickly
-:PROPERTIES:
-:Custom_id: osinga18:_deep_learn_cookb
-:END:
