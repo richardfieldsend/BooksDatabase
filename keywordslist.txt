@@ -40,3 +40,6 @@ windows
 humble bundle
 sql
 database
+HB Secrets To Success Sourcebooks
+HB Write Like A Writer
+HB Linux by Wiley

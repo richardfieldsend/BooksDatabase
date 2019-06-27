@@ -34,3 +34,1091 @@
 :PROPERTIES:
 :Custom_id: reading_apps17:_croch_flower
 :END:
+* TODO Vicky Oliver (2008): Bad Bosses, Crazy Coworkers & Other Office Idiots
+:PROPERTIES:
+:Custom_id: reading_oliver08:_bad_bosses_crazy_cowor_other_offic_idiot
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/badbossescrazycoworkersandotherofficeidiots.pdf]]
+* TODO Brian Tracy (2015): Bullseye - The Power of Focus
+:PROPERTIES:
+:Custom_id: reading_tracy15:_bulls_power_focus
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/bullseye.pdf]]
+* TODO Tim Ursiny, Ph.D. (2003): The Coward's Guide to Conflict
+:PROPERTIES:
+:Custom_id: reading_tim03:_cowar_guide_confl
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/cowardsguidetoconflict.pdf]]
+* TODO Laura Garnett (2019): The Genius Habit
+:PROPERTIES:
+:Custom_id: reading_garnett19:_genius_habit
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/geniushabit.pdf]]
+* TODO Peggy Anderson (2017): Great Quotes From Great Leaders
+:PROPERTIES:
+:Custom_id: reading_anderson17:_great_quotes_from_great_leader
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/greatquotesfromgreatleaders.pdf]]
+* TODO Tim Ursiny Ph.D. and Gary DeMoss (2007): The Top Performer's Guide To Speeches and Presentations
+:PROPERTIES:
+:Custom_id: reading_ph.d.07:_top_perfor_guide_to_speec_presen
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/topperformersguidetospeechesandpresentations.pdf]]
+* TODO Megan Abbott and Alison Gaylin (2018): Normandy Gold
+:PROPERTIES:
+:Custom_id: reading_abbott18:_norman_gold
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/normandygold.pdf]]
+* TODO John Joseph Adams (2009): By Blood We Live
+:PROPERTIES:
+:Custom_id: reading_adams09:_by_blood_we_live
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/bybloodwelive.pdf]]
+* TODO John Joseph Adams (2009): The Improbable Adventures of Sherlock Holmes
+:PROPERTIES:
+:Custom_id: reading_adams09:_improb_adven_sherl_holmes
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/theimprobableadventuresofsherlockholmes.pdf]]
+* TODO Douglas Adams (2013): The Hitchhiker's Guide to the Galaxy: The Complete Trilogy of Five
+:PROPERTIES:
+:Custom_id: reading_adams13:_hitch_guide_galax
+:END:
+* TODO Joseph Adler (2006): Baseball Hacks: Tips and Tools for Dissecting and Analyzing Statistics
+:PROPERTIES:
+:Custom_id: reading_adler06:_baseb_hacks
+:END:
+[[file:/home/richard/humble bundles/oreilly-hacks/baseballhacks.pdf]]
+* TODO Joseph Adler (2012): R In a Nutshell: A Desktop Quick Reference
+:PROPERTIES:
+:Custom_id: reading_adler12:_r_in_nutsh
+:END:
+[[file:/home/richard/humble bundles/oreilly-data-science/rinanutshell.pdf]]
+* TODO Carl Albing and JP Vossen and Cameron Newham (2012): bash Cookbook: Solutions and Examples for bash Users
+:PROPERTIES:
+:Custom_id: reading_albing12:_cookb
+:END:
+* TODO Carl Albing and JP Vossen (2018): bash Cookbook: Solutions and Examples for bash Users
+:PROPERTIES:
+:Custom_id: reading_albing18:_cookb
+:END:
+[[file:/home/richard/humble bundles/oreilly-prog-cookbooks/bashcookbook.pdf]]
+* TODO Richard Aleas (2007): Songs of Innocence
+:PROPERTIES:
+:Custom_id: reading_aleas07:_songs_innoc
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/songsofinnocence.pdf]]
+* TODO Alvin Alexander (2013): Scala Cookbook
+:PROPERTIES:
+:Custom_id: reading_alexander13:_scala_cookb
+:END:
+[[file:/home/richard/humble bundles/oreilly-prog-cookbooks/scalacookbook.pdf]]
+* TODO Mac Anderson (2007): The Power of Attitude
+:PROPERTIES:
+:Custom_id: reading_anderson07:_power_attit
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/powerofattitude.pdf]]
+* TODO Mac Anderson and Tom Feltenstein (2015): Change is Good - You Go First
+:PROPERTIES:
+:Custom_id: reading_anderson15:_chang_good_you_go_first
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/changeisgood_yougofirst.pdf]]
+* TODO George Axelrod (2007): Blackmailer
+:PROPERTIES:
+:Custom_id: reading_axelrod07:_black
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/blackmailer.pdf]]
+* TODO Paolo Bacigalupi (2008): Pump Six and Other Stories
+:PROPERTIES:
+:Custom_id: reading_bacigalupi08:_pump_six_other_stories
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB eBook Bundle 1/pumpsixandotherstories.pdf]]
+* TODO Joshua Backfield (2014): Becoming Functional - Steps For Transforming Into A Functional Programmer
+:PROPERTIES:
+:Custom_id: reading_backfield14:_becom_funct_steps_for_trans
+:END:
+[[file:/home/richard/humble bundles/oreilly-functional-programming/becomingfunctional.pdf]]
+* TODO Alex Banks and Eve Porcello (2017): Learning React - Functional Web Development with React and Redux
+:PROPERTIES:
+:Custom_id: reading_banks17:_learn_react_funct_web_devel_react_redux
+:END:
+[[file:/home/richard/humble bundles/oreilly-webdesign-development/learningreact1.pdf]]
+* TODO Daniel J. Barrett (2016): Linux Pocket Guide: Essential Commands
+:PROPERTIES:
+:Custom_id: reading_barrett16:_linux_pocket_guide
+:END:
+[[file:/home/richard/humble bundles/oreilly-unix/linuxpocketguide_3rdedition.pdf]]
+* TODO Paul Barry (2017): Head First Python
+:PROPERTIES:
+:Custom_id: reading_barry17:_head_first_python
+:END:
+[[file:/home/richard/humble bundles/oreilly-headfirst/headfirstpython.pdf]]
+* TODO David Beazley and Brian K. Jones (2013): Python Cookbook
+:PROPERTIES:
+:Custom_id: reading_beazley13:_python_cookb
+:END:
+[[file:/home/richard/humble bundles/oreilly-prog-cookbooks/pythoncookbook.pdf]]
+* TODO Lynn Beighley (2007): Head First SQL
+:PROPERTIES:
+:Custom_id: reading_beighley07:_head_first_sql
+:END:
+[[file:/home/richard/humble bundles/oreilly-headfirst/headfirstsql_ebook.pdf]]
+* TODO Amelia Bellamy-Royds and Kurt Cagle and Dudley Storey (2018): Using SVG with CSS3 & HTML5 - Vector Graphics for Web Design
+:PROPERTIES:
+:Custom_id: reading_bellamy-royds18:_using_svg_css3_html5_vector
+:END:
+[[file:/home/richard/humble bundles/oreilly-webdesign-development/usingsvgwithcss3andhtml5.pdf]]
+* TODO Colin Bendell and Tim Kadlec and Yoav Weiss and Guy Podjarny and Nick Doyle and Mike McCall (2016): High Performance Images - Shrink, Load and Deliver Images for Speed
+:PROPERTIES:
+:Custom_id: reading_bendell16:_high_perfor_images_shrin_load
+:END:
+[[file:/home/richard/humble bundles/oreilly-webdesign-development/highperformanceimages.pdf]]
+* TODO Susan Benjamin (2008): The Manager's Answer Book
+:PROPERTIES:
+:Custom_id: reading_benjamin08:_manag_answer_book
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/managersanswerbook.pdf]]
+* TODO Lauren Beukes (2010): Zoo City
+:PROPERTIES:
+:Custom_id: reading_beukes10:_zoo_city
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB eBook Bundle 1/zoo_city_-_lauren_beukes.pdf]]
+* TODO Steven Bird and Ewan Klein and Edward Loper (2009): Natural Language Processing with Python
+:PROPERTIES:
+:Custom_id: reading_bird09:_natur_languag_proces_python
+:END:
+[[file:/home/richard/humble bundles/oreilly-python/naturallanguageprocessingwithpython.pdf]]
+* TODO David A. Black (2006): Ruby For Rails
+:PROPERTIES:
+:Custom_id: reading_black06:_ruby_for_rails
+:END:
+[[file:/home/richard/Downloads/ebookBundle/Ruby_for_Rails_v1_PUBLISH.pdf]]
+* TODO Jim Blandy and Jason Orendorff (2018): Programming Rust: Fast, Safe Systems Development
+:PROPERTIES:
+:Custom_id: reading_blandy18:_progr_rust
+:END:
+[[file:/home/richard/humble bundles/oreilly-functional-programming/programmingrust.pdf]]
+* TODO David N. Blank-Edelman (2018): Seeking SRE - Conversations About Running Production Systems At Scale
+:PROPERTIES:
+:Custom_id: reading_blank-edelman18:_seekin_sre_conver_about_runnin
+:END:
+[[file:/home/richard/humble bundles/oreilly-devops/seekingsre.pdf]]
+* TODO Lawrence Block (2016): Sinner Man
+:PROPERTIES:
+:Custom_id: reading_block16:_sinner_man
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/sinnerman.pdf]]
+* TODO Lawrence Block and Max Phillips and Erle Stanley Gardner and Richard Aleas (2018): Portfolio of the 100 Best Hard Case Crime Covers
+:PROPERTIES:
+:Custom_id: reading_block18:_portf_best_hard_case_crime_cover
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/portfolioofthe100besthardcasecrimecovers.pdf]]
+* TODO Brian Brazil (2018): Prometheus Up & Running - Infrastructure And Application Performance Monitoring
+:PROPERTIES:
+:Custom_id: reading_brazil18:_promet_up_runnin_infras_and
+:END:
+[[file:/home/richard/humble bundles/oreilly-devops/prometheus_upandrunning.pdf]]
+* TODO Nikhil Buduma (2017): Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms
+:PROPERTIES:
+:Custom_id: reading_buduma17:_fundam_deep_learn
+:END:
+[[file:/home/richard/humble bundles/oreilly-machine-learning/fundamentalsofdeeplearning_1ed.pdf]]
+* TODO Evan Burchard (2017): Refactoring JavaScript - Turning Bad Code Into Good Code
+:PROPERTIES:
+:Custom_id: reading_burchard17:_refact_javascript
+:END:
+[[file:/home/richard/humble bundles/oreilly-webdesign-development/refactoringjavascript.pdf]]
+* TODO Scott V. Burger (2018): Introduction to Machine Learning with R
+:PROPERTIES:
+:Custom_id: reading_burger18:_introd_machin_learn_r
+:END:
+[[file:/home/richard/humble bundles/oreilly-machine-learning/introductiontomachinelearningwithr.pdf]]
+* TODO Brendan Burns (2018): Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services
+:PROPERTIES:
+:Custom_id: reading_burns18:_desig_distr_system
+:END:
+[[file:/home/richard/humble bundles/oreilly-devops/designingdistributedsystems.pdf]]
+* TODO Raymond Camden and Brian Rinaldi (2017): Working with Static Sites - Bringing the Power of Simplicity to Modern Sites
+:PROPERTIES:
+:Custom_id: reading_camden17:_workin_static_sites_bring_power
+:END:
+[[file:/home/richard/humble bundles/oreilly-webdesign-development/workingwithstaticsites.pdf]]
+* TODO Debra Cameron and James Elliott and Marc Loy and Eric Raymond and Bill Rosenblatt (2005): Learning GNU Emacs
+:PROPERTIES:
+:Custom_id: reading_cameron05:_learn_gnu_emacs
+:END:
+[[file:/home/richard/humble bundles/oreilly-unix/learninggnuemacs_3rdedition.pdf]]
+* TODO Chellie Campbell (2015): From Worry to Wealth
+:PROPERTIES:
+:Custom_id: reading_campbell15:_from_worry_wealt
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/fromworrytowealthy.pdf]]
+* TODO Laine Campbell and Charity Majors (2018): Database Reliability Engineering: Designing and Operating Resilient Database Systems
+:PROPERTIES:
+:Custom_id: reading_campbell18:_datab_reliab_engin
+:END:
+[[file:/home/richard/humble bundles/oreilly-devops/databasereliabilityengineering.pdf]]
+* TODO Jeff Carpenter and Eben Hewitt (2016): Cassandra - The Definitive Guide: Distributed Data at Web Scale
+:PROPERTIES:
+:Custom_id: reading_carpenter16:_cassan_defin_guide
+:END:
+[[file:/home/richard/humble bundles/oreilly-data-science/cassandra_thedefinitiveguide.pdf]]
+* TODO Clarence Chio and David Freeman (2018): Machine Learning and Security: Protecting Systems with Data and Algorithms
+:PROPERTIES:
+:Custom_id: reading_chio18:_machin_learn_secur
+:END:
+[[file:/home/richard/humble bundles/oreilly-machine-learning/machinelearningandsecurity.pdf]]
+* TODO Tom Christiansen and Nathan Torkington (2003): Perl Cookbook
+:PROPERTIES:
+:Custom_id: reading_christiansen03:_perl_cookb
+:END:
+[[file:/home/richard/humble bundles/oreilly-prog-cookbooks/perlcookbook.pdf]]
+* TODO chromatic and Damian Conway and Curtis "Ovid" Poe (2006): Perl Hacks: Tips and Tools For Programming, Debugging and Surviving
+:PROPERTIES:
+:Custom_id: reading_chromatic06:_perl_hacks
+:END:
+[[file:/home/richard/humble bundles/oreilly-hacks/perlhacks.pdf]]
+* TODO Neil Clarke (2017): The Best Science Fiction of the Year - Volume 2
+:PROPERTIES:
+:Custom_id: reading_clarke17:_best_scien_fiction_year_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/bestsciencefictionoftheyear_vol2.pdf]]
+* TODO Neil Clarke (2018): The Final Frontier - Stories of Exploring Space, Colonizing The Universe and First Contact
+:PROPERTIES:
+:Custom_id: reading_clarke18:_final_front_stories_explor_space
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/thefinalfrontier.pdf]]
+* TODO Max Allan Collins (2008): The First Quarry
+:PROPERTIES:
+:Custom_id: reading_collins08:_first_quarr
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/thefirstquarry.pdf]]
+* TODO Max Allan Collins (2018): Quarry's sWar
+:PROPERTIES:
+:Custom_id: reading_collins18:_quarr
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/quarryswar.pdf]]
+* TODO Tim Connor (2007): 81 Challenges Smart Managers Face - How To Overcome The Biggest Challenges Facing Managers & Leaders Today
+:PROPERTIES:
+:Custom_id: reading_connor07:_chall_smart_manag_face_how
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/81challengessmartmanagersface.pdf]]
+* TODO Drew Conway and John Myles White (2012): Machine Learning for Hackers
+:PROPERTIES:
+:Custom_id: reading_conway12:_machin_learn_hacker
+:END:
+[[file:/home/richard/humble bundles/oreilly-machine-learning/machinelearningforhackers.pdf]]
+* TODO Darren Cook (2017): Practical Machine Learning with H2O: Powerful, Scalable Techniques for AI and Deep Learning
+:PROPERTIES:
+:Custom_id: reading_cook17:_pract_machin_learn_h2o
+:END:
+[[file:/home/richard/humble bundles/oreilly-machine-learning/practicalmachinelearningwithh2o_1ed.pdf]]
+* TODO Jesse Cravens and Jeff Burtoft (2013): HTML5 Hacks: Tips and Tricks for Creating Interactive Web Applications
+:PROPERTIES:
+:Custom_id: reading_cravens13:_html5_hacks
+:END:
+[[file:/home/richard/humble bundles/oreilly-hacks/html5hacks.pdf]]
+* TODO Andrew Cumming and Gordon Russell (2007): SQL Hacks
+:PROPERTIES:
+:Custom_id: reading_cumming07:_sql_hacks
+:END:
+[[file:/home/richard/humble bundles/oreilly-hacks/sqlhacks.pdf]]
+* TODO Ian F. Darwin (2017): Android Cookbook: Problems and Solutions for Android Developers
+:PROPERTIES:
+:Custom_id: reading_darwin17:_android_cookb
+:END:
+[[file:/home/richard/humble bundles/oreilly-prog-cookbooks/androidcookbook.pdf]]
+* TODO Ellen Datlow (2018): The Best of the Best Horror of the Year - 10 Years of Essential Short Horror Fiction
+:PROPERTIES:
+:Custom_id: reading_datlow18:_best_best_horror_year_years
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/thebestofthebesthorroroftheyear10years.pdf]]
+* TODO Stephanie Goddard Davidson (1998): 101 Ways to Have a Great Day @ Work
+:PROPERTIES:
+:Custom_id: reading_davidson98:_ways_have_great_day_work
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/101waystohaveagreatdayatwork.pdf]]
+* TODO John Davies (2006): The $100,000 Career - A New Approach To Networking For Executive Job Change
+:PROPERTIES:
+:Custom_id: reading_davies06:_career_new_approac_to_networ
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/100000pluscareer.pdf]]
+* TODO Jennifer Davis and Ryn Daniels (2016): Effective DevOps - Building A Culture of Collaboration, Affinity and Tooling At Scale
+:PROPERTIES:
+:Custom_id: reading_davis16:_effec_devop_build_cultur_collab
+:END:
+[[file:/home/richard/humble bundles/oreilly-devops/effectivedevops.pdf]]
+* TODO Lester Dent (2009): Honey In His Mouth
+:PROPERTIES:
+:Custom_id: reading_dent09:_honey_in_his_mouth
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/honeyinhismouth.pdf]]
+* TODO Cory Doctorow (2012): Pirate Cinema
+:PROPERTIES:
+:Custom_id: reading_doctorow12:_pirat_cinem
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB eBook Bundle 1/pirate_cinema_-_cory_doctorow.pdf]]
+* TODO Dale Dougherty and Arnold Robbins (1997): sed & awk
+:PROPERTIES:
+:Custom_id: reading_dougherty97
+:END:
+[[file:/home/richard/humble bundles/oreilly-unix/sedandawk.pdf]]
+* TODO Allen B. Downey (2013): Think Bayes
+:PROPERTIES:
+:Custom_id: reading_downey13:_think_bayes
+:END:
+[[file:/home/richard/humble bundles/oreilly-python/thinkbayes.pdf]]
+* TODO Allen B. Downey (2015): Think Stats: Exploratory Data Analysis
+:PROPERTIES:
+:Custom_id: reading_downey15:_think_stats
+:END:
+[[file:/home/richard/humble bundles/oreilly-data-science/thinkstats.pdf]]
+* TODO Allen B. Downey (2016): Think Python: How To Think Like A Computer Scientist
+:PROPERTIES:
+:Custom_id: reading_downey16:_think_python
+:END:
+[[file:/home/richard/humble bundles/oreilly-python/thinkpython.pdf]]
+* TODO Sarah Drasner (2017): SVG Animations - From Common UX Implementations to Complex Responsive Animation
+:PROPERTIES:
+:Custom_id: reading_drasner17:_svg_animat_from_common_ux
+:END:
+[[file:/home/richard/humble bundles/oreilly-webdesign-development/svganimations.pdf]]
+* TODO Graham Dumpleton (2018): Deploying to Openshift: A Guide For Busy Developers
+:PROPERTIES:
+:Custom_id: reading_dumpleton18:_deploy_opens
+:END:
+[[file:/home/richard/humble bundles/oreilly-devops/deployingtoopenshift.pdf]]
+* TODO Ted Dunning and Ellen Friedman (2013): Practical Machine Learning: Innovations and Recommendations
+:PROPERTIES:
+:Custom_id: reading_dunning13:_pract_innov_reccom
+:END:
+[[file:/home/richard/humble bundles/oreilly-data-science/practicalmachinelearning_innovationsinrecommendation.pdf]]
+* TODO Ted Dunning and Ellen Friedman (2014): Practical Machine Learning: A New Look at Anomoly Detection
+:PROPERTIES:
+:Custom_id: reading_dunning14:_pract_machin_learn
+:END:
+[[file:/home/richard/humble bundles/oreilly-data-science/practicalmachinelearning_anewlookatanomalydetection.pdf]]
+* TODO Ted Dunning and Ellen Friedman (2015): Time Series Databases: New Ways to Store and Access Data
+:PROPERTIES:
+:Custom_id: reading_dunning15:_time_series_datab
+:END:
+[[file:/home/richard/humble bundles/oreilly-data-science/timeseriesdatabases_newwaystostoreandaccessdata.pdf]]
+* TODO Bonnie Eisenman (2018): Learning React Native - Building Native Mobile Apps with Javascript
+:PROPERTIES:
+:Custom_id: reading_eisenman18:_learn_react_nativ_build_nativ
+:END:
+[[file:/home/richard/humble bundles/oreilly-webdesign-development/learningreactnative.pdf]]
+* TODO Chas Emerick and Brian Carper and Christophe Grand (2012): Clojure Programming
+:PROPERTIES:
+:Custom_id: reading_emerick12:_clojur_progr
+:END:
+[[file:/home/richard/humble bundles/oreilly-functional-programming/clojureprogramming.pdf]]
+* TODO Christa Faust (2008): Money Shot
+:PROPERTIES:
+:Custom_id: reading_faust08:_money_shot
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/moneyshot.pdf]]
+* TODO Christa Faust and Gary Phillips (2017): Peepland
+:PROPERTIES:
+:Custom_id: reading_faust17:_peepl
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/peepland.pdf]]
+* TODO Michael Fogus (2013): Functional Javascript
+:PROPERTIES:
+:Custom_id: reading_fogus13:_funct_javas
+:END:
+[[file:/home/richard/humble bundles/oreilly-functional-programming/functionaljavascript.pdf]]
+* TODO Neal Ford (2014): Functional Thinking - Paradigm Over Syntax
+:PROPERTIES:
+:Custom_id: reading_ford14:_funct_think_parad_over_syntax
+:END:
+[[file:/home/richard/humble bundles/oreilly-functional-programming/functionalthinking.pdf]]
+* TODO Eric Freeman and Elisabeth Robson and Kathy Sierra and Bert Bates (2004): Head First Design Patterns
+:PROPERTIES:
+:Custom_id: reading_freeman04:_head_first_desig_patter
+:END:
+[[file:/home/richard/humble bundles/oreilly-headfirst/headfirstdesignpatterns_ebook.pdf]]
+* TODO Eric Freeman and Elisabeth Robson (2014): Head First Javascript Programming
+:PROPERTIES:
+:Custom_id: reading_freeman14:_head_first_javas_progr
+:END:
+[[file:/home/richard/humble bundles/oreilly-headfirst/headfirstjavascriptprogramming_ebook.pdf]]
+* TODO Eric Freeman (2018): Head First Learn to Code
+:PROPERTIES:
+:Custom_id: reading_freeman18:_head_first_learn_code
+:END:
+[[file:/home/richard/humble bundles/oreilly-headfirst/headfirstlearntocode_ebook.pdf]]
+* TODO Bruce Frey (2006): Statistics Hack
+:PROPERTIES:
+:Custom_id: reading_frey06:_statis_hack
+:END:
+[[file:/home/richard/humble bundles/oreilly-hacks/statisticshacks.pdf]]
+* TODO AEleen Frisch (2002): Essential System Administration
+:PROPERTIES:
+:Custom_id: reading_frisch02:_essen_system_admin
+:END:
+[[file:/home/richard/humble bundles/oreilly-unix/essentialsystemadministration_3rdedition.pdf]]
+* TODO Jean-Luc Fromental (2017): The Prague Coup
+:PROPERTIES:
+:Custom_id: reading_fromental17:_prague_coup
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/thepraguecoup.pdf]]
+* TODO Samuel Fuller (2014): Brainquake
+:PROPERTIES:
+:Custom_id: reading_fuller14:_brain
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/brainquake.pdf]]
+* TODO Neil Gaiman (2005): Signal to Noise
+:PROPERTIES:
+:Custom_id: reading_gaiman05:_signal_noise
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB eBook Bundle 1/signal_to_noise_-_neil_gaiman_dave_mckean-standard_definition-1349799897.pdf]]
+* TODO Erle Stanley Gardner (2004): Top of the Heap
+:PROPERTIES:
+:Custom_id: reading_gardner04:_top_heap
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/topoftheheap.pdf]]
+* TODO Erle Stanley Gardner (2017): Turn On The Heat
+:PROPERTIES:
+:Custom_id: reading_gardner17:_turn_heat
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/turnontheheat.pdf]]
+* TODO Justin Garrison and Kris Nova (2018): Cloud Native Infrastructure: Patters for Scalable Infrastructure and Applications in a Dynamic Environment
+:PROPERTIES:
+:Custom_id: reading_garrison18:_cloud_nativ_infras
+:END:
+[[file:/home/richard/humble bundles/oreilly-devops/cloudnativeinfrastructure.pdf]]
+* TODO Sebastien Goasguen (2016): Docker Cookbook: Solutions and Examples for Building Distributed Applications
+:PROPERTIES:
+:Custom_id: reading_goasguen16:_docker_cookb
+:END:
+[[file:/home/richard/humble bundles/oreilly-prog-cookbooks/dockercookbook.pdf]]
+* TODO Jan Goyvaerts and Steven Levithan (2012): Regular Expressions Cookbook
+:PROPERTIES:
+:Custom_id: reading_goyvaerts12:_regul_expres_cookb
+:END:
+[[file:/home/richard/humble bundles/oreilly-prog-cookbooks/regularexpressionscookbook.pdf]]
+* TODO Jennifer Green and Andrew Stellman (2014): Head First PMP (Project Management Professional)
+:PROPERTIES:
+:Custom_id: reading_green14:_head_first_pmp_projec_manag_profes
+:END:
+[[file:/home/richard/humble bundles/oreilly-headfirst/headfirstpmp_ebook.pdf]]
+* TODO Chris Griffith (2017): Mobile App Development with Ionic - Cross-Platform Apps with Ionic, Angular & Cordova
+:PROPERTIES:
+:Custom_id: reading_griffith17:_mobil_app_devel_ionic_cross
+:END:
+[[file:/home/richard/humble bundles/oreilly-webdesign-development/mobileappdevelopmentwithionic.pdf]]
+* TODO Dawn Griffiths (2009): Head First Statistics
+:PROPERTIES:
+:Custom_id: reading_griffiths09:_head_first_statis
+:END:
+[[file:/home/richard/humble bundles/oreilly-headfirst/headfirststatistics_ebook.pdf]]
+* TODO David Griffiths and Dawn Griffiths (2012): Head First C
+:PROPERTIES:
+:Custom_id: reading_griffiths12:_head_first_c
+:END:
+[[file:/home/richard/humble bundles/oreilly-headfirst/headfirstc_ebook.pdf]]
+* TODO Dawn Griffiths and David Griffiths (2017): Head First Android Development
+:PROPERTIES:
+:Custom_id: reading_griffiths17:_head_first_android_devel
+:END:
+[[file:/home/richard/humble bundles/oreilly-headfirst/headfirstandroiddevelopment.pdf]]
+* TODO Miguel Grinberg (2018): Flask Web Development: Developing Web Applications with Python
+:PROPERTIES:
+:Custom_id: reading_grinberg18:_flask_web_devel
+:END:
+[[file:/home/richard/humble bundles/oreilly-python/flaskwebdevelopment.pdf]]
+* TODO Paula Guran (2015): Blood Sisters - Vampire Stories by Women
+:PROPERTIES:
+:Custom_id: reading_guran15:_blood_sister_vampir_stories_women
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/bloodsisters.pdf]]
+* TODO Marty Halpern (2011): Alien Contact
+:PROPERTIES:
+:Custom_id: reading_halpern11:_alien_contac
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/aliencontact.pdf]]
+* TODO Donald Hamilton (2006): Night Walker
+:PROPERTIES:
+:Custom_id: reading_hamilton06:_night_walker
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/nightwalker.pdf]]
+* TODO Bill Havanki (2017): Moving Hadoop to the Cloud - Harnessing Cloud Features and Flexibility for Hadoop Clusters
+:PROPERTIES:
+:Custom_id: reading_havanki17:_movin_hadoop_cloud_harnes_cloud
+:END:
+[[file:/home/richard/humble bundles/oreilly-devops/movinghadooptothecloud.pdf]]
+* TODO David Hawley and Raina Hawley (2007): Excel Hacks: Tips and Tools for Streamlining Your Spreadsheets
+:PROPERTIES:
+:Custom_id: reading_hawley07:_excel_hacks
+:END:
+[[file:/home/richard/humble bundles/oreilly-hacks/excelhacks.pdf]]
+* TODO Daniel Higginbotham (2015): Clojure For The Brave and True
+:PROPERTIES:
+:Custom_id: reading_higginbotham15:_clojur_for_brave_true
+:END:
+[[file:/home/richard/Downloads/ebookBundle/clojureforthebraveandtrue.pdf]]
+* TODO Kelsey Hightower and Brendan Burns and Joe Beda (2017): Kubernetes Up & Running - Dive Into The Future of Infrastructure
+:PROPERTIES:
+:Custom_id: reading_hightower17:_kuber_up_runnin_dive_into_futur_infras
+:END:
+[[file:/home/richard/humble bundles/oreilly-devops/kubernetes_upandrunning.pdf]]
+* TODO Walter Hill and Denis Hamill (2017): The Assignment
+:PROPERTIES:
+:Custom_id: reading_hill17:_assig
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/theassignment.pdf]]
+* TODO Walter Hill and Matz (2017): Triggerman
+:PROPERTIES:
+:Custom_id: reading_hill17:_trigg
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/triggerman.pdf]]
+* TODO Daniel Hinojosa (2013): Testing in Scala
+:PROPERTIES:
+:Custom_id: reading_hinojosa13:_testin_scala
+:END:
+[[file:/home/richard/humble bundles/oreilly-functional-programming/testinginscala.pdf]]
+* TODO Vicki Hitzges (2010): Attitude is Everything - 10 Rules for Staying Positive
+:PROPERTIES:
+:Custom_id: reading_hitzges10:_attit_every_rules_stayin_posit
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/attitudeiseverything.pdf]]
+* TODO Vicki Hitzges (2014): Stuck On Stop - How To Quit Procrastinating
+:PROPERTIES:
+:Custom_id: reading_hitzges14:_stuck_stop_how_to_quit_procr
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/stuckonstop.pdf]]
+* TODO Jerry Holkins and Mike Krahulik (2000): Penny Arcade: Attack of the Bacon Robots
+:PROPERTIES:
+:Custom_id: reading_holkins00:_penny_arcad
+:END:
+[[file:/home/richard/Downloads/ebookBundle/penny_arcade_-_attack_of_the_bacon_robots-high.pdf]]
+* TODO Jerry Holkins and Mike Krahulik (2001): Penny Arcade: Epic Legends of the Magic Sword Kings
+:PROPERTIES:
+:Custom_id: reading_holkins01:_penny_arcad
+:END:
+[[file:/home/richard/Downloads/ebookBundle/penny_arcade_-_epic_legends_of_the_magic_sword_kings-high.pdf]]
+* TODO Lee Holmes (2013): Powershell Cookbook
+:PROPERTIES:
+:Custom_id: reading_holmes13:_power_cookb
+:END:
+[[file:/home/richard/humble bundles/oreilly-prog-cookbooks/windowspowershellcookbook.pdf]]
+* TODO Tom Hope and Yehezkel S. Resheff and Itay Lieder (2017): Learning TensorFlow: A Guide to Building Deep Learning Systems
+:PROPERTIES:
+:Custom_id: reading_hope17:_learn_tensor
+:END:
+[[file:/home/richard/humble bundles/oreilly-machine-learning/learningtensorflow_1ed.pdf]]
+* TODO Craig Hunt (2002): TCP/IP Network Administration
+:PROPERTIES:
+:Custom_id: reading_hunt02:_tcp_ip_networ_admin
+:END:
+[[file:/home/richard/humble bundles/oreilly-unix/tcp_ip_networkadministration_3rdedition.pdf]]
+* TODO Jeroen Janssens (2015): Data Science at the Command Line
+:PROPERTIES:
+:Custom_id: reading_janssens15:_data_scien_comman_line
+:END:
+[[file:/home/richard/humble bundles/oreilly-data-science/datascienceatthecommandline.pdf]]
+* TODO Jared St. Jean (2013): Kinect Hacks: Tips and Tools for Motion and Pattern Detection
+:PROPERTIES:
+:Custom_id: reading_jean13:_kinec_hacks
+:END:
+[[file:/home/richard/humble bundles/oreilly-hacks/kinecthacks.pdf]]
+* TODO Zachary Jernigan (2013): No Return
+:PROPERTIES:
+:Custom_id: reading_jernigan13:_no_retur
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/noreturn.pdf]]
+* TODO Mike Julian (2018): Practical Monitoring - Effective Strategies For The Real World
+:PROPERTIES:
+:Custom_id: reading_julian18:_pract_monit_effec_strat_for_real_world
+:END:
+[[file:/home/richard/humble bundles/oreilly-devops/practicalmonitoring.pdf]]
+* TODO Arne Jysch (2018): Babylon Berlin
+:PROPERTIES:
+:Custom_id: reading_jysch18:_babyl_berlin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/babylonberlin.pdf]]
+* TODO Adrian Kaehler and Gary Bradski (2017): Learning OpenCV3: Computer Vision in C++ with the OpenCV Library
+:PROPERTIES:
+:Custom_id: reading_kaehler17:_learn_openc
+:END:
+[[file:/home/richard/humble bundles/oreilly-machine-learning/learningopencv.pdf]]
+* TODO Holden Karau and Andy Konwinski and Patrick Wendell and Matei Zaharia (2015): Learning Spark: Lightning-Fast Data Analysis
+:PROPERTIES:
+:Custom_id: reading_karau15:_learn_spark
+:END:
+[[file:/home/richard/humble bundles/oreilly-data-science/learningspark.pdf]]
+* TODO Holden Karau and Rachel Warren (2017): High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark
+:PROPERTIES:
+:Custom_id: reading_karau17:_high_perfor_spark
+:END:
+[[file:/home/richard/humble bundles/oreilly-data-science/highperformancespark.pdf]]
+* TODO Matthew Kirk (2017): Thoughtful Machine Learning with Python: A Test-Drive Approach
+:PROPERTIES:
+:Custom_id: reading_kirk17:_thoug_machin_learn_python
+:END:
+[[file:/home/richard/humble bundles/oreilly-machine-learning/thoughtfulmachinelearningwithpython_1ed.pdf]]
+* TODO Chris Kohler (2006): Retro Gaming Hacks
+:PROPERTIES:
+:Custom_id: reading_kohler06:_retro_gamin_hacks
+:END:
+[[file:/home/richard/humble bundles/oreilly-hacks/retrogaminghacks.pdf]]
+* TODO Mercedes Lackey and Steve Libbey and Cody Martin and Dennis Lee (2012): Invasion
+:PROPERTIES:
+:Custom_id: reading_lackey12:_invas
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB eBook Bundle 1/invasion_the_secret_world_chronicle_-_mercedes_lackey-1349733840.pdf]]
+* TODO Stieg Larsson and Moggliden AB (2017): The Girl With the Dragon Tattoo
+:PROPERTIES:
+:Custom_id: reading_larsson17:_girl_with_dragon_tattoo
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/thegirlwiththedragontattoo.pdf]]
+* TODO Brent Laster (2018): Jenkins 2 Up & Running - Evolve Your Deployment Pipeline for Next-Generation Automation
+:PROPERTIES:
+:Custom_id: reading_laster18:_jenkin_up_runnin_evolv_your
+:END:
+[[file:/home/richard/humble bundles/oreilly-devops/jenkins2_upandrunning.pdf]]
+* TODO Simon St. Laurent and J. David Eisenberg (2017): Introducing Elixir: Getting Started in Functional Programming
+:PROPERTIES:
+:Custom_id: reading_laurent17:_introd_elixir
+:END:
+[[file:/home/richard/humble bundles/oreilly-functional-programming/introducingelixir.pdf]]
+* TODO Simon St. Laurent (2017): Introducing Erlang: Getting Started in Functional Programming
+:PROPERTIES:
+:Custom_id: reading_laurent17:_introd_erlan
+:END:
+[[file:/home/richard/humble bundles/oreilly-functional-programming/introducingerlang.pdf]]
+* TODO Dru Lavigne (2004): BSD Hacks: 100 Industrial-Strength Tips and Tools
+:PROPERTIES:
+:Custom_id: reading_lavigne04:_bsd_hacks
+:END:
+[[file:/home/richard/humble bundles/oreilly-hacks/bsdhacks.pdf]]
+* TODO Jonathan Lebensold (2018): React Native Cookbook - Bringing the Web to Native Platforms
+:PROPERTIES:
+:Custom_id: reading_lebensold18:_react_nativ_cookb_bring_web_nativ_platf
+:END:
+[[file:/home/richard/humble bundles/oreilly-webdesign-development/reactnativecookbook_lebensold.pdf]]
+* TODO James Lehmer (2016): Ten Steps to Linux Survival: Essentials for Navigating the Bash Jungle
+:PROPERTIES:
+:Custom_id: reading_lehmer16:_ten_steps_linux_surviv
+:END:
+[[file:/home/richard/humble bundles/oreilly-unix/unix_bookbundle_freetier_updated_1479930452.pdf]]
+* TODO John R. Levine and Tony Mason and Doug Brown (2012): lex and yacc
+:PROPERTIES:
+:Custom_id: reading_levine12
+:END:
+[[file:/home/richard/humble bundles/oreilly-unix/lexandyacc.pdf]]
+* TODO Steve Lindstrom (2017): CSS Refactoring - Architect Your Stylesheets for Success
+:PROPERTIES:
+:Custom_id: reading_lindstrom17:_css_refac_archit_your_styles_succes
+:END:
+[[file:/home/richard/humble bundles/oreilly-webdesign-development/cssrefactoring.pdf]]
+* TODO Kelly Link (2001): Stranger Things Happen
+:PROPERTIES:
+:Custom_id: reading_link01:_stran_thing_happen
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB eBook Bundle 1/stranger_things_happen_-_kelly_link.pdf]]
+* TODO Kelly Link (2005): Magic For Beginners
+:PROPERTIES:
+:Custom_id: reading_link05:_magic_for_begin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB eBook Bundle 1/magic_for_beginners_-_kelly_link.pdf]]
+* TODO Cricket Liu and Paul Albitz (2006): DNS and Bind
+:PROPERTIES:
+:Custom_id: reading_liu06:_dns_bind
+:END:
+[[file:/home/richard/humble bundles/oreilly-unix/dnsandbind_5thedition.pdf]]
+* TODO Ross E. Lockhart (2012): The Book of Cthulu II
+:PROPERTIES:
+:Custom_id: reading_lockhart12:_book_cthul_ii
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/bookofcthulhu2.pdf]]
+* TODO Bill Lubanovic (2015): Introducing Python: Modern Computing in Simple Packages
+:PROPERTIES:
+:Custom_id: reading_lubanovic15:_introd_python
+:END:
+[[file:/home/richard/humble bundles/oreilly-python/introducingpython.pdf]]
+* TODO Stephen Ludin and Javier Garza (2017): Learning HTTP/2 - A Practical Guide for Beginners
+:PROPERTIES:
+:Custom_id: reading_ludin17:_learn_http_pract_guide_begin
+:END:
+[[file:/home/richard/humble bundles/oreilly-webdesign-development/learninghttp2.pdf]]
+* TODO Michael Margolis (2012): Arduino Cookbook
+:PROPERTIES:
+:Custom_id: reading_margolis12:_arduin_cookb
+:END:
+[[file:/home/richard/humble bundles/oreilly-prog-cookbooks/arduinocookbook.pdf]]
+* TODO Simon Marlow (2013): Parallel and Concurrent Programming in Haskell
+:PROPERTIES:
+:Custom_id: reading_marlow13:_paral_concur_progr_haskel
+:END:
+[[file:/home/richard/humble bundles/oreilly-functional-programming/parallelandconcurrentprogramminginhaskell.pdf]]
+* TODO Ari Marmell (2012): False Covenant - A Widdershins Adventure
+:PROPERTIES:
+:Custom_id: reading_marmell12:_false_coven_widder_adven
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/falsecovenant.pdf]]
+* TODO Tom Marrs (2017): JSON at Work - Practical Data Integration for the Web
+:PROPERTIES:
+:Custom_id: reading_marrs17:_json_work_pract_data_integ_web
+:END:
+[[file:/home/richard/humble bundles/oreilly-webdesign-development/jsonatwork.pdf]]
+* TODO Ed McBain (2015): So Nude, So Dead
+:PROPERTIES:
+:Custom_id: reading_mcbain15:_so_nude_so_dead
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/sonudesodead.pdf]]
+* TODO Gregory Mcdonald (2017): Snatch
+:PROPERTIES:
+:Custom_id: reading_mcdonald17:_snatc
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/snatch.pdf]]
+* TODO Jay McGavren (2016): Head First Ruby
+:PROPERTIES:
+:Custom_id: reading_mcgavren16:_head_first_ruby
+:END:
+[[file:/home/richard/humble bundles/oreilly-headfirst/headfirstruby_ebook.pdf]]
+* TODO Jessica McKellar and Abe Fettig (2013): Twisted: Network Programming Essentials
+:PROPERTIES:
+:Custom_id: reading_mckellar13:_twist
+:END:
+[[file:/home/richard/humble bundles/oreilly-python/twistednetworkprogrammingessentials.pdf]]
+* TODO Brett McLaughlin (2005): Home Theatre Hacks: 100 Industrial-Strength Tips and Tools
+:PROPERTIES:
+:Custom_id: reading_mclaughlin05:_home_theat_hacks
+:END:
+[[file:/home/richard/humble bundles/oreilly-hacks/hometheaterhacks.pdf]]
+* TODO Brett D McLaughlin and Gary Pollice and David West (2007): Head First Object-Orientated Analysis and Design
+:PROPERTIES:
+:Custom_id: reading_mclaughlin07:_head_first_objec_orien_analy_desig
+:END:
+[[file:/home/richard/humble bundles/oreilly-headfirst/headfirstobjectorientedanalysisanddesign_ebook.pdf]]
+* TODO Carin Meier (2015): Living Clojure: An Introduction and Training Plan for Developers
+:PROPERTIES:
+:Custom_id: reading_meier15:_livin_clojur
+:END:
+[[file:/home/richard/humble bundles/oreilly-functional-programming/livingclojure.pdf]]
+* TODO Eric A. Meyer and Estelle Weyl (2018): CSS - The Definitive Guide - Visual Presentation for the Web
+:PROPERTIES:
+:Custom_id: reading_meyer18:_css_defin_guide_visual_presen_web
+:END:
+[[file:/home/richard/humble bundles/oreilly-webdesign-development/css_thedefinitiveguide.pdf]]
+* TODO Ryan Michell (2018): Web Scraping with Python: Collecting More Data From the Modern Web
+:PROPERTIES:
+:Custom_id: reading_michell18:_web_scrap_python
+:END:
+[[file:/home/richard/humble bundles/oreilly-python/webscrapingwithpython.pdf]]
+* TODO Michael Milton (2009): Head First Data Analysis
+:PROPERTIES:
+:Custom_id: reading_milton09:_head_first_data_analy
+:END:
+[[file:/home/richard/humble bundles/oreilly-data-science/headfirstdataanalysis.pdf]]
+* TODO Anthony Molinaro (2006): SQL Cookbook
+:PROPERTIES:
+:Custom_id: reading_molinaro06:_sql_cookb
+:END:
+[[file:/home/richard/humble bundles/oreilly-prog-cookbooks/sqlcookbook.pdf]]
+* TODO Simon Monk (2016): Raspberry Pi Cookbook
+:PROPERTIES:
+:Custom_id: reading_monk16
+:END:
+[[file:/home/richard/humble bundles/oreilly-prog-cookbooks/raspberrypicookbook.pdf]]
+* TODO Peter Morgan (2018): Machine Learning is Changing the Rules: Ways Businesses Can Utilize AI to Innovate
+:PROPERTIES:
+:Custom_id: reading_morgan18:_machin_learn_chang_rules
+:END:
+[[file:/home/richard/humble bundles/oreilly-machine-learning/machinelearningischangingtherules_1ed.pdf]]
+* TODO Andreas C. Muller and Sarah Guido (2017): Introduction to Machine Learning with Python: A Guide for Data Scientists
+:PROPERTIES:
+:Custom_id: reading_muller17:_introd_machin_learn_python
+:END:
+[[file:/home/richard/humble bundles/oreilly-machine-learning/introductiontomachinelearningwithpython.pdf]]
+* TODO Randall Munroe (2009): xkcd volume 0
+:PROPERTIES:
+:Custom_id: reading_munroe09
+:END:
+[[file:/home/richard/Downloads/ebookBundle/xkcd-volume0-high.pdf]]
+* TODO John J. Murphy (2010): Pulling Together
+:PROPERTIES:
+:Custom_id: reading_murphy10:_pullin_toget
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/pullingtogether.pdf]]
+* TODO Niall Richard Murphy and David K. Rensin and Kent Kawahara and Stephen Thorne (2018): The Site Reliability Workbook - Practical Ways to Implement SRE
+:PROPERTIES:
+:Custom_id: reading_murphy18:_site_reliab_workb_pract_ways_implem_sre
+:END:
+[[file:/home/richard/humble bundles/oreilly-devops/thesitereliabilityworkbook.pdf]]
+* TODO Scott Murray (2017): Interactive Data Visualization for the Web - An Introduction to Designing with D3
+:PROPERTIES:
+:Custom_id: reading_murray17:_inter_data_visual_web_introd_desig_d3
+:END:
+[[file:/home/richard/humble bundles/oreilly-webdesign-development/interactivedatavisualizationfortheweb.pdf]]
+* TODO Paul Mutton (2004): IRC Hacks: 100 Industrial-Strength Tips and Tools
+:PROPERTIES:
+:Custom_id: reading_mutton04:_irc_hacks
+:END:
+[[file:/home/richard/humble bundles/oreilly-hacks/irchacks.pdf]]
+* TODO Tina LeCount Myers (2018): The Song of All
+:PROPERTIES:
+:Custom_id: reading_myers18:_song_all
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/thesongofall.pdf]]
+* TODO Cameron Newham and Bill Rosenblatt (2005): Learning the bash Shell
+:PROPERTIES:
+:Custom_id: reading_newham05:_learn_shell
+:END:
+[[file:/home/richard/humble bundles/oreilly-unix/learningthebashshell_3rdedition.pdf]]
+* TODO Juan Nunez-Iglesias and Stefan van der Walt and Harriet Dashnow (2017): Elegant SciPy: The Art of Scientific Python
+:PROPERTIES:
+:Custom_id: reading_nunez-iglesias17:_elegan_scipy
+:END:
+[[file:/home/richard/humble bundles/oreilly-python/elegantscipy.pdf]]
+* TODO Fabien Nury and Bruno (2018): Tyler Cross - Black Rock
+:PROPERTIES:
+:Custom_id: reading_nury18:_tyler_cross_black_rock
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/tylercross_blackrock.pdf]]
+* TODO Vicky Oliver (2005): 301 Smart Answers to Tough interview questions
+:PROPERTIES:
+:Custom_id: reading_oliver05:_smart_answer_tough
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/301smartanswerstotoughinterviewquestions.pdf]]
+* TODO Cathy O'Neil and Rachel Schutt (2014): Doing Data Science: Straight Talk From the Front Line
+:PROPERTIES:
+:Custom_id: reading_oneil14:_doing_data_scien
+:END:
+[[file:/home/richard/humble bundles/oreilly-data-science/doingdatascience.pdf]]
+* TODO Douwe Osinga (2018): Deep Learning Cookbook: Practical Recipes to Get Started Quickly
+:PROPERTIES:
+:Custom_id: reading_osinga18:_deep_learn_cookb
+:END:
+[[file:/home/richard/humble bundles/oreilly-machine-learning/deeplearningcookbook.pdf]]
+* TODO Bryan O'Sullivan and John Goerzen and Don Stewart (2009): Real World Haskell
+:PROPERTIES:
+:Custom_id: reading_osullivan09:_real_world_haskel
+:END:
+[[file:/home/richard/humble bundles/oreilly-functional-programming/realworldhaskell.pdf]]
+* TODO Sam Parker and Mac Anderson (2018): 212 The Extra Degree - Extraordinary Results Begin With One Small Change
+:PROPERTIES:
+:Custom_id: reading_parker18:_extra_degree_extraor_resul_begin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/212theextradegree.pdf]]
+* TODO Josh Patterson and Adam Gibson (2017): Deep Learning: A Practitioner's Approach
+:PROPERTIES:
+:Custom_id: reading_patterson17:_deep_learn
+:END:
+[[file:/home/richard/humble bundles/oreilly-machine-learning/deeplearning.pdf]]
+* TODO Harry J.W. Percival (2017): Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium and Javascript
+:PROPERTIES:
+:Custom_id: reading_percival17:_test_driven_devel_python
+:END:
+[[file:/home/richard/humble bundles/oreilly-python/testdrivendevelopmentwithpython.pdf]]
+* TODO Tim Ursiny Ph.D and Barbara A. Kay M.A. (2006): The Top Performer's Guide To Change
+:PROPERTIES:
+:Custom_id: reading_ph.d06:_top_perfor_guide_to_chang
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/topperformersguidetochange.pdf]]
+* TODO Shelley Powers and Jerry Peek and Tim O'Reilly and Mike Loukides (2003): Unix Power Tools
+:PROPERTIES:
+:Custom_id: reading_powers03:_unix_power_tools
+:END:
+[[file:/home/richard/humble bundles/oreilly-unix/unixpowertools.pdf]]
+* TODO Shelley Powers (2015): Javascript Cookbook: Programming The Web
+:PROPERTIES:
+:Custom_id: reading_powers15:_javas_cookb
+:END:
+[[file:/home/richard/humble bundles/oreilly-prog-cookbooks/javascriptcookbook.pdf]]
+* TODO James Pustejovsky and Amber Stubbs (2013): Natural Language Annotation for Machine Learning
+:PROPERTIES:
+:Custom_id: reading_pustejovsky13:_natur_languag_annot_machin_learn
+:END:
+[[file:/home/richard/humble bundles/oreilly-machine-learning/naturallanguageannotationformachinelearning.pdf]]
+* TODO Walter Quesada and Bob Lautenbach (2018): Programming Voice Interfaces - Giving Connected Devices a Voice
+:PROPERTIES:
+:Custom_id: reading_quesada18:_progr_voice_inter_givin_connec_devic_voice
+:END:
+[[file:/home/richard/humble bundles/oreilly-webdesign-development/programmingvoiceinterfaces.pdf]]
+* TODO Luciano Ramalho (2015): Fluent Python: Clear, Concise and Effective Programming
+:PROPERTIES:
+:Custom_id: reading_ramalho15:_fluen_python
+:END:
+[[file:/home/richard/humble bundles/oreilly-python/fluentpython.pdf]]
+* TODO Pete Rawlik (2013): Reanimators
+:PROPERTIES:
+:Custom_id: reading_rawlik13:_reanim
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/reanimators.pdf]]
+* TODO Kenneth Reitz and Tanya Schlusser (2016): The Hitchhiker's Guide to Python: Best Practices for Development
+:PROPERTIES:
+:Custom_id: reading_reitz16:_hitch_guide_python
+:END:
+[[file:/home/richard/humble bundles/oreilly-python/thehitchhikersguidetopython.pdf]]
+* TODO Al Ritter (2010): The 100/0 Principle - The Secret of Great Relationships
+:PROPERTIES:
+:Custom_id: reading_ritter10:_princ_secret_great_relat
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/1000principle.pdf]]
+* TODO Arnold Robbins and Nelson H.F. Beebe (2005): Classic Shell Scripting
+:PROPERTIES:
+:Custom_id: reading_robbins05:_class_shell_scrip
+:END:
+[[file:/home/richard/humble bundles/oreilly-unix/classicshellscripting.pdf]]
+* TODO Arnold # Robbins (2006): Unix In A Nutshell: A Desktop Quick Reference Covers GNU/Linux, Mac OS X and Solaris
+:PROPERTIES:
+:Custom_id: reading_robbins06:_unix_nutshell
+:END:
+[[file:/home/richard/humble bundles/oreilly-unix/unixinanutshell_4thedition.pdf]]
+* TODO Arnold Robbins and Elbert Hannah and Linda Lamb (2008): Learning the vi and Vim Editors
+:PROPERTIES:
+:Custom_id: reading_robbins08:_learn_vim_editor
+:END:
+[[file:/home/richard/humble bundles/oreilly-unix/learningtheviandvimeditors_7thedition.pdf]]
+* TODO Arnold Robbins (2016): Bash Pocket Reference: Help for Power Users and Sys Admins
+:PROPERTIES:
+:Custom_id: reading_robbins16:_bash_pocket_refer
+:END:
+[[file:/home/richard/humble bundles/oreilly-unix/bashpocketreference_2ndedition.pdf]]
+* TODO Chris Roberson (2016): Firewalk - A Novel
+:PROPERTIES:
+:Custom_id: reading_roberson16:_firew_novel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/firewalk.pdf]]
+* TODO Ian Robinson and Jim Webber and Emil Eifrem (2015): Graph Databases: New Opportunities for Connected Data
+:PROPERTIES:
+:Custom_id: reading_robinson15:_graph_datab
+:END:
+[[file:/home/richard/humble bundles/oreilly-data-science/graphdatabases.pdf]]
+* TODO Elisabeth Robson and Eric Freeman (2012): Head First HTML and CSS
+:PROPERTIES:
+:Custom_id: reading_robson12:_head_first_html_css
+:END:
+[[file:/home/richard/humble bundles/oreilly-headfirst/headfirsthtmlandcss.pdf]]
+* TODO Stewart Rogers (2008): Lessons From 100,000 Cold Calls
+:PROPERTIES:
+:Custom_id: reading_rogers08:_lesson_from_cold_calls
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/lessonsfrom100000coldcalls.pdf]]
+* TODO Mike Ryan and Federico Lucifredi (2018): AWS System Administration: Best Practices for Sysadmins in the Amazon Cloud
+:PROPERTIES:
+:Custom_id: reading_ryan18:_aws_system_admin
+:END:
+[[file:/home/richard/humble bundles/oreilly-devops/awssystemadministration.pdf]]
+* TODO Jeff Salyards (2012): Scourge of the Betrayer
+:PROPERTIES:
+:Custom_id: reading_salyards12:_scour_betray
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/scourgeofthebetrayer.pdf]]
+* TODO Jeff Salyards (2014): Veil of the Deserters
+:PROPERTIES:
+:Custom_id: reading_salyards14:_veil_deser
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/veilofthedeserters.pdf]]
+* TODO Jeff Salyards (2016): Chains of the Heretic
+:PROPERTIES:
+:Custom_id: reading_salyards16:_chain_heret
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/chainsoftheheretic.pdf]]
+* TODO John Scalzi (2005): Old Man's War
+:PROPERTIES:
+:Custom_id: reading_scalzi05:_old_mans_war
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB eBook Bundle 1/old_mans_war_-_john_scalzi.pdf]]
+* TODO Christopher Schmitt (2010): CSS Cookbook
+:PROPERTIES:
+:Custom_id: reading_schmitt10:_css_cookb
+:END:
+[[file:/home/richard/humble bundles/oreilly-prog-cookbooks/csscookbook.pdf]]
+* TODO Kathy Sierra and Bert Bates (2005): Head First Java
+:PROPERTIES:
+:Custom_id: reading_sierra05:_head_first_java
+:END:
+[[file:/home/richard/humble bundles/oreilly-headfirst/headfirstjava.pdf]]
+* TODO Robert Silverberg (2012): Blood on the Mink
+:PROPERTIES:
+:Custom_id: reading_silverberg12:_blood_mink
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/bloodonthemink.pdf]]
+* TODO David Sklar and Adam Trachtenberg (2014): PHP Cookbook: Solutions & Examples for PHP Programmers
+:PROPERTIES:
+:Custom_id: reading_sklar14:_php_cookb
+:END:
+[[file:/home/richard/humble bundles/oreilly-prog-cookbooks/phpcookbook.pdf]]
+* TODO Joseph D. Sloan (2001): Network Troubleshooting Tools
+:PROPERTIES:
+:Custom_id: reading_sloan01:_networ_troub_tools
+:END:
+[[file:/home/richard/humble bundles/oreilly-unix/networktroubleshootingtools.pdf]]
+* TODO Mickey Spillane and Max Allan Collins (2011): The Consummata
+:PROPERTIES:
+:Custom_id: reading_spillane11:_consum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/theconsummata.pdf]]
+* TODO Mickey Spillane and Max Allan Collins (2018): Mickey Spillane's Mike Hammer - The Night I Died
+:PROPERTIES:
+:Custom_id: reading_spillane18:_mickey_spill_mike_hammer_night_i_died
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/mikehammer.pdf]]
+* TODO Diane Stafford and Moritza Day (2004): 1000 Best Job Hunting Secrets - The Smart Job Seeker's Handbook
+:PROPERTIES:
+:Custom_id: reading_stafford04:_best_job_huntin_secret_smart
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/1000bestjobhuntingsecrets.pdf]]
+* TODO Tom Stafford and Matt Webb (2005): Mind Hacks: Tips and Tools for Using Your Brain
+:PROPERTIES:
+:Custom_id: reading_stafford05:_mind_hacks
+:END:
+[[file:/home/richard/humble bundles/oreilly-hacks/mindhacks.pdf]]
+* TODO Andrew Stellman and Jennifer Greene (2013): Head First C#
+:PROPERTIES:
+:Custom_id: reading_stellman13:_head_first_c
+:END:
+[[file:/home/richard/humble bundles/oreilly-headfirst/headfirstcsharp_ebook.pdf]]
+* TODO Andrew Stellman and Jennifer Greene (2017): Head First Agile
+:PROPERTIES:
+:Custom_id: reading_stellman17:_head_first_agile
+:END:
+[[file:/home/richard/humble bundles/oreilly-headfirst/headfirstagile_ebook.pdf]]
+* TODO Damien Stolarz (2005): Car PC Hacks: Tips and Tools for Geeking Your Ride
+:PROPERTIES:
+:Custom_id: reading_stolarz05:_car_pc_hacks
+:END:
+[[file:/home/richard/humble bundles/oreilly-hacks/carpchacks.pdf]]
+* TODO Ruth Suehle and Tom Callaway (2014): Raspberry Pi Hacks
+:PROPERTIES:
+:Custom_id: reading_suehle14:_raspb_pi_hacks
+:END:
+[[file:/home/richard/humble bundles/oreilly-hacks/raspberrypihacks.pdf]]
+* TODO Jason Swartz (2015): Learning Scala: Practical Functional Programming for the JVM
+:PROPERTIES:
+:Custom_id: reading_swartz15:_learn_scala
+:END:
+[[file:/home/richard/humble bundles/oreilly-functional-programming/learningscala.pdf]]
+* TODO Dave Taylor (2016): Learning Unix for OS X: Going Deep with the Terminal and Shell
+:PROPERTIES:
+:Custom_id: reading_taylor16:_learn_unix_os_x
+:END:
+[[file:/home/richard/humble bundles/oreilly-unix/learningunixforosx_2ndedition.pdf]]
+* TODO Paul Teetor (2011): R Cookbook
+:PROPERTIES:
+:Custom_id: reading_teetor11:_r_cookb
+:END:
+[[file:/home/richard/humble bundles/oreilly-prog-cookbooks/rcookbook.pdf]]
+* TODO Robert Bruce Thompson and Barbara Fritchman Thompson (2005): Astronomy Hacks: Tips and Tools for Observing the Night Sky
+:PROPERTIES:
+:Custom_id: reading_thompson05:_astron_hacks
+:END:
+[[file:/home/richard/humble bundles/oreilly-hacks/astronomyhacks.pdf]]
+* TODO Steve Parker (2011): Shell Scripting: Expert Recipes for Linux, Bash and More
+:PROPERTIES:
+:Custom_id: reading_parker11:_shell_scrip
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux by Wiley/shellscripting_expertrecipesforlinuxbashandmore.pdf]]
+* TODO Christopher Negus (2013): Ubuntu Linux Toolbox
+:PROPERTIES:
+:Custom_id: reading_negus13:_ubunt_linux_toolb
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux by Wiley/ubuntulinuxtoolbox_1000pluscommandsforpowerusers.pdf]]
+* TODO Jeff Duntemann (2009): Assembly Language: Step by Step Programming with Linux
+:PROPERTIES:
+:Custom_id: reading_duntemann09:_assem_languag
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux by Wiley/assemblylanguagestep-by-step_programmingwithlinux.pdf]]
