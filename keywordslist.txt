@@ -12,6 +12,7 @@ HB UI UX by Wiley
 HB Write Like A Writer
 HB Programmable Boards by Make
 HB Cosplay 2.0
+HB DevOps by Packt
 audible
 book group
 classic
@@ -21,6 +22,7 @@ computing
 crafts
 crime
 database
+devops
 dog
 emacs
 environment

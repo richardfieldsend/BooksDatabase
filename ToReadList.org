@@ -2200,3 +2200,83 @@
 :Custom_id: reading_harlan05:_winnin_inter_poker_dummies
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Games and Puzzles by Wiley/winningatinternetpoker.pdf]]
+* TODO Chetan Giridhar (2017): Automate It! Recipes to upskill your business
+:PROPERTIES:
+:Custom_id: reading_giridhar17:_autom_it
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/automateit.pdf]]
+* TODO Rafat Leszko (2017): Continuous Delivery with Docker and Jenkins
+:PROPERTIES:
+:Custom_id: reading_leszko17:_contin_deliv_docker_jenkin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/continuousdeliverywithdockerandjenkins.pdf]]
+* TODO Srdjan Grubor (2017): Deployment with Docker
+:PROPERTIES:
+:Custom_id: reading_grubor17:_deploy_docker
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/deploymentwithdocker.pdf]]
+* TODO Steven Armstrong (2016): DevOps for Networking
+:PROPERTIES:
+:Custom_id: reading_armstrong16:_devop_networ
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/devopsfornetworking.pdf]]
+* TODO Hideto Saito and Hui-Chuan Chloe Lee and Cheng-Yang Wu (2017): DevOps with Kubernetes
+:PROPERTIES:
+:Custom_id: reading_saito17:_devop_kuber
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/devopswithkubernetes.pdf]]
+* TODO Jaroslaw Krochmalski (2017): Docker and Kubernetes for Java Developers
+:PROPERTIES:
+:Custom_id: reading_krochmalski17:_docker_kuber_java_devel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/dockerandkubernetesforjavadevelopers.pdf]]
+* TODO Nathaniel Felsen (2017): Effective DevOps with AWS
+:PROPERTIES:
+:Custom_id: reading_felsen17:_effec_devop_aws
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/effectivedevopswithaws.pdf]]
+* TODO Jonathan Baier (2017): Getting Started with Kubernetes
+:PROPERTIES:
+:Custom_id: reading_baier17:_gettin_start_kuber
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/gettingstartedwithkubernetes_secondedition.pdf]]
+* TODO Nikhil Pathania (2017): Learning Continuous Integration with Jenkins
+:PROPERTIES:
+:Custom_id: reading_pathania17:_learn_contin_integ_jenkin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/learningcontinuousintegrationwithjenkins.pdf]]
+* TODO Jesse Keating (2017): Mastering Ansible
+:PROPERTIES:
+:Custom_id: reading_keating17:_master_ansib
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/masteringansible.pdf]]
+* TODO Russ McKendrick and Scott Gallagher (2017): Mastering Docker
+:PROPERTIES:
+:Custom_id: reading_mckendrick17:_master_docker
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/masteringdocker.pdf]]
+* TODO Gigi Sayfan (2017): Mastering Kubernetes
+:PROPERTIES:
+:Custom_id: reading_sayfan17:_master_kuber
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/masteringkubernetes.pdf]]
+* TODO Walter Bentley (2016): OpenStack Administration with Ansible 2
+:PROPERTIES:
+:Custom_id: reading_bentley16:_opens_admin_ansib
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/openstackadministrationwithansible2.pdf]]
+* TODO Abhishek Ratan (2017): Practical Network Automation
+:PROPERTIES:
+:Custom_id: reading_ratan17:_pract_networ_autom
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/practicalnetworkautomation.pdf]]
+* TODO John Arundel (2017): Puppet 5 - Beginner's Guide
+:PROPERTIES:
+:Custom_id: reading_arundel17:_puppet_begin_guide
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/puppet5beginnersguide.pdf]]
+* TODO Thomas Lee (2017): Windows Server 2016 Automation with Powershell Cookbook
+:PROPERTIES:
+:Custom_id: reading_lee17:_window_server_autom_power_cookb
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/windowsserver2016automationwithpowershellcookbook.pdf]]
