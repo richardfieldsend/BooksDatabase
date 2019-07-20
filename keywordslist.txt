@@ -1,45 +1,59 @@
+HB Comics Bundle Fan Faves and New Hits Dynamite
+HB Comics The Darkness
+HB Do-It-Yourself by Make
+HB Games and Puzzles by Wiley
+HB Linux Geek by No Starch
+HB Linux by Wiley
+HB Python 2019 Packt
+HB Secrets To Success Sourcebooks
+HB Survive Anything by Skyhorse
+HB Titan Doctor Who Comics 2018
+HB UI UX by Wiley
+HB Write Like A Writer
+HB Programmable Boards by Make
+HB Cosplay 2.0
+audible
 book group
+classic
 comedy
+comic
+computing
+crafts
+crime
+database
+dog
+emacs
+environment
+fantasy
 fiction
+games
 get things done
+hardware
 historical
+horror
+humble bundle
 kindle
+linux
 literary humour
+machine learning
 mathematics
+non-fiction
 paperback
+pdf
+perl
 philosophy
+politics
+programming
+puzzles
+python
 read
+reference
 religion
 science-fiction
-self improvement
-to read
-women's rights
 scripting
-computing
-linux
-reference
-non-fiction
-fantasy
-classic
-environment
-politics
-comic
-emacs
-programming
-pdf
-crafts
-dog
-crime
-pdf, computing
 security
-machine learning
-hardware
-perl
-python
-windows
-humble bundle
+self improvement
 sql
-database
-HB Secrets To Success Sourcebooks
-HB Write Like A Writer
-HB Linux by Wiley
+to read
+windows
+women's rights
