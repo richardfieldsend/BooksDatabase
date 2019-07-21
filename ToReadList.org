@@ -2280,3 +2280,98 @@
 :Custom_id: reading_lee17:_window_server_autom_power_cookb
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/windowsserver2016automationwithpowershellcookbook.pdf]]
+* TODO Ben H. Winters (2011): Bedbugs
+:PROPERTIES:
+:Custom_id: reading_winters11:_bedbug
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/bedbugs.pdf]]
+* TODO Brian McGackin (2011): Broetry - Poetry for Dudes
+:PROPERTIES:
+:Custom_id: reading_mcgackin11:_broet_poetr_dudes
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/broetry.pdf]]
+* TODO Robert Schnakenberg (2008): Christopher Walken A to Z - The Man, The Movies, The Legend
+:PROPERTIES:
+:Custom_id: reading_schnakenberg08:_chris_walken_z_man_movies_legen
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/christopherwalkenatoz.pdf]]
+* TODO Eric Smith (2013): The Geek's Guide  to Dating
+:PROPERTIES:
+:Custom_id: reading_smith13:_geeks_guide_datin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/geeksguidetodating.pdf]]
+* TODO Stephen H. Segal (2011): Geek Wisdom - The Sacred Teachings of Nerd Culture
+:PROPERTIES:
+:Custom_id: reading_segal11:_geek_wisdom_sacred_teach_nerd_cultur
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/geekwisdom.pdf]]
+* TODO Grady Hendrix (2014): Horrorstor
+:PROPERTIES:
+:Custom_id: reading_hendrix14:_horror
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/horrorstor.pdf]]
+* TODO Seth Grahame-Smith (2007): How To Survive A Horror Movie
+:PROPERTIES:
+:Custom_id: reading_grahame-smith07:_how_to_surviv_horror_movie
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/howtosurviveahorrormovie.pdf]]
+* TODO Paul Krueger (2016): Last Call at the Nightshade Lounge - A Novel of Magic and Mixology
+:PROPERTIES:
+:Custom_id: reading_krueger16:_last_call_night_loung_novel_magic_mixol
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/lastcallatthenightshadelounge.pdf]]
+* TODO Gabe Fajuri (2008): Mysterio's Encyclopedia of Magic and Conjuring
+:PROPERTIES:
+:Custom_id: reading_fajuri08:_myster_encyc_magic_conjur
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/mysteriosencyclopediaofmagic.pdf]]
+* TODO Kevin David Anderson and Sam Stall (2010): Night of the Living Trekkies
+:PROPERTIES:
+:Custom_id: reading_anderson10:_night_livin_trekk
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/nightofthelivingtrekkies.pdf]]
+* DONE Jane Austen and Seth Grahame-Smith (2009): Pride and Prejudice and Zombies - The Classic Regency Romance - Now with Ultraviolent Zombie Mayhem
+:PROPERTIES:
+:Custom_id: reading_austen09:_pride_prejud_zombies_class_regen
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/prideandprejudiceandzombies.pdf]]
+* TODO Steve Hockensmith (2011): Pride and Prejudice and Zombies - Dreadfully Ever After
+:PROPERTIES:
+:Custom_id: reading_hockensmith11:_pride_prejud_zombies_dread_ever_after
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/prideandprejudiceandzombies_dreadfullyeverafter.pdf]]
+* TODO Linda Rodriguez McRobbie (2017): Princesses Behaving Badly - Real Stories from History - Without the Fairy-Tale Endings
+:PROPERTIES:
+:Custom_id: reading_mcrobbie17:_princ_behav_badly_real_stories
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/princessesbehavingbadly.pdf]]
+* TODO Robert Schnakenberg (2010): Secret Lives of Great Filmmakers - What Your Teacher Never Told You About The World's Greatest Directors
+:PROPERTIES:
+:Custom_id: reading_schnakenberg10:_secret_lives_great_filmm_what
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/secretlivesofgreatfilmmakers.pdf]]
+* TODO Fred Van Lente (2017): Ten Dead Comedians
+:PROPERTIES:
+:Custom_id: reading_lente17:_ten_dead_comed
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/tendeadcomedians.pdf]]
+* TODO Robert Schnakenburg (2015): The Big Bad Book of Bill Murray - A Critical Appreciation of the World's Finest Actor
+:PROPERTIES:
+:Custom_id: reading_schnakenburg15:_big_bad_book_bill_murray
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/thebigbadbookofbillmurray.pdf]]
+* TODO Robert Schnakenburg (2008): The Encyclopedia of Shatnerica
+:PROPERTIES:
+:Custom_id: reading_schnakenburg08:_encyc_shatn
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/theencyclopediashatnerica.pdf]]
+* TODO E. B. Hudspeth (2013): The Resurrectionist - The Lost Work of Dr. Spencer Black
+:PROPERTIES:
+:Custom_id: reading_hudspeth13:_resur_lost_work_dr
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/theresurrectionist.pdf]]
+* TODO Ransom Riggs (2009): The Sherlock Holmes Handbook - The Methods and Mysteries of the World's Greatest Detective
+:PROPERTIES:
+:Custom_id: reading_riggs09:_sherl_holmes_handb_method_myster
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/thesherlockholmeshandbook.pdf]]
