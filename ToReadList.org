@@ -2515,3 +2515,68 @@
 :Custom_id: reading_mcqueen13:_ukulel_exerc_dummies
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/ukuleleexercisesfordummies.pdf]]
+* TODO Brock Craft (2013): Arduino Projects for Dummies
+:PROPERTIES:
+:Custom_id: reading_craft13:_arduin_projec_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DIY Electronics by Wiley/arduinoprojectsfordummies.pdf]]
+* TODO Carrie Anne Philbin (2017): Adventures in Raspberry Pi
+:PROPERTIES:
+:Custom_id: reading_philbin17:_adven_raspb_pi
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DIY Electronics by Wiley/adventuresinraspberrypi.pdf]]
+* TODO John Nussey (2013): Arduino for Dummies
+:PROPERTIES:
+:Custom_id: reading_nussey13:_arduin_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DIY Electronics by Wiley/arduinofordummies.pdf]]
+* TODO James A. Langbridge (2015): Arduino Sketches - Tools and Techniques for Programming Wizardry
+:PROPERTIES:
+:Custom_id: reading_langbridge15:_arduin_sketc_tools_techn_progr_wizar
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DIY Electronics by Wiley/arduinosketches.pdf]]
+* TODO Rui Santos and Luis Perestrelo (2015): BeagleBone for Dummies
+:PROPERTIES:
+:Custom_id: reading_santos15:_beagl_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DIY Electronics by Wiley/beaglebonefordummies.pdf]]
+* TODO Earl Boysen and Harry Kybett (2012): Complete Electronics Self-Teaching Guide with Projects
+:PROPERTIES:
+:Custom_id: reading_boysen12:_compl_elect_self_teach_guide_projec
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DIY Electronics by Wiley/completeelectronicsselfteachingguidewithprojects.pdf]]
+* TODO Cathleen Shamieh (2015): Electronics for Dummies
+:PROPERTIES:
+:Custom_id: reading_shamieh15:_elect_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DIY Electronics by Wiley/electronicsfordummies.pdf]]
+* TODO Jeremy Blum (2013): Exploring Arduino - Tools and Techniques for Engineering Wizardry
+:PROPERTIES:
+:Custom_id: reading_blum13:_explor_arduin_tools_techn_engin_wizar
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DIY Electronics by Wiley/exploringarduino.pdf]]
+* TODO Derek Molloy (2016): Exploring Raspberry Pi - Interfacing to the Real World with Embedded Linux
+:PROPERTIES:
+:Custom_id: reading_molloy16:_explor_raspb_pi_inter_real
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DIY Electronics by Wiley/exploringraspberrypi.pdf]]
+* TODO Alex Bradbury and Ben Everard (2014): Learning Python with Raspberry Pi
+:PROPERTIES:
+:Custom_id: reading_bradbury14:_learn_python_raspb_pi
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DIY Electronics by Wiley/learningpythonwithraspberrypi.pdf]]
+* TODO Andrew Robinson and Mike Cook and Jonathan Evans and Sean McManus (2014): Raspberry Pi Projects
+:PROPERTIES:
+:Custom_id: reading_robinson14:_raspb_pi_projec
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DIY Electronics by Wiley/raspberrypiprojects_robinson.pdf]]
+* TODO Mike Cook and Jonathan Evans and Brock Craft (2015): Raspberry Pi Projects for Dummies
+:PROPERTIES:
+:Custom_id: reading_cook15:_raspb_pi_projec_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DIY Electronics by Wiley/raspberrypiprojectsfordummies.pdf]]
+* TODO Eben Upton and Gareth Halfacree (2016): Raspberry Pi User Guide
+:PROPERTIES:
+:Custom_id: reading_upton16:_raspb_pi_user_guide
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DIY Electronics by Wiley/raspberrypiuserguide.pdf]]
