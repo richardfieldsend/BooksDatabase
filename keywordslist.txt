@@ -14,6 +14,7 @@ HB Programmable Boards by Make
 HB Cosplay 2.0
 HB DevOps by Packt
 HB Pop Culture Survival Guide by Quirk
+HB Learn to Play Music by Wiley
 audible
 book group
 classic
@@ -40,6 +41,7 @@ linux
 literary humour
 machine learning
 mathematics
+music
 non-fiction
 paperback
 pdf

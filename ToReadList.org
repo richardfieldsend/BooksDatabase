@@ -2450,3 +2450,68 @@
 :Custom_id: reading_farmer04:_weird_heroes_new_americ_pulp
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Classic SciFi and Audiobooks/weirdheros_vol1.pdf]]
+* TODO Patrick Pfeiffer (2014): Bass Guitar for Dummies
+:PROPERTIES:
+:Custom_id: reading_pfeiffer14:_bass_guitar_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/bassguitarfordummies.pdf]]
+* TODO Jon Chappell and Mark Phillips and Desi Serna (2014): Guitar All-in-One For Dummies
+:PROPERTIES:
+:Custom_id: reading_chappell14:_guitar_all_one_for_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/guitarall-in-onefordummies.pdf]]
+* TODO Mark Phillips and Jon Chappell (2009): Guitar Exercises for Dummies
+:PROPERTIES:
+:Custom_id: reading_phillips09:_guitar_exerc_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/guitarexercisesfordummies.pdf]]
+* TODO Desi Serna (2015): Guitar Rhythm & Technique for Dummies
+:PROPERTIES:
+:Custom_id: reading_serna15:_guitar_rhyth_techn_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/guitarrhythmandtechniquefordummies.pdf]]
+* TODO Desi Serna (2014): Guitar Theory for Dummies
+:PROPERTIES:
+:Custom_id: reading_serna14:_guitar_theor_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/guitartheoryfordummies.pdf]]
+* TODO Winslow Yerxa (2015): Harmonica for Dummies
+:PROPERTIES:
+:Custom_id: reading_yerxa15:_harmon_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/harmonicafordummies.pdf]]
+* TODO Jeff Strong (2014): Home Recording for Musicians for Dummies
+:PROPERTIES:
+:Custom_id: reading_strong14:_home_recor_music_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/homerecordingformusiciansfordummies.pdf]]
+* TODO Ryan C. Williams and Mike Levine (2015): iPad & iPhone for Musicians for Dummies
+:PROPERTIES:
+:Custom_id: reading_williams15:_music_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/ipadandiphoneformusiciansfordummies.pdf]]
+* TODO Michael Pilhofer and Holly Day (2015): Music Theory for Dummies
+:PROPERTIES:
+:Custom_id: reading_pilhofer15:_music_theor_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/musictheoryfordummies.pdf]]
+* TODO Adam Perlmutter (2014): Piano for Dummies
+:PROPERTIES:
+:Custom_id: reading_perlmutter14:_piano_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/pianofordummies.pdf]]
+* TODO Charles Kim (2012): Teach Yourself Visually Guitar - The Fast and Easy Way to Learn
+:PROPERTIES:
+:Custom_id: reading_kim12:_teach_yours_visual_guitar_fast
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/teachyourselfvisuallyguitar.pdf]]
+* TODO Mary Sue Taylor and Tere Stouffer (2006): Teach Yourself Visually Piano
+:PROPERTIES:
+:Custom_id: reading_taylor06:_teach_yours_visual_piano
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/teachyourselfvisuallypiano.pdf]]
+* TODO Brett McQueen and Alistair Wood (2013): Ukulele Exercises for Dummies
+:PROPERTIES:
+:Custom_id: reading_mcqueen13:_ukulel_exerc_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/ukuleleexercisesfordummies.pdf]]
