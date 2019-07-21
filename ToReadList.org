@@ -2375,3 +2375,78 @@
 :Custom_id: reading_riggs09:_sherl_holmes_handb_method_myster
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/thesherlockholmeshandbook.pdf]]
+* TODO Tanith Lee (1991): Black Unicorn
+:PROPERTIES:
+:Custom_id: reading_lee91:_black_unicor
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Classic SciFi and Audiobooks/blackunicorn.pdf]]
+* TODO Tad Williams and Nina Kiriki Hoffman (1992): Child of an Ancient City
+:PROPERTIES:
+:Custom_id: reading_williams92:_child_ancien_city
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Classic SciFi and Audiobooks/childofanancientcity.pdf]]
+* TODO Robert Silverberg (1990): Letters From Atlantis
+:PROPERTIES:
+:Custom_id: reading_silverberg90:_letter_from_atlan
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Classic SciFi and Audiobooks/lettersfromatlantis.pdf]]
+* TODO Roger Zelazny (2003): Madwand - The Sequelto Changeling
+:PROPERTIES:
+:Custom_id: reading_zelazny03:_madwan_sequel_chang
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Classic SciFi and Audiobooks/madwand.pdf]]
+* TODO Bruce Coville (2000): My Teacher Fried My Brains
+:PROPERTIES:
+:Custom_id: reading_coville00:_my_teach_fried_my_brain
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Classic SciFi and Audiobooks/myteacherfriedmybrains.pdf]]
+* TODO Bruce Coville (2000): My Teacher is an Alien
+:PROPERTIES:
+:Custom_id: reading_coville00:_my_teach_alien
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Classic SciFi and Audiobooks/myteacherisanalien.pdf]]
+* TODO Alfred Bester and Roger Zelazny (1998): Psycho Shop
+:PROPERTIES:
+:Custom_id: reading_bester98:_psych_shop
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Classic SciFi and Audiobooks/pyschoshop.pdf]]
+* TODO Louise Cooper (1991): The Sleep of Stone
+:PROPERTIES:
+:Custom_id: reading_cooper91:_sleep_stone
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Classic SciFi and Audiobooks/sleepofstone.pdf]]
+* TODO Isaac Asimov (1990): Robot Visions
+:PROPERTIES:
+:Custom_id: reading_asimov90:_robot_vision
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Classic SciFi and Audiobooks/robotvisions.pdf]]
+* TODO Roger Zelazny (2001): The Dream Master
+:PROPERTIES:
+:Custom_id: reading_zelazny01:_dream_master
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Classic SciFi and Audiobooks/thedreammaster.pdf]]
+* TODO Roger Zelazny (2002): The Last Defender of Camelot
+:PROPERTIES:
+:Custom_id: reading_zelazny02:_last_defen_camel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Classic SciFi and Audiobooks/thelastdefenderofcamelot.pdf]]
+* TODO Alfred Bester (1996): The Stars My Destination
+:PROPERTIES:
+:Custom_id: reading_bester96:_stars_my_destin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Classic SciFi and Audiobooks/thestarsmydestination.pdf]]
+* TODO Tanith Lee and Harlan Ellison and Robert Silverberg and Ursula K. Le Guin (1991): The Ultimate Dragon
+:PROPERTIES:
+:Custom_id: reading_lee91:_ultim_dragon
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Classic SciFi and Audiobooks/theultimatedragon.pdf]]
+* TODO Alfred Bester (1997): Virtual Unrealities - The Short Fiction of Alfred Bester
+:PROPERTIES:
+:Custom_id: reading_bester97:_virtual_unreal_short_fiction_alfred_bester
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Classic SciFi and Audiobooks/virtualunrealities.pdf]]
+* TODO Philip Jose Farmer and Ron Goulart and Archie Goodwin and Joann Kobin and Byron Preiss (2004): Weird Heroes - A New American Pulp!
+:PROPERTIES:
+:Custom_id: reading_farmer04:_weird_heroes_new_americ_pulp
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Classic SciFi and Audiobooks/weirdheros_vol1.pdf]]
