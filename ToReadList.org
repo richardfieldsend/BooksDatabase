@@ -2581,3 +2581,58 @@
 :Custom_id: reading_jernigan13:_no_retur
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/noreturn.pdf]]
+** TODO Patrick Di Justo and Emily Gertz (2013): Atmospheric Monitoring with Arduino
+:PROPERTIES:
+:Custom_id: reading_justo13:_atmos_monit_arduin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/atmosphericmonitoringwitharduino.pdf]]
+** TODO Roger Stewart (2015): The Best of Make: Volume 2
+:PROPERTIES:
+:Custom_id: reading_stewart15:_best_make
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/bestofmake_vol2_65projectsandskillbuilders.pdf]]
+** TODO Emily Gertz and Patrick Di Justo (2011): (No Title)
+:PROPERTIES:
+:Custom_id: reading_gertz11
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/environmentalmonitoringwitharduino.pdf]]
+** TODO David McGriffy (2017): Make: Drones - Teach an Arduino to Fly
+:PROPERTIES:
+:Custom_id: reading_mcgriffy17:_make_drones
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_drones.pdf]]
+** TODO Tim Deagan (2016): Make: Fire - The Art and Science of Working with Propane
+:PROPERTIES:
+:Custom_id: reading_deagan16:_make_fire
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_fire.pdf]]
+** TODO Mike Westerfield (2018): Make: High-Power Rockets - Construction and Certification for Thousands of Feet and Beyond
+:PROPERTIES:
+:Custom_id: reading_westerfield18:_make_high_power_rocket
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_highpowerrockets.pdf]]
+** TODO Caleb Kraft and  Keith Hammond (2017): Make: Volume 56
+:PROPERTIES:
+:Custom_id: reading_kraft17:_make_magazine
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_magazine_56.pdf]]
+** TODO Rick Schertle and James Floyd Kelly (2016): Make: Planes, Gliders and Paper Rockets
+:PROPERTIES:
+:Custom_id: reading_schertle16:_make_planes_gliders
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_planesglidersandpaperrockets.pdf]]
+** TODO Mike Westerfield (2014): Make: Rockets - Down-to-Earth Rocket Science
+:PROPERTIES:
+:Custom_id: reading_westerfield14:_make_rocket
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_rockets_downtoearthrocketscience.pdf]]
+** TODO Raymond E. Barrett and Windell H. Oskay (2015): Make: The Annotated Build-It-Yourself Science Laboratory
+:PROPERTIES:
+:Custom_id: reading_barrett15:_make_annota_build_scienc_labora
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_theannotatedbuild-it-yourselfsciencelaboratory.pdf]]
+** TODO Curt Gabrielson (2015): Make: Tinkering - Kids Learn by Making Stuff
+:PROPERTIES:
+:Custom_id: reading_gabrielson15:_make_tinker
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_tinkering_2ndedition.pdf]]
