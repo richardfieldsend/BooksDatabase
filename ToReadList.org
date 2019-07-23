@@ -2636,3 +2636,103 @@
 :Custom_id: reading_gabrielson15:_make_tinker
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_tinkering_2ndedition.pdf]]
+** TODO Foz Meadows (2016): An Accident of Stars
+:PROPERTIES:
+:Custom_id: reading_meadows16:_accid_stars
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/anaccidentofstars.pdf]]
+** TODO Dan Abnett (2011): Embedded
+:PROPERTIES:
+:Custom_id: reading_abnett11:_embed
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/embedded.pdf]]
+** TODO Anna Kashina (2014): Blades of the Old Empire
+:PROPERTIES:
+:Custom_id: reading_kashina14:_blades_old_empir
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/bladesoftheoldempire.pdf]]
+** TODO Christopher Hinz (2016): Binary Storm
+:PROPERTIES:
+:Custom_id: reading_hinz16:_binar_storm
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/binarystorm.pdf]]
+** TODO Keith Yatsuhashi (2016): Kojiki
+:PROPERTIES:
+:Custom_id: reading_yatsuhashi16:_kojik
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/kojiki.pdf]]
+** TODO Justin Gustainis (2011): Occult Crimes Unit - Book 1 - Hard Spell
+:PROPERTIES:
+:Custom_id: reading_gustainis11:_occul_crimes_unit_book_hard_spell
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/occultcrimesunit_book1_hardspell.pdf]]
+** TODO Justin Gustainis (2012): Occult Crimes Unit - Book 2 - Evil Dark
+:PROPERTIES:
+:Custom_id: reading_gustainis12:_occul_crimes_unit_book_evil_dark
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/occultcrimesunit_book2_evildark.pdf]]
+** TODO Justin Gustainis (2014): Occult Crimes Unit - Book 3 - Known Devil
+:PROPERTIES:
+:Custom_id: reading_gustainis14:_occul_crimes_unit_book_known_devil
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/occultcrimesunit_book3_knowndevil.pdf]]
+** TODO Jay Posey (2017): Outriders
+:PROPERTIES:
+:Custom_id: reading_posey17:_outrid
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/outriders.pdf]]
+** TODO Kaaron Warren (2009): Slights
+:PROPERTIES:
+:Custom_id: reading_warren09:_sligh
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/slights.pdf]]
+** TODO Megan E. O'Keefe (2016): Steal The Sky
+:PROPERTIES:
+:Custom_id: reading_okeefe16:_steal_sky
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/stealthesky.pdf]]
+** TODO Danielle L Jensen (2014): Stolen Songbird
+:PROPERTIES:
+:Custom_id: reading_jensen14:_stolen_songb
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/stolensongbird.pdf]]
+** TODO Carrie Patel (2015): The Buried Life
+:PROPERTIES:
+:Custom_id: reading_patel15:_buried_life
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/theburiedlife.pdf]]
+** TODO Peter McLean (2016): A Burned Man Book 1 - Drake
+:PROPERTIES:
+:Custom_id: reading_mclean16:_burned_man_book_drake
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/theburnedman_book1_drake.pdf]]
+** TODO Rod Duncan (2014): The Bullet Catcher's Daughter
+:PROPERTIES:
+:Custom_id: reading_duncan14:_bullet_catch_daugh
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/thefallofthegaslitempire_book1_thebulletcatchersdaughter.pdf]]
+** TODO Rod Duncan (2016): The Custodian of Marvels
+:PROPERTIES:
+:Custom_id: reading_duncan16:_custod_marvel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/thefallofthegaslitempire_book3_thecustodianofmarvels.pdf]]
+** TODO Rod Duncan (2015): Unseemly Science
+:PROPERTIES:
+:Custom_id: reading_duncan15:_unseem_scien
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/thefallofthegaslitempire_book2_unseemlyscience.pdf]]
+** TODO Wesley Chu (2013): The Lives of Tao
+:PROPERTIES:
+:Custom_id: reading_chu13:_lives_tao
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/thelivesoftao.pdf]]
+** TODO Ishbelle Bee (2015): The Singular and Extraordinary Tale of Mirror and Goliath
+:PROPERTIES:
+:Custom_id: reading_bee15:_singul_extraor_tale_mirror_goliat
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/thesingularandextraordinarytaleofmirrorandgoliath.pdf]]
+** TODO Peter Tieryas (2016): United States of Japan
+:PROPERTIES:
+:Custom_id: reading_tieryas16:_united_states_japan
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/unitedstatesofjapan.pdf]]
