@@ -2736,3 +2736,348 @@
 :Custom_id: reading_tieryas16:_united_states_japan
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/unitedstatesofjapan.pdf]]
+** TODO Andrew Wheeler (2017): Another Castle - Grimoire
+:PROPERTIES:
+:Custom_id: reading_wheeler17:_anoth_castl_grimoir
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/anothercastle_grimoire.pdf]]
+** TODO Kelly Sue DeConnick (2014): Bitch Planet
+:PROPERTIES:
+:Custom_id: reading_deconnick14:_bitch_planet
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/bitchplanet_vol1.pdf]]
+** TODO Liz Prince (2017): Coady and the Creepies
+:PROPERTIES:
+:Custom_id: reading_prince17:_coady_creep
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/coadyandthecreepies_vol1.pdf]]
+** TODO Rick Remender (2001): Deadly Class - 1987 Reagan Youth
+:PROPERTIES:
+:Custom_id: reading_remender01:_deadl_class_reagan_youth
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/deadlyclass_vol1.pdf]]
+** TODO Lynn Beighley (2017): Make: Geek Girl's Guide to Geek Women
+:PROPERTIES:
+:Custom_id: reading_beighley17:_make
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/geekgirlsguidetogeekwomen.pdf]]
+** TODO John Allison (2015): Giant Days - Volume 1
+:PROPERTIES:
+:Custom_id: reading_allison15:_giant_days_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/giantdays_vol1hq.pdf]]
+** TODO Hope Larson (2016): Goldie Vance - Volume 1
+:PROPERTIES:
+:Custom_id: reading_larson16:_goldie_vance_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/goldievance_vol1_2018_3_22.pdf]]
+** TODO Jen Van Meter (2010): Hopeless Savages - Greatest Hits
+:PROPERTIES:
+:Custom_id: reading_meter10:_hopel_savag_great_hits
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/hopelesssavages__greatesthits.pdf]]
+** TODO Kelly Thompson (2015): Jem and the Holograms - Volume 1
+:PROPERTIES:
+:Custom_id: reading_thompson15:_jem_holog_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/jemandtheholograms_vol1.pdf]]
+** TODO Sam Humphries and Caitlin Rose Boyle (2016): Jonesy - Volume 1
+:PROPERTIES:
+:Custom_id: reading_humphries16:_jones_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/jonesy_vol1hq.pdf]]
+** TODO Noelle Stevenson and Grace Ellis (2015): Lumberjanes - Beware the Kitten Holy
+:PROPERTIES:
+:Custom_id: reading_stevenson15:_lumber_bewar_kitten_holy
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/lumberjanes_vol1.pdf]]
+** TODO Kathryn Immonen and Stuart Immonen (2010): Moving Pictures
+:PROPERTIES:
+:Custom_id: reading_immonen10:_movin_pictur
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/movingpictures.pdf]]
+** TODO Brian K. Vaughan (2016): Paper Girls Volume 1
+:PROPERTIES:
+:Custom_id: reading_vaughan16:_paper_girls_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/papergirls_vol1.pdf]]
+** TODO Emi Lenox and Jeff Lemire (2016): Plutona Volume 1
+:PROPERTIES:
+:Custom_id: reading_lenox16:_pluton_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/plutona_vol1.pdf]]
+** TODO Kelly Sue Deconnick (2014): Pretty Deadly Volume 1 - The Shrike
+:PROPERTIES:
+:Custom_id: reading_deconnick14:_prett_deadl_volum_shrik
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/prettydeadly_vol1.pdf]]
+** TODO Pamela Ribon (2017): Slam Volume 1
+:PROPERTIES:
+:Custom_id: reading_ribon17:_slam_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/slam_vol1.pdf]]
+** TODO Jake Lawrence (2015): Teen Dog
+:PROPERTIES:
+:Custom_id: reading_lawrence15:_teen_dog
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/teendog_vol1.pdf]]
+** TODO Sams Maggs (2015): The Fangirls Guide to the Galaxy
+:PROPERTIES:
+:Custom_id: reading_maggs15:_fangir_guide_galax
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/thefangirlsguidetothegalaxy.pdf]]
+** TODO Hope Nicholson (2016): The Secret Loves of Geek Girls - Expanded Edition
+:PROPERTIES:
+:Custom_id: reading_nicholson16:_secret_loves_geek_girls_expan_edition
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/thesecretlovesofgeekgirls_expandededition.pdf]]
+** TODO Hope Nicholson (2017): The Spectacular Sisterhood of Superwomen
+:PROPERTIES:
+:Custom_id: reading_nicholson17:_spect_sister_super
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/thespectacularsisterhoodofsuperwomen.pdf]]
+** TODO Kevin Panetta (2016): Zodiac Starforce - By The Power of Astra
+:PROPERTIES:
+:Custom_id: reading_panetta16:_zodiac_starf_by_power_astra
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/zodiacstarforce_bythepowerofastra.pdf]]
+** TODO Gaston C. Hillar (2016): Building RESTful Python Web Services
+:PROPERTIES:
+:Custom_id: reading_hillar16:_build_restf_python_web_servic
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/buildingrestfulpythonwebservices.pdf]]
+** TODO Prateek Joshi (2017): Artificial Intelligence with Python
+:PROPERTIES:
+:Custom_id: reading_joshi17:_artif_intel_python
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/artificialintelligencewithpython.pdf]]
+** TODO Michal Jaworski and Tarek Ziade (2019): Expert Python Programming
+:PROPERTIES:
+:Custom_id: reading_jaworski19:_exper_python_progr
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/expertpythonprogramming.pdf]]
+** TODO Elliot Forbes (2017): Learning Concurrency in Python
+:PROPERTIES:
+:Custom_id: reading_forbes17:_learn_concur_python
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/learningconcurrencyinpython.pdf]]
+** TODO Lentin Joseph (2018): Learning Robotics using Python
+:PROPERTIES:
+:Custom_id: reading_joseph18:_learn_robot_python
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/learningroboticsusingpython.pdf]]
+** TODO Rick Van Hattem (2016): Mastering Python
+:PROPERTIES:
+:Custom_id: reading_hattem16:_master_python
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/masteringpython.pdf]]
+** TODO Steven F. Lott (2016): Modern Python Cookbook
+:PROPERTIES:
+:Custom_id: reading_lott16:_moder_python_cookb
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/modernpythoncookbook.pdf]]
+** TODO Ivan Idris (2016): Python Data Analysis Cookbook
+:PROPERTIES:
+:Custom_id: reading_idris16:_python_data_analy_cookb
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/pythondataanalysiscookbook.pdf]]
+** TODO Alberto Boschetti and Luca Massaron (2016): Python Data Science Essentials
+:PROPERTIES:
+:Custom_id: reading_boschetti16:_python_data_scien_essen
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/pythondatascienceessentials.pdf]]
+** TODO Benjamin Baka (2017): Python Date Structures and Algorithms
+:PROPERTIES:
+:Custom_id: reading_baka17:_python_date_struc_algor
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/pythondatastructuresandalgorithms.pdf]]
+** TODO Burkhard A. Meier (2017): Python GUI Programming Cookbook
+:PROPERTIES:
+:Custom_id: reading_meier17:_python_gui_progr_cookb
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/pythonguiprogrammingcookbook.pdf]]
+** TODO Sebastian Raschka (2016): Python Machine Learning
+:PROPERTIES:
+:Custom_id: reading_raschka16:_python_machin_learn
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/pythonmachinelearning.pdf]]
+** TODO Anand Balachandran Pillai (2017): Software Architecture with Python
+:PROPERTIES:
+:Custom_id: reading_pillai17:_softw_archit_python
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/softwarearchitecturewithpython.pdf]]
+** TODO Aidas Bendoraitis (2016): Web Development with Django Cookbook
+:PROPERTIES:
+:Custom_id: reading_bendoraitis16:_web_devel_djang_cookb
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/webdevelopmentwithdjangocookbook.pdf]]
+** TODO Arthur  Wyatt and Matt Smith (2015): Dredd - Urban Warfare
+:PROPERTIES:
+:Custom_id: reading_wyatt15:_dredd_urban_warfar
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/dredd_urbanwarfare.pdf]]
+** TODO John Wagner (2005): Judge Death - My Name is Death
+:PROPERTIES:
+:Custom_id: reading_wagner05:_judge_death_my_name_death
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedeath_mynameisdeath.pdf]]
+** TODO John Wagner (2012): Judge Dredd - America
+:PROPERTIES:
+:Custom_id: reading_wagner12:_judge_dredd_americ
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_america.pdf]]
+** TODO Matt Smith (2015): Judge Dredd - Anderson - Psi Division
+:PROPERTIES:
+:Custom_id: reading_smith15:_judge_dredd_ander_psi_divis
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_andersonpsidivision.pdf]]
+** TODO John Wagner and Alan Grant (2017): Judge Dredd - Cry of the Werewolf
+:PROPERTIES:
+:Custom_id: reading_wagner17:_judge_dredd_cry_werew
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_cryofthewerewolf.pdf]]
+** TODO John Wagner and Alan Grant (2010): Judge Dredd - The Complete Case Files 05
+:PROPERTIES:
+:Custom_id: reading_wagner10:_judge_dredd_compl_case_files
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_casefiles_vol5.pdf]]
+** TODO John McCrea (2017): Judge Dredd - Deviations
+:PROPERTIES:
+:Custom_id: reading_mccrea17:_judge_dredd_deviat
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_deviations.pdf]]
+** TODO John Wagner (2013): Judge Dredd - Day of Chaos: The Fourth Faction
+:PROPERTIES:
+:Custom_id: reading_wagner13:_judge_dredd_day_chaos
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_fourthfaction.pdf]]
+** TODO John Layman (2017): Judge Dredd - Funko Universe
+:PROPERTIES:
+:Custom_id: reading_layman17:_judge_dredd_funko_univer
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_funkouniverse.pdf]]
+** TODO Douglas Wolk (2014): Judge Dredd - Mega City Two: City of Courts
+:PROPERTIES:
+:Custom_id: reading_wolk14:_judge_dredd_mega_city_two
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_megacitytwo.pdf]]
+** TODO Andy Diggle and Rob Williams (2008): Judge Dredd - Mega-City Under Cover
+:PROPERTIES:
+:Custom_id: reading_diggle08:_judge_dredd_mega_city_under_cover
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_megacityundercover.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - Mega-City Zero
+:PROPERTIES:
+:Custom_id: reading_farinas17:_judge_dredd_mega_city_zero
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_megacityzero.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2016): Judge Dredd - Mega-City Zero Volume 1
+:PROPERTIES:
+:Custom_id: reading_farinas16:_judge_dredd_mega_city_zero_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_megacityzero_vol1.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2016): Judge Dredd - Mega-City Zero Volume 2
+:PROPERTIES:
+:Custom_id: reading_<new-entry16>
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_megacityzero_vol2.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - Mega-City Zero Volume 3
+:PROPERTIES:
+:Custom_id: reading_farinas17vol3:_judge_dredd_mega_city_zero_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_megacityzero_vol3.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - The Blessed Earth Issue 1
+:PROPERTIES:
+:Custom_id: reading_farinas17:_judge_dredd_bless_earth_issue
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_theblessedearth_issue1.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - The Blessed Earth Issue 1
+:PROPERTIES:
+:Custom_id: reading_farinas17iss1:_judge_dredd_bless_earth_issue1
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_theblessedearth_issue1.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - The Blessed Earth Issue 2
+:PROPERTIES:
+:Custom_id: reading_farinas17iss2:_judge_dredd_bless_earth_issue2
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_theblessedearth_issue2.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - The Blessed Earth Issue 4
+:PROPERTIES:
+:Custom_id: reading_farinas17iss4:_judge_dredd_bless_earth_issue4
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_theblessedearth_issue4.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - The Blessed Earth Issue 5
+:PROPERTIES:
+:Custom_id: reading_farinas17iss5:_judge_dredd_bless_earth_issue5
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_theblessedearth_issue5.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - The Blessed Earth Issue 6
+:PROPERTIES:
+:Custom_id: reading_farinas17iss6:_judge_dredd_bless_earth_issue6
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_theblessedearth_issue6.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - The Blessed Earth Issue 7
+:PROPERTIES:
+:Custom_id: reading_farinas17iss7:_judge_dredd_bless_earth_issue7
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_theblessedearth_issue7.pdf]]
+** TODO John Wagner and Alan Grant (2018): Judge Dredd - The Dark Judges
+:PROPERTIES:
+:Custom_id: reading_wagner18:_judge_dredd_dark_judges
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_thedarkjudges.pdf]]
+** TODO Duane Swierczynski (2013): Judge Dredd - Volume 1
+:PROPERTIES:
+:Custom_id: reading_swierczynski13:_judge_dredd_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol1.pdf]]
+** TODO Duane Swierczynski (2014): Judge Dredd - Volume 3
+:PROPERTIES:
+:Custom_id: reading_swierczynski14vol3:_judge_dredd_vol3
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol3.pdf]]
+** TODO Duane Swierczynski (2013): Judge Dredd - Volume 2
+:PROPERTIES:
+:Custom_id: reading_swierczynski13vol2:_judge_dredd_vol2
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol2.pdf]]
+** TODO Duane Swierczynski (2013): Judge Dredd - Volume 1
+:PROPERTIES:
+:Custom_id: reading_swierczynski13vol1:_judge_dredd_vol1
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol1.pdf]]
+** TODO Duane Swierczynski (2014): Judge Dredd - Volume 4
+:PROPERTIES:
+:Custom_id: reading_swierczynski14vol4:_judge_dredd_vol4
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol4.pdf]]
+** TODO Duane Swierczynski (2014): Judge Dredd - Volume 5
+:PROPERTIES:
+:Custom_id: reading_swierczynski14vol5:_judge_dredd_vol5
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol5.pdf]]
+** TODO Duane Swierczynski (2015): Judge Dredd - Volume 6
+:PROPERTIES:
+:Custom_id: reading_swierczynski15vol6:_judge_dredd_vol6
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol6.pdf]]
+** TODO Duane Swierczynski (2015): Judge Dredd - Volume 7
+:PROPERTIES:
+:Custom_id: reading_swierczynski15vol7:_judge_dredd_vol7
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol7.pdf]]
+** TODO Matt Smith (2013): Judge Dredd - Year One
+:PROPERTIES:
+:Custom_id: reading_smith13:_judge_dredd_year_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_yearone.pdf]]
+** TODO Al Ewing (2014): Mars Attacks vs. Judge Dredd
+:PROPERTIES:
+:Custom_id: reading_ewing14:_mars_attac
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/marsattacksvsjudgedredd.pdf]]
+** TODO John Wagner (2008): Judge Dredd - Origins
+:PROPERTIES:
+:Custom_id: reading_wagner08:_judge_dredd_origin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgederedd_origins.pdf]]

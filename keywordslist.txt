@@ -5,6 +5,7 @@ HB Games and Puzzles by Wiley
 HB Linux Geek by No Starch
 HB Linux by Wiley
 HB Python 2019 Packt
+HB Python by Packt
 HB Secrets To Success Sourcebooks
 HB Survive Anything by Skyhorse
 HB Titan Doctor Who Comics 2018
@@ -18,6 +19,8 @@ HB Learn to Play Music by Wiley
 HB DIY Electronics by Wiley
 HB Mad Scientist by Make
 HB Sci-fi and Fantasy by Angry Robot
+HB Geek Gals
+HB Judge Dredd by IDW and 2000AD
 audible
 book group
 classic
