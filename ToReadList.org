@@ -3081,3 +3081,128 @@
 :Custom_id: reading_wagner08:_judge_dredd_origin
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgederedd_origins.pdf]]
+** TODO Harlan Ellison (1979): I Have No Mouth & I Must Scream
+:PROPERTIES:
+:Custom_id: reading_ellison79:_i_have_no_mouth_i_must_scream
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/IHaveNoMouthandIMustScream_1407521522.pdf]]
+** TODO Robert R. McCammon (1987): Swan Song
+:PROPERTIES:
+:Custom_id: reading_mccammon87:_swan_song
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/SwanSong_1414538788.pdf]]
+** TODO Robert R. McCammon (1983): Boy's Life
+:PROPERTIES:
+:Custom_id: reading_mccammon83:_boys_life
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/boyslife.pdf]]
+** TODO Patricia C. Wrede (1987): Caught in Crystal - A Lyra Novel
+:PROPERTIES:
+:Custom_id: reading_wrede87:_caugh_cryst_lyra_novel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/caughtincrystal_book4ofthelyranovels.pdf]]
+** TODO Ursula K. Le Guin (2003): Changing Planes
+:PROPERTIES:
+:Custom_id: reading_guin03:_chang_planes
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/changingplanes.pdf]]
+** TODO Octavia E. Butler (2012): Clay's Ark
+:PROPERTIES:
+:Custom_id: reading_butler12:_clays_ark
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/claysark_book3ofseedtoharvest.pdf]]
+** TODO Patricia C. Wrede (1983): Daughter of Witches - A Lyra Novel
+:PROPERTIES:
+:Custom_id: reading_wrede83:_daugh_witch_lyra_novel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/daughterofthewitches_book2ofthelyranovels.pdf]]
+** TODO Elizabeth A. Lynn (1998): Dragon's Winter
+:PROPERTIES:
+:Custom_id: reading_lynn98:_dragon_winter
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/dragonswinter.pdf]]
+** TODO Greg Bear (1985): Eon
+:PROPERTIES:
+:Custom_id: reading_bear85:_eon
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/eon.pdf]]
+** TODO Elizabeth Briggs (2016): Future Shock
+:PROPERTIES:
+:Custom_id: reading_briggs16:_futur_shock
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/futureshock.pdf]]
+** TODO Octavia E. Butler (2012): Mind of my Mind
+:PROPERTIES:
+:Custom_id: reading_butler12:_mind_mind
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/mindofmymind_book2ofseedtoharvest.pdf]]
+** TODO Octavia E. Butler (2012): Patternmaster
+:PROPERTIES:
+:Custom_id: reading_butler12:_patter
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/patternmaster_book4ofseedtoharvest.pdf]]
+** TODO Karina Sumner-Smith (2014): Radiant
+:PROPERTIES:
+:Custom_id: reading_sumner-smith14:_radian
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/radiant_towersbook1.pdf]]
+** TODO Patricia C. Wrede (1994): The Raven Ring - A Lyra Novel
+:PROPERTIES:
+:Custom_id: reading_wrede94:_raven_ring_lyra_novel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/ravenring_book5ofthelyranovels.pdf]]
+** TODO Patricia C. Wrede (1982): Shadow Magic - A Lyra Novel
+:PROPERTIES:
+:Custom_id: reading_wrede82:_shadow_magic_lyra_novel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/shadowmagic_book1ofthelyranovels.pdf]]
+** TODO Timothy Zahn (2014): Soulminder
+:PROPERTIES:
+:Custom_id: reading_zahn14:_soulm
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/soulminder.pdf]]
+** TODO Simon R. Green (2014): Tales of the Hidden World Stories
+:PROPERTIES:
+:Custom_id: reading_green14:_tales_hidden_world_stories
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/talesofthehiddenworld.pdf]]
+** TODO R. A. MacAvoy (2014): The Book of Kells
+:PROPERTIES:
+:Custom_id: reading_macavoy14:_book_kells
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/thebookofkells.pdf]]
+** TODO Stanislaw Lem (1974): The Cyberiad
+:PROPERTIES:
+:Custom_id: reading_lem74:_cyber
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/thecyberiad.pdf]]
+** TODO Patricia C. Wrede (1985): The Harp of Imach Thyssel - A Lyra Novel
+:PROPERTIES:
+:Custom_id: reading_wrede85:_harp_imach_thyss_lyra_novel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/theharpofimachthyss_book3ofthelyranovels.pdf]]
+** TODO Robert R. McCammon (1989): The Wolf's Hour
+:PROPERTIES:
+:Custom_id: reading_mccammon89:_wolfs_hour
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/thewolfshour.pdf]]
+** TODO Poul Anderson (2015): Three Hearts and Three Lions
+:PROPERTIES:
+:Custom_id: reading_anderson15:_three_heart_three_lions
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/threeheartsandthreelions.pdf]]
+** TODO John Brunner (1981): To Conquer Chaos
+:PROPERTIES:
+:Custom_id: reading_brunner81:_to_conquer_chaos
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/toconquerchaos.pdf]]
+** TODO Octavia E. Butler (1980): Wild Seed
+:PROPERTIES:
+:Custom_id: reading_butler80:_wild_seed
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/wildseed.pdf]]
+** TODO Octavia E. Butler (2012): Wild Seed
+:PROPERTIES:
+:Custom_id: reading_butler12:_wild_seed
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/wildseed.pdf]]
