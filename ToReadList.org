@@ -3206,3 +3206,203 @@
 :Custom_id: reading_butler12:_wild_seed
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/wildseed.pdf]]
+** TODO Pete Goodliffe (2007): Code Craft - The Practice of Writing Excellent Code
+:PROPERTIES:
+:Custom_id: reading_goodliffe07:_code_craft_pract_writin_excel_code
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/codecraft.pdf]]
+** TODO Stephen A. Thomas (2015): Data Visualization with Javascript
+:PROPERTIES:
+:Custom_id: reading_thomas15:_data_visual_javas
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/datavisualizationwithjavascript.pdf]]
+** TODO Brandon Perry (2017): Gray Hat C# - A Hacker's Guide to Creating and Automating Security Tools
+:PROPERTIES:
+:Custom_id: reading_perry17:_gray_hat_c_hacker_guide
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/grayhatcsharp.pdf]]
+** TODO Conrad Barski (2011): Land of Lisp - Learn to Program in Lisp, One Game at a Time!
+:PROPERTIES:
+:Custom_id: reading_barski11:_land_lisp_learn_progr_lisp
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/landoflisp_learntoprgraminlisp.pdf]]
+** TODO Miran Lipovaca (2011): Learn You a Haskell for Great Good! - A Beginner's Guide
+:PROPERTIES:
+:Custom_id: reading_lipovaca11:_learn_you_haskel_great_good
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/learnyouahaskellforgreatgood.pdf]]
+** TODO Fred Hebert (2013): Learn You Some Erlang for Great Good! - A Beginner's Guide
+:PROPERTIES:
+:Custom_id: reading_hebert13:_learn_you_some_erlan_great_good
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/learnyousomeerlangforgreatgood.pdf]]
+** TODO Forrest Bice and Rose DeMaio and Spencer Florence and Feng-Yun Mimi Lin and Scott Lindeman and Nicole Nussbaum and Eric Peterson and Ryan Van Horn (2013): Learn to Program, One Game at a Time!
+:PROPERTIES:
+:Custom_id: reading_bice13:_learn_progr_one_game_time
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/realmofracket_learntoprogram.pdf]]
+** TODO Forrest Bice and Rose DeMaio and Spencer Florence and Feng-Yun Mimi Lin and Scott Lindeman and Nicole Nussbaum and Eric Peterson and Ryan Van Horn (2013): Realm of Racket - Learn to Program, One Game at a Time!
+:PROPERTIES:
+:Custom_id: reading_bice13:_realm_racket_learn_progr_one_game_time
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/realmofracket_learntoprogram.pdf]]
+** TODO Pat Shaughnessy (2014): Ruby Under a Microscope - An Illustrated Guide to Ruby Internals
+:PROPERTIES:
+:Custom_id: reading_shaughnessy14:_ruby_under_micros_illus_guide_ruby_inter
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/rubyunderamicroscope.pdf]]
+** TODO Bryson Payne (2015): Teach Your Kidn To Code - A Parent-Friendly Guide To Python Programming
+:PROPERTIES:
+:Custom_id: reading_payne15:_teach_your_kidn_to_code
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/teachyourkidstocode_1490913058.pdf]]
+** TODO Randall Hyde (2010): The Art of Assembly Language
+:PROPERTIES:
+:Custom_id: reading_hyde10:_art_assem_languag
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/theartofassemblylanguage.pdf]]
+** TODO Norman Matloff and Peter Jay Salzman (2008): The Art of Debugging with GDB, DDD and Eclipse
+:PROPERTIES:
+:Custom_id: reading_matloff8coder:_art_debug_gdb_ddd_eclip
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/theartofdebugging.pdf]]
+** TODO Norman Matloff (2011): The Art of R Programming
+:PROPERTIES:
+:Custom_id: reading_matloff11:_art_r_progr
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/theartofrprogramming.pdf]]
+** TODO Tilman M. Davies (2016): The Book of R - A First Course in Programming and Statistics
+:PROPERTIES:
+:Custom_id: reading_davies16:_book_r_first_cours_progr_statis
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/thebookofr.pdf]]
+** TODO William E. Shotts (2012): The Linux Command Line - A Complete Introduction
+:PROPERTIES:
+:Custom_id: reading_shotts12:_linux_comman_line_compl_introd
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/thelinuxcommandline.pdf]]
+** TODO V. Anton Spraul (2012): Think Like A Programmer - An Introduction to Creative Problem Solving
+:PROPERTIES:
+:Custom_id: reading_spraul12:_think_like_progr_introd_creat_probl_solvin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/thinklikeaprogrammer.pdf]]
+** TODO Nicholas C. Zakas (2016): Understanding ECMAScript 6 - The Definitive Guide for Javascript Developers
+:PROPERTIES:
+:Custom_id: reading_zakas16:_under_ecmas_defin_guide_javas_devel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/understandingecmascript6.pdf]]
+** TODO Dave Taylor and Brandon Perry (2017): Wicked Cool Shell Scripts - 101 Scripts for Linux, OS X and Unix Systems
+:PROPERTIES:
+:Custom_id: reading_taylor17:_wicked_cool_shell_scrip_scrip
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/wickedcoolshellscripts.pdf]]
+** TODO Peter Watts (2013): Beyond The Rift
+:PROPERTIES:
+:Custom_id: reading_watts13:_beyon_rift
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/beyondtherift.pdf]]
+** TODO Cory Doctorow (2011): Context - Further Selected Essays on Productivity, Creativity, Parenting and Politics in the 21st Century
+:PROPERTIES:
+:Custom_id: reading_doctorow11:_contex_furth_selec_essay_produc
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/context_furtherselectedessaysinthe21stcentury.pdf]]
+** TODO Lavie Tidhar (2016): Central Station
+:PROPERTIES:
+:Custom_id: reading_tidhar16:_centr_station
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/centralstation.pdf]]
+** TODO Stephen King and Peter Straub and Clive Barker and Neil Gaiman and Poppy Z. Brite and Dan Simmons and George R.R. Martin and Kelly Link (2010): Darkness - Two Decades of Modern Horror
+:PROPERTIES:
+:Custom_id: reading_king10:_darkn_two_decad_moder_horror
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/darkness_twodecadesofmodernhorror.pdf]]
+** TODO Nalo Hopkinson (2015): Falling in Love with Hominids
+:PROPERTIES:
+:Custom_id: reading_hopkinson15:_fallin_love_homin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/fallinginlovewithhominids.pdf]]
+** TODO Joe R. Lansdale (2017): Hap and Leonard - Blood and Lemonade
+:PROPERTIES:
+:Custom_id: reading_lansdale17:_hap_leonar_blood_lemon
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/hapandleonard_bloodandlemonade.pdf]]
+** TODO Joe R. Lansdale (2016): Hap and Leonard - Ride Again
+:PROPERTIES:
+:Custom_id: reading_lansdale16:_hap_leonar_ride_again
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/hapandleonardrideagain.pdf]]
+** TODO Peter S. Beagle (2017): In Calabria
+:PROPERTIES:
+:Custom_id: reading_beagle17:_in_calab
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/incalabria.pdf]]
+** TODO Junot Diaz and Katherine Dunn and Jonathan Lethem and George Saunders and Steven Millhauser and Amiri Baraka and W. P. Kinsella and Jami Attenberg and Robert Olen Butler and Deji Bryce Olukotun and Rivka Galchen and Jim Shepard and Molly Gloss and Max Apple (2016): Invaders - 22 Tales From The Outer Limits of Literature
+:PROPERTIES:
+:Custom_id: reading_diaz16:_invad_tales_from_outer_limit_liter
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/invaders.pdf]]
+** TODO Kelley Armstrong (2015): Led Astray - The Best of Kelley Armstrong
+:PROPERTIES:
+:Custom_id: reading_armstrong15:_led_astray_best_kelley_armst
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/ledastray_thebestofkelleyarmstrong.pdf]]
+** TODO Michael Swanwick (2016): Not So Much Said The Cat
+:PROPERTIES:
+:Custom_id: reading_swanwick16:_not_so_much_said_cat
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/notsomuchsaidthecat.pdf]]
+** TODO Bruce Sterling (2016): Pirate Utopia
+:PROPERTIES:
+:Custom_id: reading_sterling16:_pirat_utopia
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/pirateutopia.pdf]]
+** TODO Cory Doctorow and Bruce Sterling and William Gibson and Gwyneth Jones and Jonathan Lethem and Charles Stross and Michael Swanwick and Walter Jon Williams and Pat Cadigan and Greg Egan and Paolo Bacigalupi and Paul Di Filippo and Elizabeth Bear and David Marusek and Christopher Rowe and Mary Rosenblum (2007): Rewired - The Post-Cyberpunk Anthology
+:PROPERTIES:
+:Custom_id: reading_doctorow07:_rewir_post_cyber_anthol
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/rewired_thepostcyberpunkanthology.pdf]]
+** TODO Alastair Reynolds (2015): Slow Bullets
+:PROPERTIES:
+:Custom_id: reading_reynolds15:_slow_bullet
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/slowbullets.pdf]]
+** TODO William Gibson and Stephen Baxter and Margo Lanagan and Caitlin R. Kiernan and Jake Von Slatt and Cherie Priest and Gail Carriger and Daniel Abraham and Catherynne M. Valente and Ramona Szczerba (2010): Steampunk II - Steampunk Reloaded
+:PROPERTIES:
+:Custom_id: reading_gibson10:_steam_ii_steam_reload
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/steampunk2_steampunkreloaded.pdf]]
+** TODO Peter S. Beagle and Jacob Weisman (2017): The New Voices of Fantasy
+:PROPERTIES:
+:Custom_id: reading_beagle17:_new_voices_fantas
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/thenewvoicesoffantasy.pdf]]
+** TODO Jeff Vandermeer (2010): The Third Bear
+:PROPERTIES:
+:Custom_id: reading_vandermeer10:_third_bear
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/thethirdbear.pdf]]
+** TODO Kate Elliott (2015): The Very Best of Kate Elliott
+:PROPERTIES:
+:Custom_id: reading_elliott15:_very_best_kate_elliot
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/theverybestofkateelliott.pdf]]
+** TODO Tad Williams (2014): The Very Best of Tad Williams
+:PROPERTIES:
+:Custom_id: reading_williams14:_very_best_tad_william
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/theverybestoftadwilliams.pdf]]
+** TODO Ellen Klages (2017): Wicked Wonders
+:PROPERTIES:
+:Custom_id: reading_klages17:_wicked_wonder
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/wickedwonders.pdf]]
+** TODO Patricia A. McKillip (2012): Wonders of the Invisible World
+:PROPERTIES:
+:Custom_id: reading_mckillip12:_wonder_invis_world
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/wondersoftheinvisibleworld.pdf]]
+** TODO Nancy Kress (2014): Yesterday's Kin
+:PROPERTIES:
+:Custom_id: reading_kress14:_yester_kin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/yesterdayskin.pdf]]
