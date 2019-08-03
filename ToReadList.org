@@ -3631,3 +3631,88 @@
 :Custom_id: reading_jernigan13:_no_retur
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/noreturn.pdf]]
+** TODO Glen Cook (2006): A Cruel Wind
+:PROPERTIES:
+:Custom_id: reading_cook06:_cruel_wind
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/acruelwind.pdf]]
+** TODO Ellen Datlow (2008): The Best Horror of the Year - Volume One
+:PROPERTIES:
+:Custom_id: reading_datlow08:_best_horror_year_volum_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/besthorroroftheyear_vol1.pdf]]
+** TODO Neil Clarke (2017): The Best Science Fiction of the Year - Volume Two
+:PROPERTIES:
+:Custom_id: reading_clarke17:_best_scien_fiction_year_volum_two
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/bestsciencefictionoftheyear_vol2.pdf]]
+** TODO Paula Guran (2016): Beyond The Woods - Fairy Tales Retold
+:PROPERTIES:
+:Custom_id: reading_guran16:_beyon_woods_fairy_tales_retol
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/beyondthewoods.pdf]]
+** TODO John Joseph Adams (2011): Brave New Worlds - Dystopian Stories
+:PROPERTIES:
+:Custom_id: reading_adams11:_brave_new_world_dystop_stories
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/bravenewworlds2ndedition.pdf]]
+** TODO Michael J. Martinez (????): The Daedalus Incident
+:PROPERTIES:
+:Custom_id: reading_martinez:_daedal_incid
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/daedalusincident.pdf]]
+** TODO Martha Wells (2016): The Edge of Worlds
+:PROPERTIES:
+:Custom_id: reading_wells16:_edge_world
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/edgeofworlds.pdf]]
+** TODO Jeremy Robert Johnson (2017): Entropy in Bloom
+:PROPERTIES:
+:Custom_id: reading_johnson17:_entrop_bloom
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/entropyinbloom.pdf]]
+** TODO Rick Wilber (2014): Field of Fantasies - Baseball Stories of the Strange and Supernatural
+:PROPERTIES:
+:Custom_id: reading_wilber14:_field_fantas_baseb_stories_stran_super
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/fieldoffantasies.pdf]]
+** TODO Neil Clarke (2017): Galactic Empires
+:PROPERTIES:
+:Custom_id: reading_clarke17:_galac_empir
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/galacticempires.pdf]]
+** TODO Will McIntosh (2012): Hitchers
+:PROPERTIES:
+:Custom_id: reading_mcintosh12:_hitch
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/hitchers.pdf]]
+** TODO Nick Mamatas (2016): I Am Providence
+:PROPERTIES:
+:Custom_id: reading_mamatas16:_i_am_provid
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/iamprovidence.pdf]]
+** TODO Jodi Taylor (2013): Just One Damned Thing After Another - The Chronicles of St. Mary's - Book One
+:PROPERTIES:
+:Custom_id: reading_taylor13:_just_one_damned_thing_after
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/justonedamnedthingafteranother.pdf]]
+** TODO John Joseph Adams (2012): Other Worlds Than These - Stories of Parallel Worlds
+:PROPERTIES:
+:Custom_id: reading_adams12:_other_world_than_these_stories_paral_world
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/otherworldsthanthese.pdf]]
+** DONE Pete Rawlik (2016): Reanimatrix - An Arkham Romance
+:PROPERTIES:
+:Custom_id: reading_rawlik16:_reanim_arkham_roman
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/reanimatrix.pdf]]
+** TODO John Hornor Jacobs (2011): Southern Gods
+:PROPERTIES:
+:Custom_id: reading_jacobs11:_south_gods
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/southerngods.pdf]]
+** TODO Logan J. Hunder (2015): Witches Be Crazy
+:PROPERTIES:
+:Custom_id: reading_hunder15:_witch_be_crazy
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/witchesbecrazy.pdf]]
