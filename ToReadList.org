@@ -34,10 +34,20 @@
 :Custom_id: reading_frisch02:_essen_system_admin
 :END:
 [[file:/home/richard/humble bundles/oreilly-unix/essentialsystemadministration_3rdedition.pdf]]
+** TODO Aidas Bendoraitis (2016): Web Development with Django Cookbook
+:PROPERTIES:
+:Custom_id: reading_bendoraitis16:_web_devel_djang_cookb
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/webdevelopmentwithdjangocookbook.pdf]]
 ** TODO AJ Winters (2015): The Motivation Switch: 77 Ways to Get Motivated, Avoid Procrastination, and Achieve Success
 :PROPERTIES:
 :Custom_id: reading_winters15:_motiv_switc
 :END:
+** TODO Al Ewing (2014): Mars Attacks vs. Judge Dredd
+:PROPERTIES:
+:Custom_id: reading_ewing14:_mars_attac
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/marsattacksvsjudgedredd.pdf]]
 ** TODO Al Ritter (2010): The 100/0 Principle - The Secret of Great Relationships
 :PROPERTIES:
 :Custom_id: reading_ritter10:_princ_secret_great_relat
@@ -58,6 +68,21 @@
 :Custom_id: reading_moore11:_vampir_maste_vol4
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Comics Bundle Dynamite/vampirellamasterseries_vol4.pdf]]
+** TODO Alastair Reynolds (2015): Slow Bullets
+:PROPERTIES:
+:Custom_id: reading_reynolds15:_slow_bullet
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/slowbullets.pdf]]
+** TODO Alberto Boschetti and Luca Massaron (2016): Python Data Science Essentials
+:PROPERTIES:
+:Custom_id: reading_boschetti16:_python_data_scien_essen
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/pythondatascienceessentials.pdf]]
+** TODO Alejandro Cremades (2016): The Art of Startup Fundraising
+:PROPERTIES:
+:Custom_id: reading_cremades16:_art_start_fundr
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start a Startup by Wiley/theartofstartupfundraising.pdf]]
 ** TODO Alex Banks and Eve Porcello (2017): Learning React - Functional Web Development with React and Redux
 :PROPERTIES:
 :Custom_id: reading_banks17:_learn_react_funct_web_devel_react_redux
@@ -68,6 +93,11 @@
 :Custom_id: reading_bradbury14:_learn_python_raspb_pi
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DIY Electronics by Wiley/learningpythonwithraspberrypi.pdf]]
+** TODO Alex Cowan (2012): Starting a Tech Business - A Practical Guide for Anyone Creating or Designing Applications or Software
+:PROPERTIES:
+:Custom_id: reading_cowan12:_start_tech_busin_pract_guide
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start a Startup by Wiley/startingatechbusiness.pdf]]
 ** TODO Alexey Spizhevoy and Aleksandr Rybnikov (2018): OpenCV 3 Computer Vision with Python Cookbook
 :PROPERTIES:
 :Custom_id: reading_spizhevoy18:_openc_comput_vision_python_cookb
@@ -123,6 +153,11 @@
 :Custom_id: reading_saha15:_doing_math_python
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux Geek by No Starch/doingmathwithpython.pdf]]
+** TODO Anand Balachandran Pillai (2017): Software Architecture with Python
+:PROPERTIES:
+:Custom_id: reading_pillai17:_softw_archit_python
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/softwarearchitecturewithpython.pdf]]
 ** TODO Andreas C. Muller and Sarah Guido (2017): Introduction to Machine Learning with Python: A Guide for Data Scientists
 :PROPERTIES:
 :Custom_id: reading_muller17:_introd_machin_learn_python
@@ -153,6 +188,16 @@
 :Custom_id: reading_stellman17:_head_first_agile
 :END:
 [[file:/home/richard/humble bundles/oreilly-headfirst/headfirstagile_ebook.pdf]]
+** TODO Andrew Wheeler (2017): Another Castle - Grimoire
+:PROPERTIES:
+:Custom_id: reading_wheeler17:_anoth_castl_grimoir
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/anothercastle_grimoire.pdf]]
+** TODO Andy Diggle and Rob Williams (2008): Judge Dredd - Mega-City Under Cover
+:PROPERTIES:
+:Custom_id: reading_diggle08:_judge_dredd_mega_city_under_cover
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_megacityundercover.pdf]]
 ** TODO Andy Lightbody (2017): The Terrorism Survival Guide: 201 Travel Tips on How Not to Become a Victim
 :PROPERTIES:
 :Custom_id: reading_lightbody17:_terror_surviv_guide
@@ -162,6 +207,16 @@
 :PROPERTIES:
 :Custom_id: reading_young14:_wife_no
 :END:
+** TODO Anna Kashina (2014): Blades of the Old Empire
+:PROPERTIES:
+:Custom_id: reading_kashina14:_blades_old_empir
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/bladesoftheoldempire.pdf]]
+** TODO Anna Kennedy (2015): Business Development for Dummies
+:PROPERTIES:
+:Custom_id: reading_kennedy15:_busin_devel_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start a Startup by Wiley/businessdevelopmentfordummies.pdf]]
 ** TODO Anthony Molinaro (2006): SQL Cookbook
 :PROPERTIES:
 :Custom_id: reading_molinaro06:_sql_cookb
@@ -202,6 +257,16 @@
 :Custom_id: reading_robbins05:_class_shell_scrip
 :END:
 [[file:/home/richard/humble bundles/oreilly-unix/classicshellscripting.pdf]]
+** TODO Arthur  Wyatt and Matt Smith (2015): Dredd - Urban Warfare
+:PROPERTIES:
+:Custom_id: reading_wyatt15:_dredd_urban_warfar
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/dredd_urbanwarfare.pdf]]
+** TODO Ashley Victoria Robinson (2015): Apollo IX - Issue 1
+:PROPERTIES:
+:Custom_id: reading_robinson15:_apoll_ix_issue
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/apolloix_issue1.pdf]]
 ** TODO Barry Davies (2012): Modern Survival: How To Cope When Everything Falls Apart
 :PROPERTIES:
 :Custom_id: reading_davies12:_moder_surviv
@@ -226,6 +291,16 @@
 :Custom_id: reading_simonds13:_blend_master_class
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux Geek by No Starch/blendermasterclass.pdf]]
+** TODO Benjamin Baka (2017): Python Date Structures and Algorithms
+:PROPERTIES:
+:Custom_id: reading_baka17:_python_date_struc_algor
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/pythondatastructuresandalgorithms.pdf]]
+** TODO Bill Aulet (2013): Disciplined Entrepreneurship
+:PROPERTIES:
+:Custom_id: reading_aulet13:_discip_entrep
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start a Startup by Wiley/disciplinedentrepreneurship.pdf]]
 ** TODO Bill Havanki (2017): Moving Hadoop to the Cloud - Harnessing Cloud Features and Flexibility for Hadoop Clusters
 :PROPERTIES:
 :Custom_id: reading_havanki17:_movin_hadoop_cloud_harnes_cloud
@@ -251,6 +326,11 @@
 :Custom_id: reading_eisenman18:_learn_react_nativ_build_nativ
 :END:
 [[file:/home/richard/humble bundles/oreilly-webdesign-development/learningreactnative.pdf]]
+** TODO Brandon Perry (2017): Gray Hat C# - A Hacker's Guide to Creating and Automating Security Tools
+:PROPERTIES:
+:Custom_id: reading_perry17:_gray_hat_c_hacker_guide
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/grayhatcsharp.pdf]]
 ** TODO Brendan Burns (2018): Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services
 :PROPERTIES:
 :Custom_id: reading_burns18:_desig_distr_system
@@ -286,6 +366,11 @@
 :Custom_id: reading_brazil18:_promet_up_runnin_infras_and
 :END:
 [[file:/home/richard/humble bundles/oreilly-devops/prometheus_upandrunning.pdf]]
+** TODO Brian K. Vaughan (2016): Paper Girls Volume 1
+:PROPERTIES:
+:Custom_id: reading_vaughan16:_paper_girls_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/papergirls_vol1.pdf]]
 ** TODO Brian McGackin (2011): Broetry - Poetry for Dudes
 :PROPERTIES:
 :Custom_id: reading_mcgackin11:_broet_poetr_dudes
@@ -331,11 +416,31 @@
 :Custom_id: reading_frey06:_statis_hack
 :END:
 [[file:/home/richard/humble bundles/oreilly-hacks/statisticshacks.pdf]]
+** TODO Bruce Sterling (2016): Pirate Utopia
+:PROPERTIES:
+:Custom_id: reading_sterling16:_pirat_utopia
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/pirateutopia.pdf]]
 ** TODO Bryan O'Sullivan and John Goerzen and Don Stewart (2009): Real World Haskell
 :PROPERTIES:
 :Custom_id: reading_osullivan09:_real_world_haskel
 :END:
 [[file:/home/richard/humble bundles/oreilly-functional-programming/realworldhaskell.pdf]]
+** TODO Bryson Payne (2015): Teach Your Kidn To Code - A Parent-Friendly Guide To Python Programming
+:PROPERTIES:
+:Custom_id: reading_payne15:_teach_your_kidn_to_code
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/teachyourkidstocode_1490913058.pdf]]
+** TODO Burkhard A. Meier (2017): Python GUI Programming Cookbook
+:PROPERTIES:
+:Custom_id: reading_meier17:_python_gui_progr_cookb
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/pythonguiprogrammingcookbook.pdf]]
+** TODO Caleb Kraft and  Keith Hammond (2017): Make: Volume 56
+:PROPERTIES:
+:Custom_id: reading_kraft17:_make_magazine
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_magazine_56.pdf]]
 ** TODO Cameron Newham and Bill Rosenblatt (2005): Learning the bash Shell
 :PROPERTIES:
 :Custom_id: reading_newham05:_learn_shell
@@ -360,6 +465,11 @@
 :Custom_id: reading_philbin17:_adven_raspb_pi
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DIY Electronics by Wiley/adventuresinraspberrypi.pdf]]
+** TODO Carrie Patel (2015): The Buried Life
+:PROPERTIES:
+:Custom_id: reading_patel15:_buried_life
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/theburiedlife.pdf]]
 ** TODO Cathleen Shamieh (2015): Electronics for Dummies
 :PROPERTIES:
 :Custom_id: reading_shamieh15:_elect_dummies
@@ -455,6 +565,11 @@
 :Custom_id: reading_faust17:_peepl
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/peepland.pdf]]
+** TODO Christopher Hinz (2016): Binary Storm
+:PROPERTIES:
+:Custom_id: reading_hinz16:_binar_storm
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/binarystorm.pdf]]
 ** TODO Christopher Negus (2013): Ubuntu Linux Toolbox
 :PROPERTIES:
 :Custom_id: reading_negus13:_ubunt_linux_toolb
@@ -490,16 +605,31 @@
 :Custom_id: reading_sell07:_cup_comfor_writer_inspir
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Write Like A Writer/cupofcomfortforwriters.pdf]]
+** TODO Conrad Barski (2011): Land of Lisp - Learn to Program in Lisp, One Game at a Time!
+:PROPERTIES:
+:Custom_id: reading_barski11:_land_lisp_learn_progr_lisp
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/landoflisp_learntoprgraminlisp.pdf]]
 ** TODO Corey Sandler and Janice Keefe (2004): 1001 Letters For All Occasions
 :PROPERTIES:
 :Custom_id: reading_sandler04:_letter_for_all_occas
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Write Like A Writer/1001lettersforalloccasions.pdf]]
+** TODO Cory Doctorow (2011): Context - Further Selected Essays on Productivity, Creativity, Parenting and Politics in the 21st Century
+:PROPERTIES:
+:Custom_id: reading_doctorow11:_contex_furth_selec_essay_produc
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/context_furtherselectedessaysinthe21stcentury.pdf]]
 ** TODO Cory Doctorow (2012): Pirate Cinema
 :PROPERTIES:
 :Custom_id: reading_doctorow12:_pirat_cinem
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB eBook Bundle 1/pirate_cinema_-_cory_doctorow.pdf]]
+** TODO Cory Doctorow and Bruce Sterling and William Gibson and Gwyneth Jones and Jonathan Lethem and Charles Stross and Michael Swanwick and Walter Jon Williams and Pat Cadigan and Greg Egan and Paolo Bacigalupi and Paul Di Filippo and Elizabeth Bear and David Marusek and Christopher Rowe and Mary Rosenblum (2007): Rewired - The Post-Cyberpunk Anthology
+:PROPERTIES:
+:Custom_id: reading_doctorow07:_rewir_post_cyber_anthol
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/rewired_thepostcyberpunkanthology.pdf]]
 ** TODO Craig Hunt (2002): TCP/IP Network Administration
 :PROPERTIES:
 :Custom_id: reading_hunt02:_tcp_ip_networ_admin
@@ -515,6 +645,11 @@
 :Custom_id: reading_liu06:_dns_bind
 :END:
 [[file:/home/richard/humble bundles/oreilly-unix/dnsandbind_5thedition.pdf]]
+** TODO Curt Gabrielson (2015): Make: Tinkering - Kids Learn by Making Stuff
+:PROPERTIES:
+:Custom_id: reading_gabrielson15:_make_tinker
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_tinkering_2ndedition.pdf]]
 ** TODO D.M. Annechino (2010): They Never Die Quietly
 :PROPERTIES:
 :Custom_id: reading_annechino10:_they_never_quiet
@@ -529,6 +664,11 @@
 :Custom_id: reading_stolarz05:_car_pc_hacks
 :END:
 [[file:/home/richard/humble bundles/oreilly-hacks/carpchacks.pdf]]
+** TODO Dan Abnett (2011): Embedded
+:PROPERTIES:
+:Custom_id: reading_abnett11:_embed
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/embedded.pdf]]
 ** TODO Dan Abnett and Andy Lanning (2013): Classic Battlestar Galactica - Volume One - Memorial
 :PROPERTIES:
 :Custom_id: reading_abnett13:_class_battl_galac_volum_one_memor
@@ -539,6 +679,11 @@
 :Custom_id: reading_abnett14:_class_battl_galac_volum_two_adama_gambit
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Comics Bundle Dynamite/classicbattlestargalactica_vol2.pdf]]
+** TODO Dan Wickline (2015): Artemis IX - Issue 1
+:PROPERTIES:
+:Custom_id: reading_wickline15:_artem_ix_issue
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/artemisix_issue1.pdf]]
 ** TODO Daniel Higginbotham (2015): Clojure For The Brave and True
 :PROPERTIES:
 :Custom_id: reading_higginbotham15:_clojur_for_brave_true
@@ -554,6 +699,11 @@
 :Custom_id: reading_barrett16:_linux_pocket_guide
 :END:
 [[file:/home/richard/humble bundles/oreilly-unix/linuxpocketguide_3rdedition.pdf]]
+** TODO Danielle L Jensen (2014): Stolen Songbird
+:PROPERTIES:
+:Custom_id: reading_jensen14:_stolen_songb
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/stolensongbird.pdf]]
 ** TODO Darren Cook (2017): Practical Machine Learning with H2O: Powerful, Scalable Techniques for AI and Deep Learning
 :PROPERTIES:
 :Custom_id: reading_cook17:_pract_machin_learn_h2o
@@ -564,6 +714,11 @@
 :Custom_id: reading_taylor16:_learn_unix_os_x
 :END:
 [[file:/home/richard/humble bundles/oreilly-unix/learningunixforosx_2ndedition.pdf]]
+** TODO Dave Taylor and Brandon Perry (2017): Wicked Cool Shell Scripts - 101 Scripts for Linux, OS X and Unix Systems
+:PROPERTIES:
+:Custom_id: reading_taylor17:_wicked_cool_shell_scrip_scrip
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/wickedcoolshellscripts.pdf]]
 ** TODO Dave Taylor and Brandon Perry (2017): Wicked Cool Shell Scripts: 101 Scripts for Linux, OS X and Unix Systems
 :PROPERTIES:
 :Custom_id: reading_taylor17:_wicked_cool_shell_scrip
@@ -598,6 +753,11 @@
 :Custom_id: reading_kadavy11:_desig_hacker_rever_beaut
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB UI UX by Wiley/designforhackers.pdf]]
+** TODO David McGriffy (2017): Make: Drones - Teach an Arduino to Fly
+:PROPERTIES:
+:Custom_id: reading_mcgriffy17:_make_drones
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_drones.pdf]]
 ** TODO David N. Blank-Edelman (2018): Seeking SRE - Conversations About Running Production Systems At Scale
 :PROPERTIES:
 :Custom_id: reading_blank-edelman18:_seekin_sre_conver_about_runnin
@@ -608,6 +768,11 @@
 :Custom_id: reading_nash13:_prepp_projec
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Survive Anything by Skyhorse/52prepperprojects.pdf]]
+** TODO David S. Rose (2016): The Startup Checklist - 25 Steps to a Scalable, High-Growth Business
+:PROPERTIES:
+:Custom_id: reading_rose16:_start_check_steps_scalab_high_growt_busin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start a Startup by Wiley/thestartupchecklist.pdf]]
 ** TODO David Sklar and Adam Trachtenberg (2014): PHP Cookbook: Solutions & Examples for PHP Programmers
 :PROPERTIES:
 :Custom_id: reading_sklar14:_php_cookb
@@ -618,6 +783,11 @@
 :Custom_id: reading_walton15:_super
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/superposition.pdf]]
+** TODO David Wohl (2007): Aphrodite - Volume 1
+:PROPERTIES:
+:Custom_id: reading_wohl07:_aphrod_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/aphrodite_vol1.pdf]]
 ** TODO David Wohl (2010): Witchblade - Issue 10
 :PROPERTIES:
 :Custom_id: reading_wohl10:_witch_issue10
@@ -668,6 +838,11 @@
 :Custom_id: reading_serna15:_guitar_rhyth_techn_dummies
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/guitarrhythmandtechniquefordummies.pdf]]
+** TODO Diana Kander (2014): All In Startup - Launching a New Idea When Everything is on the Line
+:PROPERTIES:
+:Custom_id: reading_kander14:_all_in_start_launc_new
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start a Startup by Wiley/allinstartup.pdf]]
 ** TODO Diane Stafford and Moritza Day (2004): 1000 Best Job Hunting Secrets - The Smart Job Seeker's Handbook
 :PROPERTIES:
 :Custom_id: reading_stafford04:_best_job_huntin_secret_smart
@@ -701,6 +876,11 @@
 :PROPERTIES:
 :Custom_id: reading_adams13:_hitch_guide_galax
 :END:
+** TODO Douglas Wolk (2014): Judge Dredd - Mega City Two: City of Courts
+:PROPERTIES:
+:Custom_id: reading_wolk14:_judge_dredd_mega_city_two
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_megacitytwo.pdf]]
 ** TODO Douwe Osinga (2018): Deep Learning Cookbook: Practical Recipes to Get Started Quickly
 :PROPERTIES:
 :Custom_id: reading_osinga18:_deep_learn_cookb
@@ -716,11 +896,51 @@
 :Custom_id: reading_lavigne04:_bsd_hacks
 :END:
 [[file:/home/richard/humble bundles/oreilly-hacks/bsdhacks.pdf]]
+** TODO Duane Swierczynski (2013): Judge Dredd - Volume 1
+:PROPERTIES:
+:Custom_id: reading_swierczynski13:_judge_dredd_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol1.pdf]]
+** TODO Duane Swierczynski (2013): Judge Dredd - Volume 1
+:PROPERTIES:
+:Custom_id: reading_swierczynski13vol1:_judge_dredd_vol1
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol1.pdf]]
+** TODO Duane Swierczynski (2013): Judge Dredd - Volume 2
+:PROPERTIES:
+:Custom_id: reading_swierczynski13vol2:_judge_dredd_vol2
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol2.pdf]]
+** TODO Duane Swierczynski (2014): Judge Dredd - Volume 3
+:PROPERTIES:
+:Custom_id: reading_swierczynski14vol3:_judge_dredd_vol3
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol3.pdf]]
+** TODO Duane Swierczynski (2014): Judge Dredd - Volume 4
+:PROPERTIES:
+:Custom_id: reading_swierczynski14vol4:_judge_dredd_vol4
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol4.pdf]]
+** TODO Duane Swierczynski (2014): Judge Dredd - Volume 5
+:PROPERTIES:
+:Custom_id: reading_swierczynski14vol5:_judge_dredd_vol5
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol5.pdf]]
 ** TODO Duane Swierczynski (2015): Ex-Con - Volume 1: Fading Lights
 :PROPERTIES:
 :Custom_id: reading_swierczynski15:_ex_con_volum_fadin_light
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Comics Bundle Dynamite/excons_vol1.pdf]]
+** TODO Duane Swierczynski (2015): Judge Dredd - Volume 6
+:PROPERTIES:
+:Custom_id: reading_swierczynski15vol6:_judge_dredd_vol6
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol6.pdf]]
+** TODO Duane Swierczynski (2015): Judge Dredd - Volume 7
+:PROPERTIES:
+:Custom_id: reading_swierczynski15vol7:_judge_dredd_vol7
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol7.pdf]]
 ** TODO Duncan C.E. Winn (2017): Cloud Foundry: The Definitive Guide - Develop, Deploy and Scale
 :PROPERTIES:
 :Custom_id: reading_winn17:_cloud_found
@@ -756,11 +976,41 @@
 :Custom_id: reading_robson12:_head_first_html_css
 :END:
 [[file:/home/richard/humble bundles/oreilly-headfirst/headfirsthtmlandcss.pdf]]
+** TODO Elizabeth A. Lynn (1998): Dragon's Winter
+:PROPERTIES:
+:Custom_id: reading_lynn98:_dragon_winter
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/dragonswinter.pdf]]
+** TODO Elizabeth Briggs (2016): Future Shock
+:PROPERTIES:
+:Custom_id: reading_briggs16:_futur_shock
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/futureshock.pdf]]
 ** TODO Ellen Datlow (2018): The Best of the Best Horror of the Year - 10 Years of Essential Short Horror Fiction
 :PROPERTIES:
 :Custom_id: reading_datlow18:_best_best_horror_year_years
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/thebestofthebesthorroroftheyear10years.pdf]]
+** TODO Ellen Klages (2017): Wicked Wonders
+:PROPERTIES:
+:Custom_id: reading_klages17:_wicked_wonder
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/wickedwonders.pdf]]
+** TODO Elliot Forbes (2017): Learning Concurrency in Python
+:PROPERTIES:
+:Custom_id: reading_forbes17:_learn_concur_python
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/learningconcurrencyinpython.pdf]]
+** TODO Emi Lenox and Jeff Lemire (2016): Plutona Volume 1
+:PROPERTIES:
+:Custom_id: reading_lenox16:_pluton_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/plutona_vol1.pdf]]
+** TODO Emily Gertz and Patrick Di Justo (2011): (No Title)
+:PROPERTIES:
+:Custom_id: reading_gertz11
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/environmentalmonitoringwitharduino.pdf]]
 ** TODO Eric A. Meyer and Estelle Weyl (2018): CSS - The Definitive Guide - Visual Presentation for the Web
 :PROPERTIES:
 :Custom_id: reading_meyer18:_css_defin_guide_visual_presen_web
@@ -816,6 +1066,31 @@
 :Custom_id: reading_nury18:_tyler_cross_black_rock
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/tylercross_blackrock.pdf]]
+** TODO Forrest Bice and Rose DeMaio and Spencer Florence and Feng-Yun Mimi Lin and Scott Lindeman and Nicole Nussbaum and Eric Peterson and Ryan Van Horn (2013): Learn to Program, One Game at a Time!
+:PROPERTIES:
+:Custom_id: reading_bice13:_learn_progr_one_game_time
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/realmofracket_learntoprogram.pdf]]
+** TODO Forrest Bice and Rose DeMaio and Spencer Florence and Feng-Yun Mimi Lin and Scott Lindeman and Nicole Nussbaum and Eric Peterson and Ryan Van Horn (2013): Realm of Racket - Learn to Program, One Game at a Time!
+:PROPERTIES:
+:Custom_id: reading_bice13:_realm_racket_learn_progr_one_game_time
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/realmofracket_learntoprogram.pdf]]
+** TODO Foz Meadows (2016): An Accident of Stars
+:PROPERTIES:
+:Custom_id: reading_meadows16:_accid_stars
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/anaccidentofstars.pdf]]
+** TODO Frank Gruber (2014): Startup Mixology
+:PROPERTIES:
+:Custom_id: reading_gruber14:_start_mixol
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start a Startup by Wiley/startupmixology.pdf]]
+** TODO Fred Hebert (2013): Learn You Some Erlang for Great Good! - A Beginner's Guide
+:PROPERTIES:
+:Custom_id: reading_hebert13:_learn_you_some_erlan_great_good
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/learnyousomeerlangforgreatgood.pdf]]
 ** TODO Fred Van Lente (2017): Ten Dead Comedians
 :PROPERTIES:
 :Custom_id: reading_lente17:_ten_dead_comed
@@ -856,6 +1131,11 @@
 :Custom_id: reading_russell16:_doctor_who_tenth_doct_archvol1
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Titan Doctor Who Comics 2018/doctorwho_tenthdoctorarchives_vol1.pdf]]
+** TODO Gaston C. Hillar (2016): Building RESTful Python Web Services
+:PROPERTIES:
+:Custom_id: reading_hillar16:_build_restf_python_web_servic
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/buildingrestfulpythonwebservices.pdf]]
 ** TODO George Axelrod (2007): Blackmailer
 :PROPERTIES:
 :Custom_id: reading_axelrod07:_black
@@ -896,6 +1176,11 @@
 :Custom_id: reading_dumpleton18:_deploy_opens
 :END:
 [[file:/home/richard/humble bundles/oreilly-devops/deployingtoopenshift.pdf]]
+** TODO Greg Bear (1985): Eon
+:PROPERTIES:
+:Custom_id: reading_bear85:_eon
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/eon.pdf]]
 ** TODO Greg Borenstein (2012): Making Things See
 :PROPERTIES:
 :Custom_id: reading_borenstein12:_makin_thing_see
@@ -946,6 +1231,11 @@
 :Custom_id: reading_mcdonald17:_snatc
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/snatch.pdf]]
+** TODO Harlan Ellison (1979): I Have No Mouth & I Must Scream
+:PROPERTIES:
+:Custom_id: reading_ellison79:_i_have_no_mouth_i_must_scream
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/IHaveNoMouthandIMustScream_1407521522.pdf]]
 ** TODO Harris J. Andrews and J. Alexander Bowers (2010): The Pocket Disaster Survival Guide: What To Do When The Lights Go Out
 :PROPERTIES:
 :Custom_id: reading_andrews10:_pocket_disas_surviv_guide
@@ -956,6 +1246,11 @@
 :Custom_id: reading_percival17:_test_driven_devel_python
 :END:
 [[file:/home/richard/humble bundles/oreilly-python/testdrivendevelopmentwithpython.pdf]]
+** TODO Henry Mason and David Mattin and Maxwell Luthy and Delia Dumitrescu (2015): Trend Driven Innovation
+:PROPERTIES:
+:Custom_id: reading_mason15:_trend_driven_innov
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start a Startup by Wiley/trenddriveninnovation.pdf]]
 ** TODO Hideto Saito and Hui-Chuan Chloe Lee and Cheng-Yang Wu (2017): DevOps with Kubernetes
 :PROPERTIES:
 :Custom_id: reading_saito17:_devop_kuber
@@ -971,6 +1266,21 @@
 :Custom_id: reading_karau17:_high_perfor_spark
 :END:
 [[file:/home/richard/humble bundles/oreilly-data-science/highperformancespark.pdf]]
+** TODO Hope Larson (2016): Goldie Vance - Volume 1
+:PROPERTIES:
+:Custom_id: reading_larson16:_goldie_vance_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/goldievance_vol1_2018_3_22.pdf]]
+** TODO Hope Nicholson (2016): The Secret Loves of Geek Girls - Expanded Edition
+:PROPERTIES:
+:Custom_id: reading_nicholson16:_secret_loves_geek_girls_expan_edition
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/thesecretlovesofgeekgirls_expandededition.pdf]]
+** TODO Hope Nicholson (2017): The Spectacular Sisterhood of Superwomen
+:PROPERTIES:
+:Custom_id: reading_nicholson17:_spect_sister_super
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/thespectacularsisterhoodofsuperwomen.pdf]]
 ** TODO Ian F. Darwin (2017): Android Cookbook: Problems and Solutions for Android Developers
 :PROPERTIES:
 :Custom_id: reading_darwin17:_android_cookb
@@ -991,6 +1301,16 @@
 :Custom_id: reading_asimov90:_robot_vision
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Classic SciFi and Audiobooks/robotvisions.pdf]]
+** TODO Ishbelle Bee (2015): The Singular and Extraordinary Tale of Mirror and Goliath
+:PROPERTIES:
+:Custom_id: reading_bee15:_singul_extraor_tale_mirror_goliat
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/thesingularandextraordinarytaleofmirrorandgoliath.pdf]]
+** TODO Ivan Idris (2016): Python Data Analysis Cookbook
+:PROPERTIES:
+:Custom_id: reading_idris16:_python_data_analy_cookb
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/pythondataanalysiscookbook.pdf]]
 ** TODO J. Michael Straczynski (2014): The Twilight Zone: Volume One - The Way Out
 :PROPERTIES:
 :Custom_id: reading_straczynski14:_twilig_zone
@@ -1005,6 +1325,11 @@
 :PROPERTIES:
 :Custom_id: reading_accinni13:_alien_species_inter
 :END:
+** TODO Jake Lawrence (2015): Teen Dog
+:PROPERTIES:
+:Custom_id: reading_lawrence15:_teen_dog
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/teendog_vol1.pdf]]
 ** TODO Jake VanderPlas (2017): Python Data Science Handbook: Essential Tools for Working with Data
 :PROPERTIES:
 :Custom_id: reading_vanderplas17:_python_data_scien_handb
@@ -1085,11 +1410,21 @@
 :Custom_id: reading_mcgavren16:_head_first_ruby
 :END:
 [[file:/home/richard/humble bundles/oreilly-headfirst/headfirstruby_ebook.pdf]]
+** TODO Jay Posey (2017): Outriders
+:PROPERTIES:
+:Custom_id: reading_posey17:_outrid
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/outriders.pdf]]
 ** TODO Jean-Luc Fromental (2017): The Prague Coup
 :PROPERTIES:
 :Custom_id: reading_fromental17:_prague_coup
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/thepraguecoup.pdf]]
+** TODO Jean-Marie Dru (2015): The Ways To New - 15 Paths to Disruptive Innovation
+:PROPERTIES:
+:Custom_id: reading_dru15:_ways_to_new_paths_disrup_innov
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start a Startup by Wiley/thewaystonew.pdf]]
 ** TODO Jeff Carpenter and Eben Hewitt (2016): Cassandra - The Definitive Guide: Distributed Data at Web Scale
 :PROPERTIES:
 :Custom_id: reading_carpenter16:_cassan_defin_guide
@@ -1125,6 +1460,16 @@
 :Custom_id: reading_strong14:_home_recor_music_dummies
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/homerecordingformusiciansfordummies.pdf]]
+** TODO Jeff Vandermeer (2010): The Third Bear
+:PROPERTIES:
+:Custom_id: reading_vandermeer10:_third_bear
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/thethirdbear.pdf]]
+** TODO Jen Van Meter (2010): Hopeless Savages - Greatest Hits
+:PROPERTIES:
+:Custom_id: reading_meter10:_hopel_savag_great_hits
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/hopelesssavages__greatesthits.pdf]]
 ** TODO Jennifer Davis and Ryn Daniels (2016): Effective DevOps - Building A Culture of Collaboration, Affinity and Tooling At Scale
 :PROPERTIES:
 :Custom_id: reading_davis16:_effec_devop_build_cultur_collab
@@ -1185,11 +1530,26 @@
 :Custom_id: reading_farnham15:_joy_chees
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Survive Anything by Skyhorse/thejoyofcheesemaking.pdf]]
+** TODO Joe R. Lansdale (2016): Hap and Leonard - Ride Again
+:PROPERTIES:
+:Custom_id: reading_lansdale16:_hap_leonar_ride_again
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/hapandleonardrideagain.pdf]]
+** TODO Joe R. Lansdale (2017): Hap and Leonard - Blood and Lemonade
+:PROPERTIES:
+:Custom_id: reading_lansdale17:_hap_leonar_blood_lemon
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/hapandleonard_bloodandlemonade.pdf]]
 ** TODO Joel Katz (2012): Designing Information: Human Factors and Common Sense in Information Design
 :PROPERTIES:
 :Custom_id: reading_katz12:_desig_infor
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB UI UX by Wiley/designinginformation.pdf]]
+** TODO John Allison (2015): Giant Days - Volume 1
+:PROPERTIES:
+:Custom_id: reading_allison15:_giant_days_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/giantdays_vol1hq.pdf]]
 ** TODO John Anthony (2015): Dog Training Made Simple: The Ultimate Dog Training Guide: Start Training Today Have Your Dog Obeying in Minutes
 :PROPERTIES:
 :Custom_id: reading_anthony15:_dog_train_made_simpl
@@ -1199,6 +1559,16 @@
 :Custom_id: reading_arundel17:_puppet_begin_guide
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/puppet5beginnersguide.pdf]]
+** TODO John Brunner (1981): To Conquer Chaos
+:PROPERTIES:
+:Custom_id: reading_brunner81:_to_conquer_chaos
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/toconquerchaos.pdf]]
+** TODO John Danner and Mark Coopersmith (2015): The Other F Word
+:PROPERTIES:
+:Custom_id: reading_danner15:_other_f_word
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start a Startup by Wiley/theotherfword.pdf]]
 ** TODO John Davies (2006): The $100,000 Career - A New Approach To Networking For Executive Job Change
 :PROPERTIES:
 :Custom_id: reading_davies06:_career_new_approac_to_networ
@@ -1224,6 +1594,21 @@
 :Custom_id: reading_adams09:_improb_adven_sherl_holmes
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/theimprobableadventuresofsherlockholmes.pdf]]
+** TODO John Layman (2017): Judge Dredd - Funko Universe
+:PROPERTIES:
+:Custom_id: reading_layman17:_judge_dredd_funko_univer
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_funkouniverse.pdf]]
+** TODO John McCrea (2017): Judge Dredd - Deviations
+:PROPERTIES:
+:Custom_id: reading_mccrea17:_judge_dredd_deviat
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_deviations.pdf]]
+** TODO John Mullins (2014): The Customer Funded Business
+:PROPERTIES:
+:Custom_id: reading_mullins14:_custom_funded_busin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start a Startup by Wiley/thecustomerfundedbusiness.pdf]]
 ** TODO John Nussey (2013): Arduino for Dummies
 :PROPERTIES:
 :Custom_id: reading_nussey13:_arduin_dummies
@@ -1244,6 +1629,41 @@
 :Custom_id: reading_scalzi05:_old_mans_war
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB eBook Bundle 1/old_mans_war_-_john_scalzi.pdf]]
+** TODO John Wagner (2005): Judge Death - My Name is Death
+:PROPERTIES:
+:Custom_id: reading_wagner05:_judge_death_my_name_death
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedeath_mynameisdeath.pdf]]
+** TODO John Wagner (2008): Judge Dredd - Origins
+:PROPERTIES:
+:Custom_id: reading_wagner08:_judge_dredd_origin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgederedd_origins.pdf]]
+** TODO John Wagner (2012): Judge Dredd - America
+:PROPERTIES:
+:Custom_id: reading_wagner12:_judge_dredd_americ
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_america.pdf]]
+** TODO John Wagner (2013): Judge Dredd - Day of Chaos: The Fourth Faction
+:PROPERTIES:
+:Custom_id: reading_wagner13:_judge_dredd_day_chaos
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_fourthfaction.pdf]]
+** TODO John Wagner and Alan Grant (2010): Judge Dredd - The Complete Case Files 05
+:PROPERTIES:
+:Custom_id: reading_wagner10:_judge_dredd_compl_case_files
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_casefiles_vol5.pdf]]
+** TODO John Wagner and Alan Grant (2017): Judge Dredd - Cry of the Werewolf
+:PROPERTIES:
+:Custom_id: reading_wagner17:_judge_dredd_cry_werew
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_cryofthewerewolf.pdf]]
+** TODO John Wagner and Alan Grant (2018): Judge Dredd - The Dark Judges
+:PROPERTIES:
+:Custom_id: reading_wagner18:_judge_dredd_dark_judges
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_thedarkjudges.pdf]]
 ** TODO Jon Chappell and Mark Phillips and Desi Serna (2014): Guitar All-in-One For Dummies
 :PROPERTIES:
 :Custom_id: reading_chappell14:_guitar_all_one_for_dummies
@@ -1289,16 +1709,66 @@
 :Custom_id: reading_nunez-iglesias17:_elegan_scipy
 :END:
 [[file:/home/richard/humble bundles/oreilly-python/elegantscipy.pdf]]
+** TODO Junot Diaz and Katherine Dunn and Jonathan Lethem and George Saunders and Steven Millhauser and Amiri Baraka and W. P. Kinsella and Jami Attenberg and Robert Olen Butler and Deji Bryce Olukotun and Rivka Galchen and Jim Shepard and Molly Gloss and Max Apple (2016): Invaders - 22 Tales From The Outer Limits of Literature
+:PROPERTIES:
+:Custom_id: reading_diaz16:_invad_tales_from_outer_limit_liter
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/invaders.pdf]]
 ** TODO Justin Garrison and Kris Nova (2018): Cloud Native Infrastructure: Patters for Scalable Infrastructure and Applications in a Dynamic Environment
 :PROPERTIES:
 :Custom_id: reading_garrison18:_cloud_nativ_infras
 :END:
 [[file:/home/richard/humble bundles/oreilly-devops/cloudnativeinfrastructure.pdf]]
+** TODO Justin Gustainis (2011): Occult Crimes Unit - Book 1 - Hard Spell
+:PROPERTIES:
+:Custom_id: reading_gustainis11:_occul_crimes_unit_book_hard_spell
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/occultcrimesunit_book1_hardspell.pdf]]
+** TODO Justin Gustainis (2012): Occult Crimes Unit - Book 2 - Evil Dark
+:PROPERTIES:
+:Custom_id: reading_gustainis12:_occul_crimes_unit_book_evil_dark
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/occultcrimesunit_book2_evildark.pdf]]
+** TODO Justin Gustainis (2014): Occult Crimes Unit - Book 3 - Known Devil
+:PROPERTIES:
+:Custom_id: reading_gustainis14:_occul_crimes_unit_book_known_devil
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/occultcrimesunit_book3_knowndevil.pdf]]
+** TODO Kaaron Warren (2009): Slights
+:PROPERTIES:
+:Custom_id: reading_warren09:_sligh
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/slights.pdf]]
+** TODO Karina Sumner-Smith (2014): Radiant
+:PROPERTIES:
+:Custom_id: reading_sumner-smith14:_radian
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/radiant_towersbook1.pdf]]
+** TODO Kate Elliott (2015): The Very Best of Kate Elliott
+:PROPERTIES:
+:Custom_id: reading_elliott15:_very_best_kate_elliot
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/theverybestofkateelliott.pdf]]
+** TODO Kathryn Immonen and Stuart Immonen (2010): Moving Pictures
+:PROPERTIES:
+:Custom_id: reading_immonen10:_movin_pictur
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/movingpictures.pdf]]
 ** TODO Kathy Sierra and Bert Bates (2005): Head First Java
 :PROPERTIES:
 :Custom_id: reading_sierra05:_head_first_java
 :END:
 [[file:/home/richard/humble bundles/oreilly-headfirst/headfirstjava.pdf]]
+** TODO Keith Yatsuhashi (2016): Kojiki
+:PROPERTIES:
+:Custom_id: reading_yatsuhashi16:_kojik
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/kojiki.pdf]]
+** TODO Kelley Armstrong (2015): Led Astray - The Best of Kelley Armstrong
+:PROPERTIES:
+:Custom_id: reading_armstrong15:_led_astray_best_kelley_armst
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/ledastray_thebestofkelleyarmstrong.pdf]]
 ** TODO Kelly Link (2001): Stranger Things Happen
 :PROPERTIES:
 :Custom_id: reading_link01:_stran_thing_happen
@@ -1309,6 +1779,21 @@
 :Custom_id: reading_link05:_magic_for_begin
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB eBook Bundle 1/magic_for_beginners_-_kelly_link.pdf]]
+** TODO Kelly Sue DeConnick (2014): Bitch Planet
+:PROPERTIES:
+:Custom_id: reading_deconnick14:_bitch_planet
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/bitchplanet_vol1.pdf]]
+** TODO Kelly Sue Deconnick (2014): Pretty Deadly Volume 1 - The Shrike
+:PROPERTIES:
+:Custom_id: reading_deconnick14:_prett_deadl_volum_shrik
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/prettydeadly_vol1.pdf]]
+** TODO Kelly Thompson (2015): Jem and the Holograms - Volume 1
+:PROPERTIES:
+:Custom_id: reading_thompson15:_jem_holog_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/jemandtheholograms_vol1.pdf]]
 ** TODO Kelly Thompson (2018): Nancy Drew - Issue 1
 :PROPERTIES:
 :Custom_id: reading_thompson18a:_nancy_drew_issue
@@ -1349,6 +1834,11 @@
 :Custom_id: reading_anderson10:_night_livin_trekk
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/nightofthelivingtrekkies.pdf]]
+** TODO Kevin Panetta (2016): Zodiac Starforce - By The Power of Astra
+:PROPERTIES:
+:Custom_id: reading_panetta16:_zodiac_starf_by_power_astra
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/zodiacstarforce_bythepowerofastra.pdf]]
 ** TODO Kevin Smith (2010): Kevin Smith's  Green Hornet Volume Two: Wearing O' The Green
 :PROPERTIES:
 :Custom_id: reading_smith10b:_kevin_smith_green_hornet_volum_two
@@ -1379,6 +1869,11 @@
 :Custom_id: reading_beukes10:_zoo_city
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB eBook Bundle 1/zoo_city_-_lauren_beukes.pdf]]
+** TODO Lavie Tidhar (2016): Central Station
+:PROPERTIES:
+:Custom_id: reading_tidhar16:_centr_station
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/centralstation.pdf]]
 ** TODO Lawrence Block (2016): Sinner Man
 :PROPERTIES:
 :Custom_id: reading_block16:_sinner_man
@@ -1414,6 +1909,11 @@
 :Custom_id: reading_mcdougall17:_ultim_shit_hits_fan_surviv_guide
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Survive Anything by Skyhorse/theultimatesh_thitsthefansurvivalguide.pdf]]
+** TODO Lentin Joseph (2018): Learning Robotics using Python
+:PROPERTIES:
+:Custom_id: reading_joseph18:_learn_robot_python
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/learningroboticsusingpython.pdf]]
 ** TODO Lester Dent (2009): Honey In His Mouth
 :PROPERTIES:
 :Custom_id: reading_dent09:_honey_in_his_mouth
@@ -1439,6 +1939,11 @@
 :Custom_id: reading_sejic16:_blood_stain
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB The Darkness Sci-fi and Sex Top Cow/bloodstain_vol1.pdf]]
+** TODO Linda Sejic (2016): Bloodstain - Volume 1
+:PROPERTIES:
+:Custom_id: reading_sejic16:_blood_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/bloodstain_vol1.pdf]]
 ** TODO Linda Sejic (2017): Blood Stain: Volume 2
 :PROPERTIES:
 :Custom_id: reading_sejic17a:_blood_stain
@@ -1453,6 +1958,11 @@
 :PROPERTIES:
 :Custom_id: reading_alexander15:_organ_your_day
 :END:
+** TODO Liz Prince (2017): Coady and the Creepies
+:PROPERTIES:
+:Custom_id: reading_prince17:_coady_creep
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/coadyandthecreepies_vol1.pdf]]
 ** TODO Louisa May Alcott (????): Little Women
 :PROPERTIES:
 :Custom_id: reading_alcott:_littl_women
@@ -1482,6 +1992,11 @@
 :Custom_id: reading_beighley07:_head_first_sql
 :END:
 [[file:/home/richard/humble bundles/oreilly-headfirst/headfirstsql_ebook.pdf]]
+** TODO Lynn Beighley (2017): Make: Geek Girl's Guide to Geek Women
+:PROPERTIES:
+:Custom_id: reading_beighley17:_make
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/geekgirlsguidetogeekwomen.pdf]]
 ** TODO Mac Anderson (2007): The Power of Attitude
 :PROPERTIES:
 :Custom_id: reading_anderson07:_power_attit
@@ -1492,11 +2007,21 @@
 :Custom_id: reading_anderson15:_chang_good_you_go_first
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/changeisgood_yougofirst.pdf]]
+** TODO Madhavan Ramanujam and Georg Tacke (2016): Monetizing Innovation - How Smart Companies Design The Product Around The Price
+:PROPERTIES:
+:Custom_id: reading_ramanujam16:_monet_innov_how_smart_compan
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start a Startup by Wiley/monetizinginnovation.pdf]]
 ** TODO Marc Silvestri (2009): The Art of Top Cow
 :PROPERTIES:
 :Custom_id: reading_silvestri09:_art_top_cow
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB The Darkness Sci-fi and Sex Top Cow/artoftopcow.pdf]]
+** TODO Marc Silvestri (2015): Cyber Force Rebirth - Volume 2
+:PROPERTIES:
+:Custom_id: reading_silvestri15:_cyber_force_rebir_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/cyberforce_rebirth_vol2.pdf]]
 ** TODO Marc Silvestri (2018): The Art of Marc Silvestri
 :PROPERTIES:
 :Custom_id: reading_silvestri18:_art_marc_silves
@@ -1522,6 +2047,11 @@
 :Custom_id: reading_silvestri07:_art_darkn
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB The Darkness Sci-fi and Sex Top Cow/artofthedarkness.pdf]]
+** TODO Marc Sniukas and Parker Lee and Matt Morasky (2016): The Art of Opportunity
+:PROPERTIES:
+:Custom_id: reading_sniukas16:_art_oppor
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start a Startup by Wiley/theartofopportunity.pdf]]
 ** TODO Mark Geddes (2016): Arduino Project Handbook: 25 Practical Projects to Get You Started
 :PROPERTIES:
 :Custom_id: reading_geddes16:_arduin_projec_handb
@@ -1557,6 +2087,11 @@
 :Custom_id: reading_phillips09:_guitar_exerc_dummies
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/guitarexercisesfordummies.pdf]]
+** TODO Mark Powers (2010): Rest - Volume 1
+:PROPERTIES:
+:Custom_id: reading_powers10:_rest_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/rest_vol1.pdf]]
 ** TODO Mark Russell (2018): The Lone Ranger: Volume 3 - Issue 1
 :PROPERTIES:
 :Custom_id: reading_russell18a:_lone_ranger
@@ -1577,6 +2112,21 @@
 :Custom_id: reading_scherzer11:_hire_me_holly
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Write Like A Writer/hiremehollywood.pdf]]
+** TODO Mark Silvestri and Matt Hawkins (2013): Cyber Force Rebirth - Volume 1
+:PROPERTIES:
+:Custom_id: reading_silvestri13:_cyber_force_rebir_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/cyberforce_rebirth_vol1.pdf]]
+** TODO Mark Waid (2008): Hunter Killer - Volume 1
+:PROPERTIES:
+:Custom_id: reading_waid08:_hunter_killer_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/hunterkiller_vol1.pdf]]
+** TODO Mark Waid (2010): Cyber Force Hunter Killer - Volume 1
+:PROPERTIES:
+:Custom_id: reading_waid10:_cyber_force_hunter_killer_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/cyberforcehunterkiller_vol1.pdf]]
 ** TODO Mark Waid (2013): Mark Waid's The Green Hornet: Volume 1 - Bully Pulpit
 :PROPERTIES:
 :Custom_id: reading_waid13:_mark_waids_green_hornet
@@ -1616,6 +2166,96 @@
 :Custom_id: reading_taylor06:_teach_yours_visual_piano
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/teachyourselfvisuallypiano.pdf]]
+** TODO Matt Hawkins (2012): Think Tank - Volume 1
+:PROPERTIES:
+:Custom_id: reading_hawkins12:_think_tank_volum1
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/thinktank_vol1.pdf]]
+** TODO Matt Hawkins (2012): Think Tank - Volume 2
+:PROPERTIES:
+:Custom_id: reading_hawkins12:_think_tank_volum2
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/thinktank_vol2.pdf]]
+** TODO Matt Hawkins (2013): Aphrodite IX Rebirth - Volume 1
+:PROPERTIES:
+:Custom_id: reading_hawkins13:_aphrod_ix_rebir_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/aphroditeix_rebirth_vol1.pdf]]
+** TODO Matt Hawkins (2014): Aphrodite IX - Cyberforce - Issue 1
+:PROPERTIES:
+:Custom_id: reading_hawkins14:_aphrod_ix_cyber_issue
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/aphroditeix_cyberforce_issue1.pdf]]
+** TODO Matt Hawkins (2014): Aphrodite IX Rebirth - Volume 2
+:PROPERTIES:
+:Custom_id: reading_hawkins14:_aphrod_ix_rebir_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/aphroditeix_rebirth_vol2.pdf]]
+** TODO Matt Hawkins (2014): Think Tank - Volume 3
+:PROPERTIES:
+:Custom_id: reading_hawkins14:_think_tank_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/thinktank_vol3.pdf]]
+** TODO Matt Hawkins (2014): Wildfire - Volume 1
+:PROPERTIES:
+:Custom_id: reading_hawkins14:_wildf_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/wildfire_vol1.pdf]]
+** TODO Matt Hawkins (2015): IX Generation - Volume One
+:PROPERTIES:
+:Custom_id: reading_hawkins15:_ix_gener_volum_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/9thgeneration_vol1.pdf]]
+** TODO Matt Hawkins (2016): Symmetry - Volume 1
+:PROPERTIES:
+:Custom_id: reading_hawkins16:_symmet_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/symmetry_vol1.pdf]]
+** TODO Matt Hawkins (2016): Symmetry - Volume 1
+:PROPERTIES:
+:Custom_id: reading_hawkins16:_symmet_volum1
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/symmetry_vol1.pdf]]
+** TODO Matt Hawkins (2016): Symmetry - Volume 2
+:PROPERTIES:
+:Custom_id: reading_<new-entry31>
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/symmetry_vol2.pdf]]
+** TODO Matt Hawkins (2016): Symmetry - Volume 2
+:PROPERTIES:
+:Custom_id: reading_hawkins16:_symmet_volum2
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/symmetry_vol2.pdf]]
+** TODO Matt Hawkins (2016): Think Tank - Volume 4
+:PROPERTIES:
+:Custom_id: reading_hawkins16:_think_tank_volum4
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/thinktank_vol4.pdf]]
+** TODO Matt Hawkins (2016): XI Generation - Volume 2
+:PROPERTIES:
+:Custom_id: reading_hawkins16:_xi_gener_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/9thgeneration_vol2.pdf]]
+** TODO Matt Hawkins (2017): Think Tank - Volume 5
+:PROPERTIES:
+:Custom_id: reading_hawkins17:_think_tank_volum5
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/thinktank_vol5.pdf]]
+** TODO Matt Hawkins and Jenni Cheung (2017): Swing and Sugar - Excerpt
+:PROPERTIES:
+:Custom_id: reading_hawkins17:_swing_sugar_excer
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/swingandsugarexcerpt.pdf]]
+** TODO Matt Smith (2013): Judge Dredd - Year One
+:PROPERTIES:
+:Custom_id: reading_smith13:_judge_dredd_year_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_yearone.pdf]]
+** TODO Matt Smith (2015): Judge Dredd - Anderson - Psi Division
+:PROPERTIES:
+:Custom_id: reading_smith15:_judge_dredd_ander_psi_divis
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_andersonpsidivision.pdf]]
 ** TODO Matt Wagner (2016): Will Eisner's The Spirit Returns
 :PROPERTIES:
 :Custom_id: reading_wagner16:_will_eisner_spirit_retur
@@ -1651,6 +2291,11 @@
 :Custom_id: reading_abbott18:_norman_gold
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/normandygold.pdf]]
+** TODO Megan E. O'Keefe (2016): Steal The Sky
+:PROPERTIES:
+:Custom_id: reading_okeefe16:_steal_sky
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/stealthesky.pdf]]
 ** TODO Mercedes Lackey and Steve Libbey and Cody Martin and Dennis Lee (2012): Invasion
 :PROPERTIES:
 :Custom_id: reading_lackey12:_invas
@@ -1686,11 +2331,21 @@
 :Custom_id: reading_pilhofer15:_music_theor_dummies
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/musictheoryfordummies.pdf]]
+** TODO Michael Swanwick (2016): Not So Much Said The Cat
+:PROPERTIES:
+:Custom_id: reading_swanwick16:_not_so_much_said_cat
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/notsomuchsaidthecat.pdf]]
 ** TODO Michael W. Lucas (2013): Absolute OpenBSD: Unix for the Practical Paranoid
 :PROPERTIES:
 :Custom_id: reading_lucas13:_absol_openb
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux Geek by No Starch/absoluteopenbsd.pdf]]
+** TODO Michal Jaworski and Tarek Ziade (2019): Expert Python Programming
+:PROPERTIES:
+:Custom_id: reading_jaworski19:_exper_python_progr
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/expertpythonprogramming.pdf]]
 ** TODO Mickey Spillane and Max Allan Collins (2011): The Consummata
 :PROPERTIES:
 :Custom_id: reading_spillane11:_consum
@@ -1731,11 +2386,41 @@
 :Custom_id: reading_ryan18:_aws_system_admin
 :END:
 [[file:/home/richard/humble bundles/oreilly-devops/awssystemadministration.pdf]]
+** TODO Mike Westerfield (2014): Make: Rockets - Down-to-Earth Rocket Science
+:PROPERTIES:
+:Custom_id: reading_westerfield14:_make_rocket
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_rockets_downtoearthrocketscience.pdf]]
+** TODO Mike Westerfield (2018): Make: High-Power Rockets - Construction and Certification for Thousands of Feet and Beyond
+:PROPERTIES:
+:Custom_id: reading_westerfield18:_make_high_power_rocket
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_highpowerrockets.pdf]]
+** TODO Mikkel Svane (2015): Startup Land - How Three Guys Risked Everything to Turn an Idea Into a Global Business
+:PROPERTIES:
+:Custom_id: reading_svane15:_start_land_how_three_guys
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start a Startup by Wiley/startupland.pdf]]
+** TODO Miran Lipovaca (2011): Learn You a Haskell for Great Good! - A Beginner's Guide
+:PROPERTIES:
+:Custom_id: reading_lipovaca11:_learn_you_haskel_great_good
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/learnyouahaskellforgreatgood.pdf]]
 ** TODO Monte Burch (2011): The Joy of Smoking and Salt Curing: The Complete Guide to Smoking and Curing Meat, Fish, Game and More
 :PROPERTIES:
 :Custom_id: reading_burch11:_joy_smokin_salt_curin
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Survive Anything by Skyhorse/thejoyofsmokingandsaltcuring.pdf]]
+** TODO Nalo Hopkinson (2015): Falling in Love with Hominids
+:PROPERTIES:
+:Custom_id: reading_hopkinson15:_fallin_love_homin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/fallinginlovewithhominids.pdf]]
+** TODO Nancy Kress (2014): Yesterday's Kin
+:PROPERTIES:
+:Custom_id: reading_kress14:_yester_kin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/yesterdayskin.pdf]]
 ** TODO Nathaniel Felsen (2017): Effective DevOps with AWS
 :PROPERTIES:
 :Custom_id: reading_felsen17:_effec_devop_aws
@@ -1771,6 +2456,11 @@
 :Custom_id: reading_murphy18:_site_reliab_workb_pract_ways_implem_sre
 :END:
 [[file:/home/richard/humble bundles/oreilly-devops/thesitereliabilityworkbook.pdf]]
+** TODO Nicholas C. Zakas (2016): Understanding ECMAScript 6 - The Definitive Guide for Javascript Developers
+:PROPERTIES:
+:Custom_id: reading_zakas16:_under_ecmas_defin_guide_javas_devel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/understandingecmascript6.pdf]]
 ** TODO Nick Abadzis (2015): Doctor Who: The Tenth Doctor - Volume 3: The Fountains of Forever
 :PROPERTIES:
 :Custom_id: reading_abadzis15:_doctor_who_tenth_doct_vol3
@@ -1796,26 +2486,111 @@
 :Custom_id: reading_pathania17:_learn_contin_integ_jenkin
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/learningcontinuousintegrationwithjenkins.pdf]]
+** TODO Noelle Stevenson and Grace Ellis (2015): Lumberjanes - Beware the Kitten Holy
+:PROPERTIES:
+:Custom_id: reading_stevenson15:_lumber_bewar_kitten_holy
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/lumberjanes_vol1.pdf]]
+** TODO Norman Matloff (2011): The Art of R Programming
+:PROPERTIES:
+:Custom_id: reading_matloff11:_art_r_progr
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/theartofrprogramming.pdf]]
 ** TODO Norman Matloff and Peter Jay Salzman (2008): The Art of Debugging with GDB, DDD and Eclipse
 :PROPERTIES:
 :Custom_id: reading_matloff08:_art_debug_gdb_ddd_eclip
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux Geek by No Starch/theartofdebuggingwithgdbdddandeclipse.pdf]]
+** TODO Norman Matloff and Peter Jay Salzman (2008): The Art of Debugging with GDB, DDD and Eclipse
+:PROPERTIES:
+:Custom_id: reading_matloff8coder:_art_debug_gdb_ddd_eclip
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/theartofdebugging.pdf]]
+** TODO Octavia E. Butler (1980): Wild Seed
+:PROPERTIES:
+:Custom_id: reading_butler80:_wild_seed
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/wildseed.pdf]]
+** TODO Octavia E. Butler (2012): Clay's Ark
+:PROPERTIES:
+:Custom_id: reading_butler12:_clays_ark
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/claysark_book3ofseedtoharvest.pdf]]
+** TODO Octavia E. Butler (2012): Mind of my Mind
+:PROPERTIES:
+:Custom_id: reading_butler12:_mind_mind
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/mindofmymind_book2ofseedtoharvest.pdf]]
+** TODO Octavia E. Butler (2012): Patternmaster
+:PROPERTIES:
+:Custom_id: reading_butler12:_patter
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/patternmaster_book4ofseedtoharvest.pdf]]
+** TODO Octavia E. Butler (2012): Wild Seed
+:PROPERTIES:
+:Custom_id: reading_butler12:_wild_seed
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/wildseed.pdf]]
 ** TODO Olivier Lecarme and Karine Delvare (2013): The Book of Gimp: A Complete Guide to Nearly Everything
 :PROPERTIES:
 :Custom_id: reading_lecarme13:_book_gimp
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux Geek by No Starch/thebookofgimp.pdf]]
+** TODO Pamela Ribon (2017): Slam Volume 1
+:PROPERTIES:
+:Custom_id: reading_ribon17:_slam_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/slam_vol1.pdf]]
 ** TODO Paolo Bacigalupi (2008): Pump Six and Other Stories
 :PROPERTIES:
 :Custom_id: reading_bacigalupi08:_pump_six_other_stories
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB eBook Bundle 1/pumpsixandotherstories.pdf]]
+** TODO Pat Shaughnessy (2014): Ruby Under a Microscope - An Illustrated Guide to Ruby Internals
+:PROPERTIES:
+:Custom_id: reading_shaughnessy14:_ruby_under_micros_illus_guide_ruby_inter
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/rubyunderamicroscope.pdf]]
 ** TODO Patricia A. Deuster and Anita Singh and Pierre A. Pelletier (2013): The U.S. Navy Seal Guide to Fitness and Nutrition
 :PROPERTIES:
 :Custom_id: reading_deuster13:_us_navy_seal_guid_fitn
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Survive Anything by Skyhorse/theu_s_navysealguidetofitnessandnutrition.pdf]]
+** TODO Patricia A. McKillip (2012): Wonders of the Invisible World
+:PROPERTIES:
+:Custom_id: reading_mckillip12:_wonder_invis_world
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/wondersoftheinvisibleworld.pdf]]
+** TODO Patricia C. Wrede (1982): Shadow Magic - A Lyra Novel
+:PROPERTIES:
+:Custom_id: reading_wrede82:_shadow_magic_lyra_novel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/shadowmagic_book1ofthelyranovels.pdf]]
+** TODO Patricia C. Wrede (1983): Daughter of Witches - A Lyra Novel
+:PROPERTIES:
+:Custom_id: reading_wrede83:_daugh_witch_lyra_novel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/daughterofthewitches_book2ofthelyranovels.pdf]]
+** TODO Patricia C. Wrede (1985): The Harp of Imach Thyssel - A Lyra Novel
+:PROPERTIES:
+:Custom_id: reading_wrede85:_harp_imach_thyss_lyra_novel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/theharpofimachthyss_book3ofthelyranovels.pdf]]
+** TODO Patricia C. Wrede (1987): Caught in Crystal - A Lyra Novel
+:PROPERTIES:
+:Custom_id: reading_wrede87:_caugh_cryst_lyra_novel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/caughtincrystal_book4ofthelyranovels.pdf]]
+** TODO Patricia C. Wrede (1994): The Raven Ring - A Lyra Novel
+:PROPERTIES:
+:Custom_id: reading_wrede94:_raven_ring_lyra_novel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/ravenring_book5ofthelyranovels.pdf]]
+** TODO Patrick Di Justo and Emily Gertz (2013): Atmospheric Monitoring with Arduino
+:PROPERTIES:
+:Custom_id: reading_justo13:_atmos_monit_arduin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/atmosphericmonitoringwitharduino.pdf]]
 ** TODO Patrick Pfeiffer (2014): Bass Guitar for Dummies
 :PROPERTIES:
 :Custom_id: reading_pfeiffer14:_bass_guitar_dummies
@@ -1861,11 +2636,21 @@
 :Custom_id: reading_anderson17:_great_quotes_from_great_leader
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/greatquotesfromgreatleaders.pdf]]
+** TODO Pete Goodliffe (2007): Code Craft - The Practice of Writing Excellent Code
+:PROPERTIES:
+:Custom_id: reading_goodliffe07:_code_craft_pract_writin_excel_code
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/codecraft.pdf]]
 ** TODO Pete Rawlik (2013): Reanimators
 :PROPERTIES:
 :Custom_id: reading_rawlik13:_reanim
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/reanimators.pdf]]
+** TODO Peter McLean (2016): A Burned Man Book 1 - Drake
+:PROPERTIES:
+:Custom_id: reading_mclean16:_burned_man_book_drake
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/theburnedman_book1_drake.pdf]]
 ** TODO Peter Morgan (2018): Machine Learning is Changing the Rules: Ways Businesses Can Utilize AI to Innovate
 :PROPERTIES:
 :Custom_id: reading_morgan18:_machin_learn_chang_rules
@@ -1876,6 +2661,26 @@
 :Custom_id: reading_hansteen15:_book_pf
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux Geek by No Starch/bookofpf_ano-nonsenseguidetotheopenbsdfirewall.pdf]]
+** TODO Peter S. Beagle (2017): In Calabria
+:PROPERTIES:
+:Custom_id: reading_beagle17:_in_calab
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/incalabria.pdf]]
+** TODO Peter S. Beagle and Jacob Weisman (2017): The New Voices of Fantasy
+:PROPERTIES:
+:Custom_id: reading_beagle17:_new_voices_fantas
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/thenewvoicesoffantasy.pdf]]
+** TODO Peter Tieryas (2016): United States of Japan
+:PROPERTIES:
+:Custom_id: reading_tieryas16:_united_states_japan
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/unitedstatesofjapan.pdf]]
+** TODO Peter Watts (2013): Beyond The Rift
+:PROPERTIES:
+:Custom_id: reading_watts13:_beyon_rift
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/beyondtherift.pdf]]
 ** TODO Peteris Krumins (2014): Perl One-Liners: 130 Programs That Get Things Done
 :PROPERTIES:
 :Custom_id: reading_krumins14:_perl_one_liner
@@ -1891,11 +2696,26 @@
 :Custom_id: reading_smith09:_trinit_bots
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB The Darkness Sci-fi and Sex Top Cow/trinity_bloodonthesands.pdf]]
+** TODO Poul Anderson (2015): Three Hearts and Three Lions
+:PROPERTIES:
+:Custom_id: reading_anderson15:_three_heart_three_lions
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/threeheartsandthreelions.pdf]]
+** TODO Prateek Joshi (2017): Artificial Intelligence with Python
+:PROPERTIES:
+:Custom_id: reading_joshi17:_artif_intel_python
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/artificialintelligencewithpython.pdf]]
 ** TODO Quentin Tarantino and Matt Wagner (2015): Django | Zorro Collection
 :PROPERTIES:
 :Custom_id: reading_tarantino15:_djang_zorro_collec
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Comics Bundle Dynamite/django_zorro_collection.pdf]]
+** TODO R. A. MacAvoy (2014): The Book of Kells
+:PROPERTIES:
+:Custom_id: reading_macavoy14:_book_kells
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/thebookofkells.pdf]]
 ** TODO Rafat Leszko (2017): Continuous Delivery with Docker and Jenkins
 :PROPERTIES:
 :Custom_id: reading_leszko17:_contin_deliv_docker_jenkin
@@ -1906,6 +2726,11 @@
 :Custom_id: reading_wahlstrom06:_tao_writin
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Write Like A Writer/taoofwriting.pdf]]
+** TODO Randall Hyde (2010): The Art of Assembly Language
+:PROPERTIES:
+:Custom_id: reading_hyde10:_art_assem_languag
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/theartofassemblylanguage.pdf]]
 ** TODO Randall Munroe (2009): xkcd volume 0
 :PROPERTIES:
 :Custom_id: reading_munroe09
@@ -1926,6 +2751,11 @@
 :Custom_id: reading_camden17:_workin_static_sites_bring_power
 :END:
 [[file:/home/richard/humble bundles/oreilly-webdesign-development/workingwithstaticsites.pdf]]
+** TODO Raymond E. Barrett and Windell H. Oskay (2015): Make: The Annotated Build-It-Yourself Science Laboratory
+:PROPERTIES:
+:Custom_id: reading_barrett15:_make_annota_build_scienc_labora
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_theannotatedbuild-it-yourselfsciencelaboratory.pdf]]
 ** TODO Richard Aleas (2007): Songs of Innocence
 :PROPERTIES:
 :Custom_id: reading_aleas07:_songs_innoc
@@ -1936,11 +2766,31 @@
 :Custom_id: reading_caddick11:_commun_user_exper
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB UI UX by Wiley/communicatingtheuserexperience.pdf]]
+** TODO Rick Loverd (2010): Berserker - Volume 1
+:PROPERTIES:
+:Custom_id: reading_loverd10:_berser_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/berserker_vol1.pdf]]
 ** TODO Rick Morris (2014): The Joy of Home Distilling: The Ultimate Guide To Making Your Own Vodka, Whiskey, Rum, Schnapps and Brandy
 :PROPERTIES:
 :Custom_id: reading_morris14:_joy_home_distil
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Survive Anything by Skyhorse/thejoyofhomedistilling.pdf]]
+** TODO Rick Remender (2001): Deadly Class - 1987 Reagan Youth
+:PROPERTIES:
+:Custom_id: reading_remender01:_deadl_class_reagan_youth
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/deadlyclass_vol1.pdf]]
+** TODO Rick Schertle and James Floyd Kelly (2016): Make: Planes, Gliders and Paper Rockets
+:PROPERTIES:
+:Custom_id: reading_schertle16:_make_planes_gliders
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_planesglidersandpaperrockets.pdf]]
+** TODO Rick Van Hattem (2016): Mastering Python
+:PROPERTIES:
+:Custom_id: reading_hattem16:_master_python
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/masteringpython.pdf]]
 ** TODO Robbie Morrison (2015): Doctor Who: The Tenth Doctor Volume 2: The Weeping Angels of Mons
 :PROPERTIES:
 :Custom_id: reading_morrison15:_doctor_who_tenth_doct_vol2
@@ -1976,6 +2826,21 @@
 :Custom_id: reading_thompson05:_astron_hacks
 :END:
 [[file:/home/richard/humble bundles/oreilly-hacks/astronomyhacks.pdf]]
+** TODO Robert R. McCammon (1983): Boy's Life
+:PROPERTIES:
+:Custom_id: reading_mccammon83:_boys_life
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/boyslife.pdf]]
+** TODO Robert R. McCammon (1987): Swan Song
+:PROPERTIES:
+:Custom_id: reading_mccammon87:_swan_song
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/SwanSong_1414538788.pdf]]
+** TODO Robert R. McCammon (1989): The Wolf's Hour
+:PROPERTIES:
+:Custom_id: reading_mccammon89:_wolfs_hour
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/thewolfshour.pdf]]
 ** TODO Robert Schnakenberg (2008): Christopher Walken A to Z - The Man, The Movies, The Legend
 :PROPERTIES:
 :Custom_id: reading_schnakenberg08:_chris_walken_z_man_movies_legen
@@ -2006,6 +2871,26 @@
 :Custom_id: reading_silverberg12:_blood_mink
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/bloodonthemink.pdf]]
+** TODO Rod Duncan (2014): The Bullet Catcher's Daughter
+:PROPERTIES:
+:Custom_id: reading_duncan14:_bullet_catch_daugh
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/thefallofthegaslitempire_book1_thebulletcatchersdaughter.pdf]]
+** TODO Rod Duncan (2015): Unseemly Science
+:PROPERTIES:
+:Custom_id: reading_duncan15:_unseem_scien
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/thefallofthegaslitempire_book2_unseemlyscience.pdf]]
+** TODO Rod Duncan (2016): The Custodian of Marvels
+:PROPERTIES:
+:Custom_id: reading_duncan16:_custod_marvel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/thefallofthegaslitempire_book3_thecustodianofmarvels.pdf]]
+** TODO Roger Stewart (2015): The Best of Make: Volume 2
+:PROPERTIES:
+:Custom_id: reading_stewart15:_best_make
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/bestofmake_vol2_65projectsandskillbuilders.pdf]]
 ** TODO Roger Zelazny (2001): The Dream Master
 :PROPERTIES:
 :Custom_id: reading_zelazny01:_dream_master
@@ -2021,11 +2906,21 @@
 :Custom_id: reading_zelazny03:_madwan_sequel_chang
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Classic SciFi and Audiobooks/madwand.pdf]]
+** TODO Ron Marz (2011): Angelus - Volume 1
+:PROPERTIES:
+:Custom_id: reading_marz11:_angel_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/angelus_vol1.pdf]]
 ** TODO Ross E. Lockhart (2012): The Book of Cthulu II
 :PROPERTIES:
 :Custom_id: reading_lockhart12:_book_cthul_ii
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/bookofcthulhu2.pdf]]
+** TODO Rowan Gibson (2015): The 4 Lenses of Innovation - A Power Tool for Creative Thinking
+:PROPERTIES:
+:Custom_id: reading_gibson15:_lenses_innov_power_tool_creat_think
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start a Startup by Wiley/thefourlensesofinnovation.pdf]]
 ** TODO Rui Santos and Luis Perestrelo (2015): BeagleBone for Dummies
 :PROPERTIES:
 :Custom_id: reading_santos15:_beagl_dummies
@@ -2046,16 +2941,31 @@
 :Custom_id: reading_williams15:_music_dummies
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/ipadandiphoneformusiciansfordummies.pdf]]
+** TODO Ryan Cady (2015): Athena IX - Issue 1
+:PROPERTIES:
+:Custom_id: reading_cady15:_athen_ix_issue
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/athenaix_issue1.pdf]]
 ** TODO Ryan Michell (2018): Web Scraping with Python: Collecting More Data From the Modern Web
 :PROPERTIES:
 :Custom_id: reading_michell18:_web_scrap_python
 :END:
 [[file:/home/richard/humble bundles/oreilly-python/webscrapingwithpython.pdf]]
+** TODO Sam Humphries and Caitlin Rose Boyle (2016): Jonesy - Volume 1
+:PROPERTIES:
+:Custom_id: reading_humphries16:_jones_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/jonesy_vol1hq.pdf]]
 ** TODO Sam Parker and Mac Anderson (2018): 212 The Extra Degree - Extraordinary Results Begin With One Small Change
 :PROPERTIES:
 :Custom_id: reading_parker18:_extra_degree_extraor_resul_begin
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/212theextradegree.pdf]]
+** TODO Sams Maggs (2015): The Fangirls Guide to the Galaxy
+:PROPERTIES:
+:Custom_id: reading_maggs15:_fangir_guide_galax
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/thefangirlsguidetothegalaxy.pdf]]
 ** TODO Samuel Fuller (2014): Brainquake
 :PROPERTIES:
 :Custom_id: reading_fuller14:_brain
@@ -2081,6 +2991,11 @@
 :Custom_id: reading_burger18:_introd_machin_learn_r
 :END:
 [[file:/home/richard/humble bundles/oreilly-machine-learning/introductiontomachinelearningwithr.pdf]]
+** TODO Sebastian Raschka (2016): Python Machine Learning
+:PROPERTIES:
+:Custom_id: reading_raschka16:_python_machin_learn
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/pythonmachinelearning.pdf]]
 ** TODO Sebastien Goasguen (2016): Docker Cookbook: Solutions and Examples for Building Distributed Applications
 :PROPERTIES:
 :Custom_id: reading_goasguen16:_docker_cookb
@@ -2121,6 +3036,11 @@
 :Custom_id: reading_monk16:_raspb_cookb
 :END:
 [[file:/home/richard/humble bundles/oreilly-prog-cookbooks/raspberrypicookbook.pdf]]
+** TODO Simon R. Green (2014): Tales of the Hidden World Stories
+:PROPERTIES:
+:Custom_id: reading_green14:_tales_hidden_world_stories
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/talesofthehiddenworld.pdf]]
 ** TODO Simon St. Laurent (2017): Introducing Erlang: Getting Started in Functional Programming
 :PROPERTIES:
 :Custom_id: reading_laurent17:_introd_erlan
@@ -2136,16 +3056,31 @@
 :Custom_id: reading_grubor17:_deploy_docker
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/deploymentwithdocker.pdf]]
+** TODO Stanislaw Lem (1974): The Cyberiad
+:PROPERTIES:
+:Custom_id: reading_lem74:_cyber
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/thecyberiad.pdf]]
 ** TODO Stephanie Goddard Davidson (1998): 101 Ways to Have a Great Day @ Work
 :PROPERTIES:
 :Custom_id: reading_davidson98:_ways_have_great_day_work
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/101waystohaveagreatdayatwork.pdf]]
+** TODO Stephen A. Thomas (2015): Data Visualization with Javascript
+:PROPERTIES:
+:Custom_id: reading_thomas15:_data_visual_javas
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/datavisualizationwithjavascript.pdf]]
 ** TODO Stephen H. Segal (2011): Geek Wisdom - The Sacred Teachings of Nerd Culture
 :PROPERTIES:
 :Custom_id: reading_segal11:_geek_wisdom_sacred_teach_nerd_cultur
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pop Culture Survival Guide by Quirk/geekwisdom.pdf]]
+** TODO Stephen King and Peter Straub and Clive Barker and Neil Gaiman and Poppy Z. Brite and Dan Simmons and George R.R. Martin and Kelly Link (2010): Darkness - Two Decades of Modern Horror
+:PROPERTIES:
+:Custom_id: reading_king10:_darkn_two_decad_moder_horror
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/darkness_twodecadesofmodernhorror.pdf]]
 ** TODO Stephen Ludin and Javier Garza (2017): Learning HTTP/2 - A Practical Guide for Beginners
 :PROPERTIES:
 :Custom_id: reading_ludin17:_learn_http_pract_guide_begin
@@ -2186,6 +3121,11 @@
 :Custom_id: reading_lott18:_moder_python_cookb
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python 2019 Packt/modernpythoncookbook.pdf]]
+** TODO Steven F. Lott (2016): Modern Python Cookbook
+:PROPERTIES:
+:Custom_id: reading_lott16:_moder_python_cookb
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/modernpythoncookbook.pdf]]
 ** TODO Steven Suehring (2017): CompTIA Linux+ and  LPIC Practice Tests
 :PROPERTIES:
 :Custom_id: reading_suehring17:_compt_linux_lpic_pract_tests
@@ -2261,6 +3201,11 @@
 :Custom_id: reading_quindt17:_book_cospl_sewin_start_from_zero
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cosplay 2.0/thebookofcosplaysewing.pdf]]
+** TODO Tad Williams (2014): The Very Best of Tad Williams
+:PROPERTIES:
+:Custom_id: reading_williams14:_very_best_tad_william
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/theverybestoftadwilliams.pdf]]
 ** TODO Tad Williams and Nina Kiriki Hoffman (1992): Child of an Ancient City
 :PROPERTIES:
 :Custom_id: reading_williams92:_child_ancien_city
@@ -2301,11 +3246,21 @@
 :Custom_id: reading_lee17:_window_server_autom_power_cookb
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/windowsserver2016automationwithpowershellcookbook.pdf]]
+** TODO Tilman M. Davies (2016): The Book of R - A First Course in Programming and Statistics
+:PROPERTIES:
+:Custom_id: reading_davies16:_book_r_first_cours_progr_statis
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/thebookofr.pdf]]
 ** TODO Tim Connor (2007): 81 Challenges Smart Managers Face - How To Overcome The Biggest Challenges Facing Managers & Leaders Today
 :PROPERTIES:
 :Custom_id: reading_connor07:_chall_smart_manag_face_how
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/81challengessmartmanagersface.pdf]]
+** TODO Tim Deagan (2016): Make: Fire - The Art and Science of Working with Propane
+:PROPERTIES:
+:Custom_id: reading_deagan16:_make_fire
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_fire.pdf]]
 ** TODO Tim Seeley (2015): Chaos - Highway To Hell
 :PROPERTIES:
 :Custom_id: reading_seeley15:_chaos_highw_to_hell
@@ -2346,11 +3301,21 @@
 :Custom_id: reading_sprinkle17:_lost_stran
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Survive Anything by Skyhorse/lostandstranded.pdf]]
+** TODO Timothy Zahn (2014): Soulminder
+:PROPERTIES:
+:Custom_id: reading_zahn14:_soulm
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/soulminder.pdf]]
 ** TODO Tina LeCount Myers (2018): The Song of All
 :PROPERTIES:
 :Custom_id: reading_myers18:_song_all
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/thesongofall.pdf]]
+** TODO Tini Howard (2015): Poseidon IX - Issue 1
+:PROPERTIES:
+:Custom_id: reading_howard15:_poseid_ix_issue
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/poseidonix_issue1.pdf]]
 ** TODO Todd McFarlane (2010): Spawn Origins Collection Volume 6: Collecting Issues 33-38
 :PROPERTIES:
 :Custom_id: reading_mcfarlane10a:_spawn_origin_collec_volum
@@ -2481,6 +3446,71 @@
 :Custom_id: reading_white15:_hadoop_defin_guide
 :END:
 [[file:/home/richard/humble bundles/oreilly-data-science/hadoop_thedefinitiveguide.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2016): Judge Dredd - Mega-City Zero Volume 1
+:PROPERTIES:
+:Custom_id: reading_farinas16:_judge_dredd_mega_city_zero_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_megacityzero_vol1.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2016): Judge Dredd - Mega-City Zero Volume 2
+:PROPERTIES:
+:Custom_id: reading_<new-entry16>
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_megacityzero_vol2.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - Mega-City Zero
+:PROPERTIES:
+:Custom_id: reading_farinas17:_judge_dredd_mega_city_zero
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_megacityzero.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - Mega-City Zero Volume 3
+:PROPERTIES:
+:Custom_id: reading_farinas17vol3:_judge_dredd_mega_city_zero_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_megacityzero_vol3.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - The Blessed Earth Issue 1
+:PROPERTIES:
+:Custom_id: reading_farinas17:_judge_dredd_bless_earth_issue
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_theblessedearth_issue1.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - The Blessed Earth Issue 1
+:PROPERTIES:
+:Custom_id: reading_farinas17iss1:_judge_dredd_bless_earth_issue1
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_theblessedearth_issue1.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - The Blessed Earth Issue 2
+:PROPERTIES:
+:Custom_id: reading_farinas17iss2:_judge_dredd_bless_earth_issue2
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_theblessedearth_issue2.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - The Blessed Earth Issue 4
+:PROPERTIES:
+:Custom_id: reading_farinas17iss4:_judge_dredd_bless_earth_issue4
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_theblessedearth_issue4.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - The Blessed Earth Issue 5
+:PROPERTIES:
+:Custom_id: reading_farinas17iss5:_judge_dredd_bless_earth_issue5
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_theblessedearth_issue5.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - The Blessed Earth Issue 6
+:PROPERTIES:
+:Custom_id: reading_farinas17iss6:_judge_dredd_bless_earth_issue6
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_theblessedearth_issue6.pdf]]
+** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - The Blessed Earth Issue 7
+:PROPERTIES:
+:Custom_id: reading_farinas17iss7:_judge_dredd_bless_earth_issue7
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_theblessedearth_issue7.pdf]]
+** TODO Ursula K. Le Guin (2003): Changing Planes
+:PROPERTIES:
+:Custom_id: reading_guin03:_chang_planes
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/changingplanes.pdf]]
+** TODO V. Anton Spraul (2012): Think Like A Programmer - An Introduction to Creative Problem Solving
+:PROPERTIES:
+:Custom_id: reading_spraul12:_think_like_progr_introd_creat_probl_solvin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/thinklikeaprogrammer.pdf]]
 ** TODO V. Anton Spraul (2012): Think Like A Programmer: An Introduction to Creative Problem Solving
 :PROPERTIES:
 :Custom_id: reading_spraul12:_think_like_progr
@@ -2526,16 +3556,31 @@
 :Custom_id: reading_quesada18:_progr_voice_inter_givin_connec_devic_voice
 :END:
 [[file:/home/richard/humble bundles/oreilly-webdesign-development/programmingvoiceinterfaces.pdf]]
+** TODO Wesley Chu (2013): The Lives of Tao
+:PROPERTIES:
+:Custom_id: reading_chu13:_lives_tao
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/thelivesoftao.pdf]]
 ** TODO Wilbert O. Galitz (2007): The Essential Guide to User Interface Design: An Introduction to GUI Design Principles and Techniques
 :PROPERTIES:
 :Custom_id: reading_galitz07:_essen_guide_user_inter_desig
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB UI UX by Wiley/theessentialguidetouserinterfacedesign.pdf]]
+** TODO William E. Shotts (2012): The Linux Command Line - A Complete Introduction
+:PROPERTIES:
+:Custom_id: reading_shotts12:_linux_comman_line_compl_introd
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/thelinuxcommandline.pdf]]
 ** TODO William E. Shotts Jr. and Julia Evans and OccupyTheWeb and Michael W. Lucas and John Calcote (2018): No Starch Summer Sampler 2018
 :PROPERTIES:
 :Custom_id: reading_shotts18:_no_starc_summer_sampl
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux Geek by No Starch/nostarch_summersampler_2018.pdf]]
+** TODO William Gibson and Stephen Baxter and Margo Lanagan and Caitlin R. Kiernan and Jake Von Slatt and Cherie Priest and Gail Carriger and Daniel Abraham and Catherynne M. Valente and Ramona Szczerba (2010): Steampunk II - Steampunk Reloaded
+:PROPERTIES:
+:Custom_id: reading_gibson10:_steam_ii_steam_reload
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/steampunk2_steampunkreloaded.pdf]]
 ** TODO Winslow Yerxa (2015): Harmonica for Dummies
 :PROPERTIES:
 :Custom_id: reading_yerxa15:_harmon_dummies
@@ -2561,6 +3606,11 @@
 :Custom_id: reading_donat18:_make_jumpst_onion_omega2
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Programmable Boards by Make/jumpstartingtheonionomega2.pdf]]
+** TODO Yasuko Kobayashi (2008): Witchblade Manga
+:PROPERTIES:
+:Custom_id: reading_kobayashi08:_witch_manga
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/witchblademanga.pdf]]
 ** TODO Yuxi Liu (2019): Python Machine Learning By Example
 :PROPERTIES:
 :Custom_id: reading_liu19:_python_machin_learn_by_examp
@@ -2581,978 +3631,3 @@
 :Custom_id: reading_jernigan13:_no_retur
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/noreturn.pdf]]
-** TODO Patrick Di Justo and Emily Gertz (2013): Atmospheric Monitoring with Arduino
-:PROPERTIES:
-:Custom_id: reading_justo13:_atmos_monit_arduin
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/atmosphericmonitoringwitharduino.pdf]]
-** TODO Roger Stewart (2015): The Best of Make: Volume 2
-:PROPERTIES:
-:Custom_id: reading_stewart15:_best_make
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/bestofmake_vol2_65projectsandskillbuilders.pdf]]
-** TODO Emily Gertz and Patrick Di Justo (2011): (No Title)
-:PROPERTIES:
-:Custom_id: reading_gertz11
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/environmentalmonitoringwitharduino.pdf]]
-** TODO David McGriffy (2017): Make: Drones - Teach an Arduino to Fly
-:PROPERTIES:
-:Custom_id: reading_mcgriffy17:_make_drones
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_drones.pdf]]
-** TODO Tim Deagan (2016): Make: Fire - The Art and Science of Working with Propane
-:PROPERTIES:
-:Custom_id: reading_deagan16:_make_fire
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_fire.pdf]]
-** TODO Mike Westerfield (2018): Make: High-Power Rockets - Construction and Certification for Thousands of Feet and Beyond
-:PROPERTIES:
-:Custom_id: reading_westerfield18:_make_high_power_rocket
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_highpowerrockets.pdf]]
-** TODO Caleb Kraft and  Keith Hammond (2017): Make: Volume 56
-:PROPERTIES:
-:Custom_id: reading_kraft17:_make_magazine
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_magazine_56.pdf]]
-** TODO Rick Schertle and James Floyd Kelly (2016): Make: Planes, Gliders and Paper Rockets
-:PROPERTIES:
-:Custom_id: reading_schertle16:_make_planes_gliders
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_planesglidersandpaperrockets.pdf]]
-** TODO Mike Westerfield (2014): Make: Rockets - Down-to-Earth Rocket Science
-:PROPERTIES:
-:Custom_id: reading_westerfield14:_make_rocket
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_rockets_downtoearthrocketscience.pdf]]
-** TODO Raymond E. Barrett and Windell H. Oskay (2015): Make: The Annotated Build-It-Yourself Science Laboratory
-:PROPERTIES:
-:Custom_id: reading_barrett15:_make_annota_build_scienc_labora
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_theannotatedbuild-it-yourselfsciencelaboratory.pdf]]
-** TODO Curt Gabrielson (2015): Make: Tinkering - Kids Learn by Making Stuff
-:PROPERTIES:
-:Custom_id: reading_gabrielson15:_make_tinker
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Mad Scientist by Make/make_tinkering_2ndedition.pdf]]
-** TODO Foz Meadows (2016): An Accident of Stars
-:PROPERTIES:
-:Custom_id: reading_meadows16:_accid_stars
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/anaccidentofstars.pdf]]
-** TODO Dan Abnett (2011): Embedded
-:PROPERTIES:
-:Custom_id: reading_abnett11:_embed
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/embedded.pdf]]
-** TODO Anna Kashina (2014): Blades of the Old Empire
-:PROPERTIES:
-:Custom_id: reading_kashina14:_blades_old_empir
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/bladesoftheoldempire.pdf]]
-** TODO Christopher Hinz (2016): Binary Storm
-:PROPERTIES:
-:Custom_id: reading_hinz16:_binar_storm
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/binarystorm.pdf]]
-** TODO Keith Yatsuhashi (2016): Kojiki
-:PROPERTIES:
-:Custom_id: reading_yatsuhashi16:_kojik
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/kojiki.pdf]]
-** TODO Justin Gustainis (2011): Occult Crimes Unit - Book 1 - Hard Spell
-:PROPERTIES:
-:Custom_id: reading_gustainis11:_occul_crimes_unit_book_hard_spell
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/occultcrimesunit_book1_hardspell.pdf]]
-** TODO Justin Gustainis (2012): Occult Crimes Unit - Book 2 - Evil Dark
-:PROPERTIES:
-:Custom_id: reading_gustainis12:_occul_crimes_unit_book_evil_dark
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/occultcrimesunit_book2_evildark.pdf]]
-** TODO Justin Gustainis (2014): Occult Crimes Unit - Book 3 - Known Devil
-:PROPERTIES:
-:Custom_id: reading_gustainis14:_occul_crimes_unit_book_known_devil
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/occultcrimesunit_book3_knowndevil.pdf]]
-** TODO Jay Posey (2017): Outriders
-:PROPERTIES:
-:Custom_id: reading_posey17:_outrid
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/outriders.pdf]]
-** TODO Kaaron Warren (2009): Slights
-:PROPERTIES:
-:Custom_id: reading_warren09:_sligh
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/slights.pdf]]
-** TODO Megan E. O'Keefe (2016): Steal The Sky
-:PROPERTIES:
-:Custom_id: reading_okeefe16:_steal_sky
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/stealthesky.pdf]]
-** TODO Danielle L Jensen (2014): Stolen Songbird
-:PROPERTIES:
-:Custom_id: reading_jensen14:_stolen_songb
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/stolensongbird.pdf]]
-** TODO Carrie Patel (2015): The Buried Life
-:PROPERTIES:
-:Custom_id: reading_patel15:_buried_life
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/theburiedlife.pdf]]
-** TODO Peter McLean (2016): A Burned Man Book 1 - Drake
-:PROPERTIES:
-:Custom_id: reading_mclean16:_burned_man_book_drake
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/theburnedman_book1_drake.pdf]]
-** TODO Rod Duncan (2014): The Bullet Catcher's Daughter
-:PROPERTIES:
-:Custom_id: reading_duncan14:_bullet_catch_daugh
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/thefallofthegaslitempire_book1_thebulletcatchersdaughter.pdf]]
-** TODO Rod Duncan (2016): The Custodian of Marvels
-:PROPERTIES:
-:Custom_id: reading_duncan16:_custod_marvel
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/thefallofthegaslitempire_book3_thecustodianofmarvels.pdf]]
-** TODO Rod Duncan (2015): Unseemly Science
-:PROPERTIES:
-:Custom_id: reading_duncan15:_unseem_scien
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/thefallofthegaslitempire_book2_unseemlyscience.pdf]]
-** TODO Wesley Chu (2013): The Lives of Tao
-:PROPERTIES:
-:Custom_id: reading_chu13:_lives_tao
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/thelivesoftao.pdf]]
-** TODO Ishbelle Bee (2015): The Singular and Extraordinary Tale of Mirror and Goliath
-:PROPERTIES:
-:Custom_id: reading_bee15:_singul_extraor_tale_mirror_goliat
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/thesingularandextraordinarytaleofmirrorandgoliath.pdf]]
-** TODO Peter Tieryas (2016): United States of Japan
-:PROPERTIES:
-:Custom_id: reading_tieryas16:_united_states_japan
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/unitedstatesofjapan.pdf]]
-** TODO Andrew Wheeler (2017): Another Castle - Grimoire
-:PROPERTIES:
-:Custom_id: reading_wheeler17:_anoth_castl_grimoir
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/anothercastle_grimoire.pdf]]
-** TODO Kelly Sue DeConnick (2014): Bitch Planet
-:PROPERTIES:
-:Custom_id: reading_deconnick14:_bitch_planet
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/bitchplanet_vol1.pdf]]
-** TODO Liz Prince (2017): Coady and the Creepies
-:PROPERTIES:
-:Custom_id: reading_prince17:_coady_creep
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/coadyandthecreepies_vol1.pdf]]
-** TODO Rick Remender (2001): Deadly Class - 1987 Reagan Youth
-:PROPERTIES:
-:Custom_id: reading_remender01:_deadl_class_reagan_youth
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/deadlyclass_vol1.pdf]]
-** TODO Lynn Beighley (2017): Make: Geek Girl's Guide to Geek Women
-:PROPERTIES:
-:Custom_id: reading_beighley17:_make
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/geekgirlsguidetogeekwomen.pdf]]
-** TODO John Allison (2015): Giant Days - Volume 1
-:PROPERTIES:
-:Custom_id: reading_allison15:_giant_days_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/giantdays_vol1hq.pdf]]
-** TODO Hope Larson (2016): Goldie Vance - Volume 1
-:PROPERTIES:
-:Custom_id: reading_larson16:_goldie_vance_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/goldievance_vol1_2018_3_22.pdf]]
-** TODO Jen Van Meter (2010): Hopeless Savages - Greatest Hits
-:PROPERTIES:
-:Custom_id: reading_meter10:_hopel_savag_great_hits
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/hopelesssavages__greatesthits.pdf]]
-** TODO Kelly Thompson (2015): Jem and the Holograms - Volume 1
-:PROPERTIES:
-:Custom_id: reading_thompson15:_jem_holog_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/jemandtheholograms_vol1.pdf]]
-** TODO Sam Humphries and Caitlin Rose Boyle (2016): Jonesy - Volume 1
-:PROPERTIES:
-:Custom_id: reading_humphries16:_jones_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/jonesy_vol1hq.pdf]]
-** TODO Noelle Stevenson and Grace Ellis (2015): Lumberjanes - Beware the Kitten Holy
-:PROPERTIES:
-:Custom_id: reading_stevenson15:_lumber_bewar_kitten_holy
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/lumberjanes_vol1.pdf]]
-** TODO Kathryn Immonen and Stuart Immonen (2010): Moving Pictures
-:PROPERTIES:
-:Custom_id: reading_immonen10:_movin_pictur
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/movingpictures.pdf]]
-** TODO Brian K. Vaughan (2016): Paper Girls Volume 1
-:PROPERTIES:
-:Custom_id: reading_vaughan16:_paper_girls_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/papergirls_vol1.pdf]]
-** TODO Emi Lenox and Jeff Lemire (2016): Plutona Volume 1
-:PROPERTIES:
-:Custom_id: reading_lenox16:_pluton_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/plutona_vol1.pdf]]
-** TODO Kelly Sue Deconnick (2014): Pretty Deadly Volume 1 - The Shrike
-:PROPERTIES:
-:Custom_id: reading_deconnick14:_prett_deadl_volum_shrik
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/prettydeadly_vol1.pdf]]
-** TODO Pamela Ribon (2017): Slam Volume 1
-:PROPERTIES:
-:Custom_id: reading_ribon17:_slam_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/slam_vol1.pdf]]
-** TODO Jake Lawrence (2015): Teen Dog
-:PROPERTIES:
-:Custom_id: reading_lawrence15:_teen_dog
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/teendog_vol1.pdf]]
-** TODO Sams Maggs (2015): The Fangirls Guide to the Galaxy
-:PROPERTIES:
-:Custom_id: reading_maggs15:_fangir_guide_galax
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/thefangirlsguidetothegalaxy.pdf]]
-** TODO Hope Nicholson (2016): The Secret Loves of Geek Girls - Expanded Edition
-:PROPERTIES:
-:Custom_id: reading_nicholson16:_secret_loves_geek_girls_expan_edition
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/thesecretlovesofgeekgirls_expandededition.pdf]]
-** TODO Hope Nicholson (2017): The Spectacular Sisterhood of Superwomen
-:PROPERTIES:
-:Custom_id: reading_nicholson17:_spect_sister_super
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/thespectacularsisterhoodofsuperwomen.pdf]]
-** TODO Kevin Panetta (2016): Zodiac Starforce - By The Power of Astra
-:PROPERTIES:
-:Custom_id: reading_panetta16:_zodiac_starf_by_power_astra
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/zodiacstarforce_bythepowerofastra.pdf]]
-** TODO Gaston C. Hillar (2016): Building RESTful Python Web Services
-:PROPERTIES:
-:Custom_id: reading_hillar16:_build_restf_python_web_servic
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/buildingrestfulpythonwebservices.pdf]]
-** TODO Prateek Joshi (2017): Artificial Intelligence with Python
-:PROPERTIES:
-:Custom_id: reading_joshi17:_artif_intel_python
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/artificialintelligencewithpython.pdf]]
-** TODO Michal Jaworski and Tarek Ziade (2019): Expert Python Programming
-:PROPERTIES:
-:Custom_id: reading_jaworski19:_exper_python_progr
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/expertpythonprogramming.pdf]]
-** TODO Elliot Forbes (2017): Learning Concurrency in Python
-:PROPERTIES:
-:Custom_id: reading_forbes17:_learn_concur_python
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/learningconcurrencyinpython.pdf]]
-** TODO Lentin Joseph (2018): Learning Robotics using Python
-:PROPERTIES:
-:Custom_id: reading_joseph18:_learn_robot_python
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/learningroboticsusingpython.pdf]]
-** TODO Rick Van Hattem (2016): Mastering Python
-:PROPERTIES:
-:Custom_id: reading_hattem16:_master_python
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/masteringpython.pdf]]
-** TODO Steven F. Lott (2016): Modern Python Cookbook
-:PROPERTIES:
-:Custom_id: reading_lott16:_moder_python_cookb
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/modernpythoncookbook.pdf]]
-** TODO Ivan Idris (2016): Python Data Analysis Cookbook
-:PROPERTIES:
-:Custom_id: reading_idris16:_python_data_analy_cookb
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/pythondataanalysiscookbook.pdf]]
-** TODO Alberto Boschetti and Luca Massaron (2016): Python Data Science Essentials
-:PROPERTIES:
-:Custom_id: reading_boschetti16:_python_data_scien_essen
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/pythondatascienceessentials.pdf]]
-** TODO Benjamin Baka (2017): Python Date Structures and Algorithms
-:PROPERTIES:
-:Custom_id: reading_baka17:_python_date_struc_algor
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/pythondatastructuresandalgorithms.pdf]]
-** TODO Burkhard A. Meier (2017): Python GUI Programming Cookbook
-:PROPERTIES:
-:Custom_id: reading_meier17:_python_gui_progr_cookb
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/pythonguiprogrammingcookbook.pdf]]
-** TODO Sebastian Raschka (2016): Python Machine Learning
-:PROPERTIES:
-:Custom_id: reading_raschka16:_python_machin_learn
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/pythonmachinelearning.pdf]]
-** TODO Anand Balachandran Pillai (2017): Software Architecture with Python
-:PROPERTIES:
-:Custom_id: reading_pillai17:_softw_archit_python
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/softwarearchitecturewithpython.pdf]]
-** TODO Aidas Bendoraitis (2016): Web Development with Django Cookbook
-:PROPERTIES:
-:Custom_id: reading_bendoraitis16:_web_devel_djang_cookb
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/webdevelopmentwithdjangocookbook.pdf]]
-** TODO Arthur  Wyatt and Matt Smith (2015): Dredd - Urban Warfare
-:PROPERTIES:
-:Custom_id: reading_wyatt15:_dredd_urban_warfar
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/dredd_urbanwarfare.pdf]]
-** TODO John Wagner (2005): Judge Death - My Name is Death
-:PROPERTIES:
-:Custom_id: reading_wagner05:_judge_death_my_name_death
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedeath_mynameisdeath.pdf]]
-** TODO John Wagner (2012): Judge Dredd - America
-:PROPERTIES:
-:Custom_id: reading_wagner12:_judge_dredd_americ
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_america.pdf]]
-** TODO Matt Smith (2015): Judge Dredd - Anderson - Psi Division
-:PROPERTIES:
-:Custom_id: reading_smith15:_judge_dredd_ander_psi_divis
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_andersonpsidivision.pdf]]
-** TODO John Wagner and Alan Grant (2017): Judge Dredd - Cry of the Werewolf
-:PROPERTIES:
-:Custom_id: reading_wagner17:_judge_dredd_cry_werew
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_cryofthewerewolf.pdf]]
-** TODO John Wagner and Alan Grant (2010): Judge Dredd - The Complete Case Files 05
-:PROPERTIES:
-:Custom_id: reading_wagner10:_judge_dredd_compl_case_files
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_casefiles_vol5.pdf]]
-** TODO John McCrea (2017): Judge Dredd - Deviations
-:PROPERTIES:
-:Custom_id: reading_mccrea17:_judge_dredd_deviat
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_deviations.pdf]]
-** TODO John Wagner (2013): Judge Dredd - Day of Chaos: The Fourth Faction
-:PROPERTIES:
-:Custom_id: reading_wagner13:_judge_dredd_day_chaos
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_fourthfaction.pdf]]
-** TODO John Layman (2017): Judge Dredd - Funko Universe
-:PROPERTIES:
-:Custom_id: reading_layman17:_judge_dredd_funko_univer
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_funkouniverse.pdf]]
-** TODO Douglas Wolk (2014): Judge Dredd - Mega City Two: City of Courts
-:PROPERTIES:
-:Custom_id: reading_wolk14:_judge_dredd_mega_city_two
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_megacitytwo.pdf]]
-** TODO Andy Diggle and Rob Williams (2008): Judge Dredd - Mega-City Under Cover
-:PROPERTIES:
-:Custom_id: reading_diggle08:_judge_dredd_mega_city_under_cover
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_megacityundercover.pdf]]
-** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - Mega-City Zero
-:PROPERTIES:
-:Custom_id: reading_farinas17:_judge_dredd_mega_city_zero
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_megacityzero.pdf]]
-** TODO Ulises Farinas and Erick Freitas (2016): Judge Dredd - Mega-City Zero Volume 1
-:PROPERTIES:
-:Custom_id: reading_farinas16:_judge_dredd_mega_city_zero_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_megacityzero_vol1.pdf]]
-** TODO Ulises Farinas and Erick Freitas (2016): Judge Dredd - Mega-City Zero Volume 2
-:PROPERTIES:
-:Custom_id: reading_<new-entry16>
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_megacityzero_vol2.pdf]]
-** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - Mega-City Zero Volume 3
-:PROPERTIES:
-:Custom_id: reading_farinas17vol3:_judge_dredd_mega_city_zero_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_megacityzero_vol3.pdf]]
-** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - The Blessed Earth Issue 1
-:PROPERTIES:
-:Custom_id: reading_farinas17:_judge_dredd_bless_earth_issue
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_theblessedearth_issue1.pdf]]
-** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - The Blessed Earth Issue 1
-:PROPERTIES:
-:Custom_id: reading_farinas17iss1:_judge_dredd_bless_earth_issue1
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_theblessedearth_issue1.pdf]]
-** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - The Blessed Earth Issue 2
-:PROPERTIES:
-:Custom_id: reading_farinas17iss2:_judge_dredd_bless_earth_issue2
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_theblessedearth_issue2.pdf]]
-** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - The Blessed Earth Issue 4
-:PROPERTIES:
-:Custom_id: reading_farinas17iss4:_judge_dredd_bless_earth_issue4
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_theblessedearth_issue4.pdf]]
-** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - The Blessed Earth Issue 5
-:PROPERTIES:
-:Custom_id: reading_farinas17iss5:_judge_dredd_bless_earth_issue5
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_theblessedearth_issue5.pdf]]
-** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - The Blessed Earth Issue 6
-:PROPERTIES:
-:Custom_id: reading_farinas17iss6:_judge_dredd_bless_earth_issue6
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_theblessedearth_issue6.pdf]]
-** TODO Ulises Farinas and Erick Freitas (2017): Judge Dredd - The Blessed Earth Issue 7
-:PROPERTIES:
-:Custom_id: reading_farinas17iss7:_judge_dredd_bless_earth_issue7
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_theblessedearth_issue7.pdf]]
-** TODO John Wagner and Alan Grant (2018): Judge Dredd - The Dark Judges
-:PROPERTIES:
-:Custom_id: reading_wagner18:_judge_dredd_dark_judges
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_thedarkjudges.pdf]]
-** TODO Duane Swierczynski (2013): Judge Dredd - Volume 1
-:PROPERTIES:
-:Custom_id: reading_swierczynski13:_judge_dredd_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol1.pdf]]
-** TODO Duane Swierczynski (2014): Judge Dredd - Volume 3
-:PROPERTIES:
-:Custom_id: reading_swierczynski14vol3:_judge_dredd_vol3
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol3.pdf]]
-** TODO Duane Swierczynski (2013): Judge Dredd - Volume 2
-:PROPERTIES:
-:Custom_id: reading_swierczynski13vol2:_judge_dredd_vol2
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol2.pdf]]
-** TODO Duane Swierczynski (2013): Judge Dredd - Volume 1
-:PROPERTIES:
-:Custom_id: reading_swierczynski13vol1:_judge_dredd_vol1
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol1.pdf]]
-** TODO Duane Swierczynski (2014): Judge Dredd - Volume 4
-:PROPERTIES:
-:Custom_id: reading_swierczynski14vol4:_judge_dredd_vol4
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol4.pdf]]
-** TODO Duane Swierczynski (2014): Judge Dredd - Volume 5
-:PROPERTIES:
-:Custom_id: reading_swierczynski14vol5:_judge_dredd_vol5
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol5.pdf]]
-** TODO Duane Swierczynski (2015): Judge Dredd - Volume 6
-:PROPERTIES:
-:Custom_id: reading_swierczynski15vol6:_judge_dredd_vol6
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol6.pdf]]
-** TODO Duane Swierczynski (2015): Judge Dredd - Volume 7
-:PROPERTIES:
-:Custom_id: reading_swierczynski15vol7:_judge_dredd_vol7
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_vol7.pdf]]
-** TODO Matt Smith (2013): Judge Dredd - Year One
-:PROPERTIES:
-:Custom_id: reading_smith13:_judge_dredd_year_one
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_yearone.pdf]]
-** TODO Al Ewing (2014): Mars Attacks vs. Judge Dredd
-:PROPERTIES:
-:Custom_id: reading_ewing14:_mars_attac
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/marsattacksvsjudgedredd.pdf]]
-** TODO John Wagner (2008): Judge Dredd - Origins
-:PROPERTIES:
-:Custom_id: reading_wagner08:_judge_dredd_origin
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgederedd_origins.pdf]]
-** TODO Harlan Ellison (1979): I Have No Mouth & I Must Scream
-:PROPERTIES:
-:Custom_id: reading_ellison79:_i_have_no_mouth_i_must_scream
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/IHaveNoMouthandIMustScream_1407521522.pdf]]
-** TODO Robert R. McCammon (1987): Swan Song
-:PROPERTIES:
-:Custom_id: reading_mccammon87:_swan_song
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/SwanSong_1414538788.pdf]]
-** TODO Robert R. McCammon (1983): Boy's Life
-:PROPERTIES:
-:Custom_id: reading_mccammon83:_boys_life
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/boyslife.pdf]]
-** TODO Patricia C. Wrede (1987): Caught in Crystal - A Lyra Novel
-:PROPERTIES:
-:Custom_id: reading_wrede87:_caugh_cryst_lyra_novel
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/caughtincrystal_book4ofthelyranovels.pdf]]
-** TODO Ursula K. Le Guin (2003): Changing Planes
-:PROPERTIES:
-:Custom_id: reading_guin03:_chang_planes
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/changingplanes.pdf]]
-** TODO Octavia E. Butler (2012): Clay's Ark
-:PROPERTIES:
-:Custom_id: reading_butler12:_clays_ark
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/claysark_book3ofseedtoharvest.pdf]]
-** TODO Patricia C. Wrede (1983): Daughter of Witches - A Lyra Novel
-:PROPERTIES:
-:Custom_id: reading_wrede83:_daugh_witch_lyra_novel
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/daughterofthewitches_book2ofthelyranovels.pdf]]
-** TODO Elizabeth A. Lynn (1998): Dragon's Winter
-:PROPERTIES:
-:Custom_id: reading_lynn98:_dragon_winter
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/dragonswinter.pdf]]
-** TODO Greg Bear (1985): Eon
-:PROPERTIES:
-:Custom_id: reading_bear85:_eon
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/eon.pdf]]
-** TODO Elizabeth Briggs (2016): Future Shock
-:PROPERTIES:
-:Custom_id: reading_briggs16:_futur_shock
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/futureshock.pdf]]
-** TODO Octavia E. Butler (2012): Mind of my Mind
-:PROPERTIES:
-:Custom_id: reading_butler12:_mind_mind
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/mindofmymind_book2ofseedtoharvest.pdf]]
-** TODO Octavia E. Butler (2012): Patternmaster
-:PROPERTIES:
-:Custom_id: reading_butler12:_patter
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/patternmaster_book4ofseedtoharvest.pdf]]
-** TODO Karina Sumner-Smith (2014): Radiant
-:PROPERTIES:
-:Custom_id: reading_sumner-smith14:_radian
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/radiant_towersbook1.pdf]]
-** TODO Patricia C. Wrede (1994): The Raven Ring - A Lyra Novel
-:PROPERTIES:
-:Custom_id: reading_wrede94:_raven_ring_lyra_novel
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/ravenring_book5ofthelyranovels.pdf]]
-** TODO Patricia C. Wrede (1982): Shadow Magic - A Lyra Novel
-:PROPERTIES:
-:Custom_id: reading_wrede82:_shadow_magic_lyra_novel
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/shadowmagic_book1ofthelyranovels.pdf]]
-** TODO Timothy Zahn (2014): Soulminder
-:PROPERTIES:
-:Custom_id: reading_zahn14:_soulm
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/soulminder.pdf]]
-** TODO Simon R. Green (2014): Tales of the Hidden World Stories
-:PROPERTIES:
-:Custom_id: reading_green14:_tales_hidden_world_stories
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/talesofthehiddenworld.pdf]]
-** TODO R. A. MacAvoy (2014): The Book of Kells
-:PROPERTIES:
-:Custom_id: reading_macavoy14:_book_kells
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/thebookofkells.pdf]]
-** TODO Stanislaw Lem (1974): The Cyberiad
-:PROPERTIES:
-:Custom_id: reading_lem74:_cyber
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/thecyberiad.pdf]]
-** TODO Patricia C. Wrede (1985): The Harp of Imach Thyssel - A Lyra Novel
-:PROPERTIES:
-:Custom_id: reading_wrede85:_harp_imach_thyss_lyra_novel
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/theharpofimachthyss_book3ofthelyranovels.pdf]]
-** TODO Robert R. McCammon (1989): The Wolf's Hour
-:PROPERTIES:
-:Custom_id: reading_mccammon89:_wolfs_hour
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/thewolfshour.pdf]]
-** TODO Poul Anderson (2015): Three Hearts and Three Lions
-:PROPERTIES:
-:Custom_id: reading_anderson15:_three_heart_three_lions
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/threeheartsandthreelions.pdf]]
-** TODO John Brunner (1981): To Conquer Chaos
-:PROPERTIES:
-:Custom_id: reading_brunner81:_to_conquer_chaos
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/toconquerchaos.pdf]]
-** TODO Octavia E. Butler (1980): Wild Seed
-:PROPERTIES:
-:Custom_id: reading_butler80:_wild_seed
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/wildseed.pdf]]
-** TODO Octavia E. Butler (2012): Wild Seed
-:PROPERTIES:
-:Custom_id: reading_butler12:_wild_seed
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/wildseed.pdf]]
-** TODO Pete Goodliffe (2007): Code Craft - The Practice of Writing Excellent Code
-:PROPERTIES:
-:Custom_id: reading_goodliffe07:_code_craft_pract_writin_excel_code
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/codecraft.pdf]]
-** TODO Stephen A. Thomas (2015): Data Visualization with Javascript
-:PROPERTIES:
-:Custom_id: reading_thomas15:_data_visual_javas
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/datavisualizationwithjavascript.pdf]]
-** TODO Brandon Perry (2017): Gray Hat C# - A Hacker's Guide to Creating and Automating Security Tools
-:PROPERTIES:
-:Custom_id: reading_perry17:_gray_hat_c_hacker_guide
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/grayhatcsharp.pdf]]
-** TODO Conrad Barski (2011): Land of Lisp - Learn to Program in Lisp, One Game at a Time!
-:PROPERTIES:
-:Custom_id: reading_barski11:_land_lisp_learn_progr_lisp
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/landoflisp_learntoprgraminlisp.pdf]]
-** TODO Miran Lipovaca (2011): Learn You a Haskell for Great Good! - A Beginner's Guide
-:PROPERTIES:
-:Custom_id: reading_lipovaca11:_learn_you_haskel_great_good
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/learnyouahaskellforgreatgood.pdf]]
-** TODO Fred Hebert (2013): Learn You Some Erlang for Great Good! - A Beginner's Guide
-:PROPERTIES:
-:Custom_id: reading_hebert13:_learn_you_some_erlan_great_good
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/learnyousomeerlangforgreatgood.pdf]]
-** TODO Forrest Bice and Rose DeMaio and Spencer Florence and Feng-Yun Mimi Lin and Scott Lindeman and Nicole Nussbaum and Eric Peterson and Ryan Van Horn (2013): Learn to Program, One Game at a Time!
-:PROPERTIES:
-:Custom_id: reading_bice13:_learn_progr_one_game_time
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/realmofracket_learntoprogram.pdf]]
-** TODO Forrest Bice and Rose DeMaio and Spencer Florence and Feng-Yun Mimi Lin and Scott Lindeman and Nicole Nussbaum and Eric Peterson and Ryan Van Horn (2013): Realm of Racket - Learn to Program, One Game at a Time!
-:PROPERTIES:
-:Custom_id: reading_bice13:_realm_racket_learn_progr_one_game_time
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/realmofracket_learntoprogram.pdf]]
-** TODO Pat Shaughnessy (2014): Ruby Under a Microscope - An Illustrated Guide to Ruby Internals
-:PROPERTIES:
-:Custom_id: reading_shaughnessy14:_ruby_under_micros_illus_guide_ruby_inter
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/rubyunderamicroscope.pdf]]
-** TODO Bryson Payne (2015): Teach Your Kidn To Code - A Parent-Friendly Guide To Python Programming
-:PROPERTIES:
-:Custom_id: reading_payne15:_teach_your_kidn_to_code
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/teachyourkidstocode_1490913058.pdf]]
-** TODO Randall Hyde (2010): The Art of Assembly Language
-:PROPERTIES:
-:Custom_id: reading_hyde10:_art_assem_languag
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/theartofassemblylanguage.pdf]]
-** TODO Norman Matloff and Peter Jay Salzman (2008): The Art of Debugging with GDB, DDD and Eclipse
-:PROPERTIES:
-:Custom_id: reading_matloff8coder:_art_debug_gdb_ddd_eclip
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/theartofdebugging.pdf]]
-** TODO Norman Matloff (2011): The Art of R Programming
-:PROPERTIES:
-:Custom_id: reading_matloff11:_art_r_progr
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/theartofrprogramming.pdf]]
-** TODO Tilman M. Davies (2016): The Book of R - A First Course in Programming and Statistics
-:PROPERTIES:
-:Custom_id: reading_davies16:_book_r_first_cours_progr_statis
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/thebookofr.pdf]]
-** TODO William E. Shotts (2012): The Linux Command Line - A Complete Introduction
-:PROPERTIES:
-:Custom_id: reading_shotts12:_linux_comman_line_compl_introd
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/thelinuxcommandline.pdf]]
-** TODO V. Anton Spraul (2012): Think Like A Programmer - An Introduction to Creative Problem Solving
-:PROPERTIES:
-:Custom_id: reading_spraul12:_think_like_progr_introd_creat_probl_solvin
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/thinklikeaprogrammer.pdf]]
-** TODO Nicholas C. Zakas (2016): Understanding ECMAScript 6 - The Definitive Guide for Javascript Developers
-:PROPERTIES:
-:Custom_id: reading_zakas16:_under_ecmas_defin_guide_javas_devel
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/understandingecmascript6.pdf]]
-** TODO Dave Taylor and Brandon Perry (2017): Wicked Cool Shell Scripts - 101 Scripts for Linux, OS X and Unix Systems
-:PROPERTIES:
-:Custom_id: reading_taylor17:_wicked_cool_shell_scrip_scrip
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/wickedcoolshellscripts.pdf]]
-** TODO Peter Watts (2013): Beyond The Rift
-:PROPERTIES:
-:Custom_id: reading_watts13:_beyon_rift
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/beyondtherift.pdf]]
-** TODO Cory Doctorow (2011): Context - Further Selected Essays on Productivity, Creativity, Parenting and Politics in the 21st Century
-:PROPERTIES:
-:Custom_id: reading_doctorow11:_contex_furth_selec_essay_produc
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/context_furtherselectedessaysinthe21stcentury.pdf]]
-** TODO Lavie Tidhar (2016): Central Station
-:PROPERTIES:
-:Custom_id: reading_tidhar16:_centr_station
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/centralstation.pdf]]
-** TODO Stephen King and Peter Straub and Clive Barker and Neil Gaiman and Poppy Z. Brite and Dan Simmons and George R.R. Martin and Kelly Link (2010): Darkness - Two Decades of Modern Horror
-:PROPERTIES:
-:Custom_id: reading_king10:_darkn_two_decad_moder_horror
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/darkness_twodecadesofmodernhorror.pdf]]
-** TODO Nalo Hopkinson (2015): Falling in Love with Hominids
-:PROPERTIES:
-:Custom_id: reading_hopkinson15:_fallin_love_homin
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/fallinginlovewithhominids.pdf]]
-** TODO Joe R. Lansdale (2017): Hap and Leonard - Blood and Lemonade
-:PROPERTIES:
-:Custom_id: reading_lansdale17:_hap_leonar_blood_lemon
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/hapandleonard_bloodandlemonade.pdf]]
-** TODO Joe R. Lansdale (2016): Hap and Leonard - Ride Again
-:PROPERTIES:
-:Custom_id: reading_lansdale16:_hap_leonar_ride_again
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/hapandleonardrideagain.pdf]]
-** TODO Peter S. Beagle (2017): In Calabria
-:PROPERTIES:
-:Custom_id: reading_beagle17:_in_calab
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/incalabria.pdf]]
-** TODO Junot Diaz and Katherine Dunn and Jonathan Lethem and George Saunders and Steven Millhauser and Amiri Baraka and W. P. Kinsella and Jami Attenberg and Robert Olen Butler and Deji Bryce Olukotun and Rivka Galchen and Jim Shepard and Molly Gloss and Max Apple (2016): Invaders - 22 Tales From The Outer Limits of Literature
-:PROPERTIES:
-:Custom_id: reading_diaz16:_invad_tales_from_outer_limit_liter
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/invaders.pdf]]
-** TODO Kelley Armstrong (2015): Led Astray - The Best of Kelley Armstrong
-:PROPERTIES:
-:Custom_id: reading_armstrong15:_led_astray_best_kelley_armst
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/ledastray_thebestofkelleyarmstrong.pdf]]
-** TODO Michael Swanwick (2016): Not So Much Said The Cat
-:PROPERTIES:
-:Custom_id: reading_swanwick16:_not_so_much_said_cat
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/notsomuchsaidthecat.pdf]]
-** TODO Bruce Sterling (2016): Pirate Utopia
-:PROPERTIES:
-:Custom_id: reading_sterling16:_pirat_utopia
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/pirateutopia.pdf]]
-** TODO Cory Doctorow and Bruce Sterling and William Gibson and Gwyneth Jones and Jonathan Lethem and Charles Stross and Michael Swanwick and Walter Jon Williams and Pat Cadigan and Greg Egan and Paolo Bacigalupi and Paul Di Filippo and Elizabeth Bear and David Marusek and Christopher Rowe and Mary Rosenblum (2007): Rewired - The Post-Cyberpunk Anthology
-:PROPERTIES:
-:Custom_id: reading_doctorow07:_rewir_post_cyber_anthol
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/rewired_thepostcyberpunkanthology.pdf]]
-** TODO Alastair Reynolds (2015): Slow Bullets
-:PROPERTIES:
-:Custom_id: reading_reynolds15:_slow_bullet
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/slowbullets.pdf]]
-** TODO William Gibson and Stephen Baxter and Margo Lanagan and Caitlin R. Kiernan and Jake Von Slatt and Cherie Priest and Gail Carriger and Daniel Abraham and Catherynne M. Valente and Ramona Szczerba (2010): Steampunk II - Steampunk Reloaded
-:PROPERTIES:
-:Custom_id: reading_gibson10:_steam_ii_steam_reload
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/steampunk2_steampunkreloaded.pdf]]
-** TODO Peter S. Beagle and Jacob Weisman (2017): The New Voices of Fantasy
-:PROPERTIES:
-:Custom_id: reading_beagle17:_new_voices_fantas
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/thenewvoicesoffantasy.pdf]]
-** TODO Jeff Vandermeer (2010): The Third Bear
-:PROPERTIES:
-:Custom_id: reading_vandermeer10:_third_bear
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/thethirdbear.pdf]]
-** TODO Kate Elliott (2015): The Very Best of Kate Elliott
-:PROPERTIES:
-:Custom_id: reading_elliott15:_very_best_kate_elliot
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/theverybestofkateelliott.pdf]]
-** TODO Tad Williams (2014): The Very Best of Tad Williams
-:PROPERTIES:
-:Custom_id: reading_williams14:_very_best_tad_william
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/theverybestoftadwilliams.pdf]]
-** TODO Ellen Klages (2017): Wicked Wonders
-:PROPERTIES:
-:Custom_id: reading_klages17:_wicked_wonder
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/wickedwonders.pdf]]
-** TODO Patricia A. McKillip (2012): Wonders of the Invisible World
-:PROPERTIES:
-:Custom_id: reading_mckillip12:_wonder_invis_world
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/wondersoftheinvisibleworld.pdf]]
-** TODO Nancy Kress (2014): Yesterday's Kin
-:PROPERTIES:
-:Custom_id: reading_kress14:_yester_kin
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/yesterdayskin.pdf]]
-** TODO Matt Hawkins (2015): IX Generation - Volume One
-:PROPERTIES:
-:Custom_id: reading_hawkins15:_ix_gener_volum_one
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/9thgeneration_vol1.pdf]]
-** TODO Matt Hawkins (2016): XI Generation - Volume 2
-:PROPERTIES:
-:Custom_id: reading_hawkins16:_xi_gener_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/9thgeneration_vol2.pdf]]
-** TODO Ron Marz (2011): Angelus - Volume 1
-:PROPERTIES:
-:Custom_id: reading_marz11:_angel_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/angelus_vol1.pdf]]
-** TODO David Wohl (2007): Aphrodite - Volume 1
-:PROPERTIES:
-:Custom_id: reading_wohl07:_aphrod_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/aphrodite_vol1.pdf]]
-** TODO Matt Hawkins (2014): Aphrodite IX - Cyberforce - Issue 1
-:PROPERTIES:
-:Custom_id: reading_hawkins14:_aphrod_ix_cyber_issue
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/aphroditeix_cyberforce_issue1.pdf]]
-** TODO Matt Hawkins (2013): Aphrodite IX Rebirth - Volume 1
-:PROPERTIES:
-:Custom_id: reading_hawkins13:_aphrod_ix_rebir_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/aphroditeix_rebirth_vol1.pdf]]
-** TODO Matt Hawkins (2014): Aphrodite IX Rebirth - Volume 2
-:PROPERTIES:
-:Custom_id: reading_hawkins14:_aphrod_ix_rebir_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/aphroditeix_rebirth_vol2.pdf]]
-** TODO Ashley Victoria Robinson (2015): Apollo IX - Issue 1
-:PROPERTIES:
-:Custom_id: reading_robinson15:_apoll_ix_issue
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/apolloix_issue1.pdf]]
-** TODO Dan Wickline (2015): Artemis IX - Issue 1
-:PROPERTIES:
-:Custom_id: reading_wickline15:_artem_ix_issue
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/artemisix_issue1.pdf]]
-** TODO Ryan Cady (2015): Athena IX - Issue 1
-:PROPERTIES:
-:Custom_id: reading_cady15:_athen_ix_issue
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/athenaix_issue1.pdf]]
-** TODO Rick Loverd (2010): Berserker - Volume 1
-:PROPERTIES:
-:Custom_id: reading_loverd10:_berser_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/berserker_vol1.pdf]]
-** TODO Linda Sejic (2016): Bloodstain - Volume 1
-:PROPERTIES:
-:Custom_id: reading_sejic16:_blood_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/bloodstain_vol1.pdf]]
-** TODO Mark Silvestri and Matt Hawkins (2013): Cyber Force Rebirth - Volume 1
-:PROPERTIES:
-:Custom_id: reading_silvestri13:_cyber_force_rebir_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/cyberforce_rebirth_vol1.pdf]]
-** TODO Marc Silvestri (2015): Cyber Force Rebirth - Volume 2
-:PROPERTIES:
-:Custom_id: reading_silvestri15:_cyber_force_rebir_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/cyberforce_rebirth_vol2.pdf]]
-** TODO Mark Waid (2010): Cyber Force Hunter Killer - Volume 1
-:PROPERTIES:
-:Custom_id: reading_waid10:_cyber_force_hunter_killer_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/cyberforcehunterkiller_vol1.pdf]]
-** TODO Mark Waid (2008): Hunter Killer - Volume 1
-:PROPERTIES:
-:Custom_id: reading_waid08:_hunter_killer_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/hunterkiller_vol1.pdf]]
-** TODO Tini Howard (2015): Poseidon IX - Issue 1
-:PROPERTIES:
-:Custom_id: reading_howard15:_poseid_ix_issue
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/poseidonix_issue1.pdf]]
-** TODO Mark Powers (2010): Rest - Volume 1
-:PROPERTIES:
-:Custom_id: reading_powers10:_rest_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/rest_vol1.pdf]]
-** TODO Matt Hawkins and Jenni Cheung (2017): Swing and Sugar - Excerpt
-:PROPERTIES:
-:Custom_id: reading_hawkins17:_swing_sugar_excer
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/swingandsugarexcerpt.pdf]]
-** TODO Matt Hawkins (2016): Symmetry - Volume 1
-:PROPERTIES:
-:Custom_id: reading_hawkins16:_symmet_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/symmetry_vol1.pdf]]
-** TODO Matt Hawkins (2016): Symmetry - Volume 2
-:PROPERTIES:
-:Custom_id: reading_<new-entry31>
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/symmetry_vol2.pdf]]
-** TODO Matt Hawkins (2016): Symmetry - Volume 2
-:PROPERTIES:
-:Custom_id: reading_hawkins16:_symmet_volum2
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/symmetry_vol2.pdf]]
-** TODO Matt Hawkins (2016): Symmetry - Volume 1
-:PROPERTIES:
-:Custom_id: reading_hawkins16:_symmet_volum1
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/symmetry_vol1.pdf]]
-** TODO Matt Hawkins (2012): Think Tank - Volume 1
-:PROPERTIES:
-:Custom_id: reading_hawkins12:_think_tank_volum1
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/thinktank_vol1.pdf]]
-** TODO Matt Hawkins (2012): Think Tank - Volume 2
-:PROPERTIES:
-:Custom_id: reading_hawkins12:_think_tank_volum2
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/thinktank_vol2.pdf]]
-** TODO Matt Hawkins (2014): Think Tank - Volume 3
-:PROPERTIES:
-:Custom_id: reading_hawkins14:_think_tank_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/thinktank_vol3.pdf]]
-** TODO Matt Hawkins (2014): Wildfire - Volume 1
-:PROPERTIES:
-:Custom_id: reading_hawkins14:_wildf_volum
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/wildfire_vol1.pdf]]
-** TODO Matt Hawkins (2017): Think Tank - Volume 5
-:PROPERTIES:
-:Custom_id: reading_hawkins17:_think_tank_volum5
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/thinktank_vol5.pdf]]
-** TODO Matt Hawkins (2016): Think Tank - Volume 4
-:PROPERTIES:
-:Custom_id: reading_hawkins16:_think_tank_volum4
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/thinktank_vol4.pdf]]
-** TODO Yasuko Kobayashi (2008): Witchblade Manga
-:PROPERTIES:
-:Custom_id: reading_kobayashi08:_witch_manga
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/witchblademanga.pdf]]
