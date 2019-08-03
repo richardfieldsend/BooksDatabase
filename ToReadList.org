@@ -3761,3 +3761,93 @@
 :Custom_id: reading_solberg17:_opens_archit
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/openstackforarchitects.pdf]]
+** TODO Linda Byars Swindling (2017): Ask Outrageously! The Secret To Getting What You Really Want
+:PROPERTIES:
+:Custom_id: reading_swindling17:_ask_outrag
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/askoutrageously.pdf]]
+** TODO Denise Jacobs (2017): Banish Your Inner Critic - Silence the Voice of Self-Doubt to Unleash Your Creativity and Do Your Best Work
+:PROPERTIES:
+:Custom_id: reading_jacobs17:_banis_your_inner_critic_silen
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/banishyourinnercritic.pdf]]
+** TODO Dianna Booher (2017): Communicate Like A Leader - Connecting Strategically To Coach, Inspire and Get Things Done
+:PROPERTIES:
+:Custom_id: reading_booher17:_commun_like_leader_connec_strat
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/communicatelikealeader.pdf]]
+** TODO Kayla Buell (2016): Corporate Survival Guide For Your Twenties - A Guide To Help You Navigate The Business World
+:PROPERTIES:
+:Custom_id: reading_buell16:_corpor_surviv_guide_for_your
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/corporatesurvivalguideforyourtwenties.pdf]]
+** TODO Rick Peterson and Judd Hoekstra (2017): Crunch Time - How To Be Your Best When It Matters Most
+:PROPERTIES:
+:Custom_id: reading_peterson17:_crunc_time_how_to_be
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/crunchtime_ebook.pdf]]
+** TODO Brian Tracy (2017): Eat That Frog - Snapshots Edition
+:PROPERTIES:
+:Custom_id: reading_tracy17:_eat_that_frog_snaps_edition
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/eatthatfrog.pdf]]
+** TODO Sam Bracken (2016): GUTS - Find Your Greatness, Beat the Odds, Live From Passion
+:PROPERTIES:
+:Custom_id: reading_bracken16:_guts_find_your_great_beat
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/guts_ebook.pdf]]
+** TODO Julian Treasure (2017): How to be Heard - Secrets for Powerful Speaking and Listening
+:PROPERTIES:
+:Custom_id: reading_treasure17:_how_heard_secret_power_speak_listen
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/howtobeheard.pdf]]
+** TODO Edgar H. Schein (2013): Humble Inquiry - The Gentle Art of Asking Instead of Telling
+:PROPERTIES:
+:Custom_id: reading_schein13:_humbl_inquir_gentl_art_askin_instead_tellin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/humbleinquiry.pdf]]
+** TODO David Carlson (2016): Hustle Away Debt - Eliminate Your Debt by Making More Money
+:PROPERTIES:
+:Custom_id: reading_carlson16:_hustl_away_debt_elimin_your
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/hustleawaydebt.pdf]]
+** TODO Deepak Malhotra (2016): Negotiating The Impossible - How to Break Deadlocks and Resolve Ugly Conflicts (Without Money or Muscle)
+:PROPERTIES:
+:Custom_id: reading_malhotra16:_negot_impos_how_break_deadl
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/negotiatingtheimpossible.pdf]]
+** TODO Kelvin Davis (2017): Notoriously Dapper - How to be a Modern Gentleman with Manners, Style and Body Confidence
+:PROPERTIES:
+:Custom_id: reading_davis17:_notor_dapper_how_moder_gentl
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/notoriouslydapper.pdf]]
+** TODO Tiffany Jana and Matthew Freeman (2016): Overcoming Bias
+:PROPERTIES:
+:Custom_id: reading_jana16:_overc_bias
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/overcomingbias.pdf]]
+** TODO Nat Greene (2017): Stop Guessing - The 9 Behaviours of Great Problem Solvers
+:PROPERTIES:
+:Custom_id: reading_greene17:_stop_guess_behav_great_probl_solver
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/stopguessing.pdf]]
+** TODO Stephen R. Covey (2015): The 7 Habits of Highly Effective People - Interactive Edition
+:PROPERTIES:
+:Custom_id: reading_covey15:_habit_highl_effec_peopl_inter_edition
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/the7habitsofhighlyeffectivepeople.pdf]]
+** TODO Brenda Knowles (2017): The Quiet Rise of Introverts - 8 Practices for Living and Loving in a Noisy World
+:PROPERTIES:
+:Custom_id: reading_knowles17:_quiet_rise_introv_pract_livin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/thequietriseofintroverts.pdf]]
+** TODO Mary-Frances Winters (2017): We Can't Talk About That At Work! - How to Talk About Race, Religion, Politics and Other Polarizing Topics
+:PROPERTIES:
+:Custom_id: reading_winters17:_we_cant_talk_about_that_at_work
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/wecanttalkaboutthatatwork.pdf]]
+** TODO Steve Arneson (2014): What Your Boss Really Wants From You - 15 Insights to Improve Your Relationship
+:PROPERTIES:
+:Custom_id: reading_arneson14:_what_your_boss_reall_wants
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/whatyourbossreallywantsfromyou.pdf]]
