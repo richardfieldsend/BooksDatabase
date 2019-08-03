@@ -3716,3 +3716,48 @@
 :Custom_id: reading_hunder15:_witch_be_crazy
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/witchesbecrazy.pdf]]
+** TODO Lucas Chan and Rowan Udell (2017): AWS Administration Cookbook
+:PROPERTIES:
+:Custom_id: reading_chan17:_aws_admin_cookb
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/awsadministration_thedefinitiveguide_reupload.pdf]]
+** TODO Yohan Wadia (2016): AWS Administration - The Definitive Guide
+:PROPERTIES:
+:Custom_id: reading_wadia16:_aws_admin_defin_guide
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/awsadministrationcookbook_reupload.pdf]]
+** TODO Markus Klein and Susan Roesner (2017): Building Hybrid Clouds with Azure Stack
+:PROPERTIES:
+:Custom_id: reading_klein17:_build_hybrid_cloud_azure_stack
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/buildinghybridcloudswithazurestack.pdf]]
+** TODO Manish Sethi (2017): Cloud Native Python
+:PROPERTIES:
+:Custom_id: reading_sethi17:_cloud_nativ_python
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/cloudnativepython.pdf]]
+** TODO Florian Klaffenbach and Jan-Henrik Damaschke and Oliver Michalski (2017): Implementing Azure Solutions
+:PROPERTIES:
+:Custom_id: reading_klaffenbach17:_implem_azure_solut
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/implementsazuresolutions.pdf]]
+** TODO Jochen Nickel (2016): Mastering Identity and Access Management with Microsoft Azure
+:PROPERTIES:
+:Custom_id: reading_nickel16:_master_ident_acces_manag_micros_azure
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/masteringidentityandaccessmanagement.pdf]]
+** TODO Omar Khedher and Chandan Dutta Chowdhury (2017): Mastering Openstack
+:PROPERTIES:
+:Custom_id: reading_khedher17:_master_opens
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/masteringopenstack.pdf]]
+** TODO Namit Tanasseri and Rahul Rai (2017): Microservices with Azure
+:PROPERTIES:
+:Custom_id: reading_tanasseri17:_micros_azure
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/microserviceswithazure.pdf]]
+** TODO Michael Solberg and Ben Silverman (2017): OpenStack for Architects
+:PROPERTIES:
+:Custom_id: reading_solberg17:_opens_archit
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/openstackforarchitects.pdf]]
