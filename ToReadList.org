@@ -4121,3 +4121,68 @@
 :Custom_id: reading_schneier15:_secret_lies_digit_secur_networ_world
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cybersecurity by Wiley/secrets_and_lies_digital_security_in_a_networked_world.pdf]]
+** TODO Scott Chacon and Ben Straub (2014): Pro Git - Everything You Need To Know About Git
+:PROPERTIES:
+:Custom_id: reading_chacon14:_pro_git_every_you_need
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux and Open Source by Apress/progitsecondedition.pdf]]
+** TODO Michael Heap (2016): Ansible - From Beginner to Pro
+:PROPERTIES:
+:Custom_id: reading_heap16:_ansib_from_begin_pro
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux and Open Source by Apress/ansible_frombeginnertopro.pdf]]
+** TODO Sander van Vugt (2014): Pro Linux High Availability Clustering
+:PROPERTIES:
+:Custom_id: reading_vugt14:_pro_linux_high_avail_clust
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux and Open Source by Apress/prolinuxhighavailabilityclustering.pdf]]
+** TODO Mark McDonnell (2014): Pro Vim
+:PROPERTIES:
+:Custom_id: reading_mcdonnell14:_pro_vim
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux and Open Source by Apress/provim.pdf]]
+** TODO Nathan Haines (2015): Beginning Ubuntu for Windows and Mac Users - Start Operating the Open Source Way
+:PROPERTIES:
+:Custom_id: reading_haines15:_begin_ubunt_window_mac_users
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux and Open Source by Apress/beginningubuntuforwindowsandmacusers.pdf]]
+** TODO (No Author) (????): (No Title)
+:PROPERTIES:
+:Custom_id: reading_<new-entry3>
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux and Open Source by Apress/certifiedopenstackadministratorstudyguide.pdf]]
+** TODO Andrey Markelov (2016): Certified OpenStack Administrator Study Guide
+:PROPERTIES:
+:Custom_id: reading_markelov16:_certif_opens_admin_study_guide
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux and Open Source by Apress/certifiedopenstackadministratorstudyguide.pdf]]
+** TODO Chris Dannen (2017): Introducing Ethereum and Solidity - Foundations of Cryptocurrency and Blockchain Programming for Beginners
+:PROPERTIES:
+:Custom_id: reading_dannen17:_introd_ether_solid_found_crypt
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux and Open Source by Apress/introducingethereumandsolidity.pdf]]
+** TODO Jose Dieguez Castro (2016): Introducing Linux Distros
+:PROPERTIES:
+:Custom_id: reading_castro16:_introd_linux_distr
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux and Open Source by Apress/introductiontolinuxdistros.pdf]]
+** TODO Rahul Soni (2016): Nginx - From Beginner to Pro
+:PROPERTIES:
+:Custom_id: reading_soni16:_nginx_from_begin_pro
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux and Open Source by Apress/nginx_frombeginnertopro.pdf]]
+** TODO David Clinton (2016): Practical LPIC-1 Linux Certification Study Guide
+:PROPERTIES:
+:Custom_id: reading_clinton16:_pract_lpic_linux_certif_study_guide
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux and Open Source by Apress/practical_lpic-1.pdf]]
+** TODO Chris Binnie (2016): Practical Linux Topics
+:PROPERTIES:
+:Custom_id: reading_binnie16:_pract_linux_topic
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux and Open Source by Apress/practicallinuxtopics.pdf]]
+** TODO Deepak Vohra (2016): Pro Docker - Learn how to use Containers as a Service for development and Deployment
+:PROPERTIES:
+:Custom_id: reading_vohra16:_pro_docker_learn_contain_servic_deploy
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux and Open Source by Apress/prodocker.pdf]]
