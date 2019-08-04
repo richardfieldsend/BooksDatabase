@@ -1,0 +1,19 @@
+* Carlos Bueno (2015): Lauren Ipsum - A Story About Computer Science and Other Improbable Things
+:PROPERTIES:
+:Custom_id: bueno15:_lauren_ipsum_story_about_comput
+:END:
+
+An interesting little book which sets out to describe a number of
+'classic' computer problems held together in an 'Alice in Wonderland'
+type story.
+
+The one I remember being in there is the 'travelling salesman' where
+you plot the best route for a travelling salesman to take to cover a
+number of cities where the main rule is that they can't revisit
+somewhere they have already been.  One of the best ways of finding an
+answer, according to this story is to set the problem for a nest of
+ants. They will attempt all the different routes and then mark the
+best with pheromones which encourage other ants to take these superior
+routes.
+
+A fun, short little read which I am sure I will read again some day.

@@ -58,6 +58,16 @@
 :Custom_id: reading_sweigart15:_autom_borin_stuff_with_python
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux Geek by No Starch/automatetheboringstuffwithpython_new.pdf]]
+** TODO Al Sweigart (2016): Scratch Programming Playground - Learn To Program by Making Cool Games
+:PROPERTIES:
+:Custom_id: reading_sweigart16:_scrat_progr_playg_learn_to
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Brainiac 2 by No Starch/scratchprogrammingplayground.pdf]]
+** TODO Al Sweigart (2017): Invent Your Own Computer Games With  Python
+:PROPERTIES:
+:Custom_id: reading_sweigart17:_inven_your_own_comput_games_with_python
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Brainiac 2 by No Starch/inventyourowncomputergameswithpython.pdf]]
 ** TODO Alan Cooper and Robert Reimann and David Cronin and Christopher Noessel (2014): About Face: The Essentials of Interaction Design
 :PROPERTIES:
 :Custom_id: reading_cooper14:_about_face
@@ -198,6 +208,11 @@
 :Custom_id: reading_diggle08:_judge_dredd_mega_city_under_cover
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Judge Dredd by IDW and 2000AD/judgedredd_megacityundercover.pdf]]
+** TODO Andy Harris (2013): HTML5 Game Development for Dummies
+:PROPERTIES:
+:Custom_id: reading_harris13:_html5_game_devel_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Land a Tech Job for Dummies/html5gamedevelopmentfordummies.pdf]]
 ** TODO Andy Lightbody (2017): The Terrorism Survival Guide: 201 Travel Tips on How Not to Become a Victim
 :PROPERTIES:
 :Custom_id: reading_lightbody17:_terror_surviv_guide
@@ -331,6 +346,11 @@
 :Custom_id: reading_perry17:_gray_hat_c_hacker_guide
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/grayhatcsharp.pdf]]
+** TODO Brenda Knowles (2017): The Quiet Rise of Introverts - 8 Practices for Living and Loving in a Noisy World
+:PROPERTIES:
+:Custom_id: reading_knowles17:_quiet_rise_introv_pract_livin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/thequietriseofintroverts.pdf]]
 ** TODO Brendan Burns (2018): Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services
 :PROPERTIES:
 :Custom_id: reading_burns18:_desig_distr_system
@@ -371,6 +391,11 @@
 :Custom_id: reading_vaughan16:_paper_girls_volum
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/papergirls_vol1.pdf]]
+** TODO Brian Lyles and Jason Lyles (2014): The Lego Neighborhood Book - Build Your Own Town
+:PROPERTIES:
+:Custom_id: reading_lyles14:_lego_neigh_book_build_your_own_town
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Brainiac 2 by No Starch/LEGONeighborhood1421975366.pdf]]
 ** TODO Brian McGackin (2011): Broetry - Poetry for Dudes
 :PROPERTIES:
 :Custom_id: reading_mcgackin11:_broet_poetr_dudes
@@ -386,6 +411,11 @@
 :Custom_id: reading_tracy15:_bulls_power_focus
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/bullseye.pdf]]
+** TODO Brian Tracy (2017): Eat That Frog - Snapshots Edition
+:PROPERTIES:
+:Custom_id: reading_tracy17:_eat_that_frog_snaps_edition
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/eatthatfrog.pdf]]
 ** TODO Brian Ward (2015): How Linux Works: What Every Superuser Should Know
 :PROPERTIES:
 :Custom_id: reading_ward15:_how_linux_works
@@ -416,6 +446,11 @@
 :Custom_id: reading_frey06:_statis_hack
 :END:
 [[file:/home/richard/humble bundles/oreilly-hacks/statisticshacks.pdf]]
+** TODO Bruce Nikkel (2016): Practical Forensic Imaging - Securing Digital Evidence with Linux Tools
+:PROPERTIES:
+:Custom_id: reading_nikkel16:_pract_foren_imagin_secur_digit
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/practicalforensicimaging.pdf]]
 ** TODO Bruce Sterling (2016): Pirate Utopia
 :PROPERTIES:
 :Custom_id: reading_sterling16:_pirat_utopia
@@ -431,6 +466,11 @@
 :Custom_id: reading_payne15:_teach_your_kidn_to_code
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Be A Coder - No Starch/teachyourkidstocode_1490913058.pdf]]
+** TODO Bryson Payne (2015): Teach Your Kids To Code - A Parent-Friendly Guide To Python Programming
+:PROPERTIES:
+:Custom_id: reading_payne15:_teach_your_kids_to_code
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Brainiac 2 by No Starch/teachyourkidstocode_1490913058.pdf]]
 ** TODO Burkhard A. Meier (2017): Python GUI Programming Cookbook
 :PROPERTIES:
 :Custom_id: reading_meier17:_python_gui_progr_cookb
@@ -460,6 +500,16 @@
 :PROPERTIES:
 :Custom_id: reading_albing12:_cookb
 :END:
+** DONE Carlos Bueno (2015): Lauren Ipsum - A Story About Computer Science and Other Improbable Things
+:PROPERTIES:
+:Custom_id: reading_bueno15:_lauren_ipsum_story_about_comput
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Brainiac 2 by No Starch/laurenipsum.pdf]]
+** TODO Carol L. McClelland (2005): Your Dream Career for Dummies
+:PROPERTIES:
+:Custom_id: reading_mcclelland05:_your_dream_career_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Land a Tech Job for Dummies/yourdreamcareerfordummies.pdf]]
 ** TODO Carrie Anne Philbin (2017): Adventures in Raspberry Pi
 :PROPERTIES:
 :Custom_id: reading_philbin17:_adven_raspb_pi
@@ -525,6 +575,11 @@
 :Custom_id: reading_giridhar17:_autom_it
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/automateit.pdf]]
+** TODO Chris Eagle (2011): The IDA Pro Book - The Unofficial Guide to the World's Most Popular Disassembler
+:PROPERTIES:
+:Custom_id: reading_eagle11:_ida_pro_book_unoff_guide
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/theidaprobook_2ndedition.pdf]]
 ** TODO Chris Griffith (2017): Mobile App Development with Ionic - Cross-Platform Apps with Ionic, Angular & Cordova
 :PROPERTIES:
 :Custom_id: reading_griffith17:_mobil_app_devel_ionic_cross
@@ -535,6 +590,11 @@
 :Custom_id: reading_kohler06:_retro_gamin_hacks
 :END:
 [[file:/home/richard/humble bundles/oreilly-hacks/retrogaminghacks.pdf]]
+** TODO Chris Minnick and Eva Holland (2015): Coding with Javascript for Dummies
+:PROPERTIES:
+:Custom_id: reading_minnick15:_codin_javas_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Land a Tech Job for Dummies/codingwithjavascriptfordummies.pdf]]
 ** TODO Chris Nodder (2013): Evil by Design: Interaction Design to Lead Us Into Temptation
 :PROPERTIES:
 :Custom_id: reading_nodder13:_evil_desig
@@ -550,6 +610,11 @@
 :Custom_id: reading_roberson16:_firew_novel
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/firewalk.pdf]]
+** TODO Chris Sanders (2017): Practical Packet Analysis - Using Wireshark to Solve Real-World Network Problems
+:PROPERTIES:
+:Custom_id: reading_sanders17:_pract_packet_analy_using_wires
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/practicalpacketanalysis.pdf]]
 ** TODO Chris Walker (2012): Getting Started with Netduino
 :PROPERTIES:
 :Custom_id: reading_walker12:_gettin_start_netduin
@@ -590,6 +655,11 @@
 :Custom_id: reading_chromatic06:_perl_hacks
 :END:
 [[file:/home/richard/humble bundles/oreilly-hacks/perlhacks.pdf]]
+** TODO Ciara Conlon (2016): Productivity for Dummies
+:PROPERTIES:
+:Custom_id: reading_conlon16:_produc_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Land a Tech Job for Dummies/productivityfordummies.pdf]]
 ** TODO Clarence Chio and David Freeman (2018): Machine Learning and Security: Protecting Systems with Data and Algorithms
 :PROPERTIES:
 :Custom_id: reading_chio18:_machin_learn_secur
@@ -635,6 +705,11 @@
 :Custom_id: reading_hunt02:_tcp_ip_networ_admin
 :END:
 [[file:/home/richard/humble bundles/oreilly-unix/tcp_ip_networkadministration_3rdedition.pdf]]
+** TODO Craig Smith (2016): The Car Hacker's Handbook - A Guide for the Penetration Tester
+:PROPERTIES:
+:Custom_id: reading_smith16:_car_hacker_handb_guide_penet_tester
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/thecarhackershandbook.pdf]]
 ** TODO Cresson H. Kearny (2015): Nuclear War Survival Skills: Lifesaving Facts and Self-Help Instructions
 :PROPERTIES:
 :Custom_id: reading_kearny15:_nuclear_war_surviv_skill
@@ -738,6 +813,16 @@
 :Custom_id: reading_beazley13:_python_cookb
 :END:
 [[file:/home/richard/humble bundles/oreilly-prog-cookbooks/pythoncookbook.pdf]]
+** TODO David Carlson (2016): Hustle Away Debt - Eliminate Your Debt by Making More Money
+:PROPERTIES:
+:Custom_id: reading_carlson16:_hustl_away_debt_elimin_your
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/hustleawaydebt.pdf]]
+** TODO David Erik Nelson (2016): Junkyard Jam Band - DIY Musical Instruments and Noisemakers
+:PROPERTIES:
+:Custom_id: reading_nelson16:_junky_jam_band_diy_music_instr_noisem
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Brainiac 2 by No Starch/junkyardjamband.pdf]]
 ** TODO David Griffiths and Dawn Griffiths (2012): Head First C
 :PROPERTIES:
 :Custom_id: reading_griffiths12:_head_first_c
@@ -753,6 +838,11 @@
 :Custom_id: reading_kadavy11:_desig_hacker_rever_beaut
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB UI UX by Wiley/designforhackers.pdf]]
+** TODO David Kennedy and Jim O'Gorman and Devon Kearns and Mati Aharoni (2011): Metasploit - The Penetration Tester's Guide
+:PROPERTIES:
+:Custom_id: reading_kennedy11:_metas_penet_tester_guide
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/metasploit_apenetrationtestersguide.pdf]]
 ** TODO David McGriffy (2017): Make: Drones - Teach an Arduino to Fly
 :PROPERTIES:
 :Custom_id: reading_mcgriffy17:_make_drones
@@ -768,6 +858,11 @@
 :Custom_id: reading_nash13:_prepp_projec
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Survive Anything by Skyhorse/52prepperprojects.pdf]]
+** TODO David Pagano and David Pickett (2017): The Lego Animation Book
+:PROPERTIES:
+:Custom_id: reading_pagano17:_lego_animat_book
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Brainiac 2 by No Starch/thelegoanimationbook.pdf]]
 ** TODO David S. Rose (2016): The Startup Checklist - 25 Steps to a Scalable, High-Growth Business
 :PROPERTIES:
 :Custom_id: reading_rose16:_start_check_steps_scalab_high_growt_busin
@@ -778,6 +873,11 @@
 :Custom_id: reading_sklar14:_php_cookb
 :END:
 [[file:/home/richard/humble bundles/oreilly-prog-cookbooks/phpcookbook.pdf]]
+** TODO David Thiel (2016): iOS Application Security - The Definitive Guide for Hackers and Developers
+:PROPERTIES:
+:Custom_id: reading_thiel16:_applic_secur_defin_guide_hacker_devel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/iosapplicationsecurity.pdf]]
 ** TODO David Walton (2015): Superposition
 :PROPERTIES:
 :Custom_id: reading_walton15:_super
@@ -818,11 +918,26 @@
 :Custom_id: reading_cameron05:_learn_gnu_emacs
 :END:
 [[file:/home/richard/humble bundles/oreilly-unix/learninggnuemacs_3rdedition.pdf]]
+** TODO Deepak Malhotra (2016): Negotiating The Impossible - How to Break Deadlocks and Resolve Ugly Conflicts (Without Money or Muscle)
+:PROPERTIES:
+:Custom_id: reading_malhotra16:_negot_impos_how_break_deadl
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/negotiatingtheimpossible.pdf]]
+** TODO Denise Jacobs (2017): Banish Your Inner Critic - Silence the Voice of Self-Doubt to Unleash Your Creativity and Do Your Best Work
+:PROPERTIES:
+:Custom_id: reading_jacobs17:_banis_your_inner_critic_silen
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/banishyourinnercritic.pdf]]
 ** TODO Denise Sutherland (2012): Cryptic Crosswords for Dummies
 :PROPERTIES:
 :Custom_id: reading_sutherland12:_crypt_cross_dummies
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Games and Puzzles by Wiley/crypticcrosswordsfordummies.pdf]]
+** TODO Dennis Glaasker and Dennis Bosman (2015): The Art of Lego Scale Modelling
+:PROPERTIES:
+:Custom_id: reading_glaasker15:_art_lego_scale_model
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Brainiac 2 by No Starch/theartoflegoscalemodeling.pdf]]
 ** TODO Derek Molloy (2016): Exploring Raspberry Pi - Interfacing to the Real World with Embedded Linux
 :PROPERTIES:
 :Custom_id: reading_molloy16:_explor_raspb_pi_inter_real
@@ -848,6 +963,11 @@
 :Custom_id: reading_stafford04:_best_job_huntin_secret_smart
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/1000bestjobhuntingsecrets.pdf]]
+** TODO Dianna Booher (2017): Communicate Like A Leader - Connecting Strategically To Coach, Inspire and Get Things Done
+:PROPERTIES:
+:Custom_id: reading_booher17:_commun_like_leader_connec_strat
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/communicatelikealeader.pdf]]
 ** TODO Dmitry Kirsanov (2009): The Book of Inkscape: The Definitive Guide to the Free Graphics Editor
 :PROPERTIES:
 :Custom_id: reading_kirsanov09:_book_inksc
@@ -872,6 +992,11 @@
 :Custom_id: reading_hamilton06:_night_walker
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/nightwalker.pdf]]
+** TODO Donna Serdula (2017): LinkedIn Profile Optimization for Dummies
+:PROPERTIES:
+:Custom_id: reading_serdula17:_linked_profil_optim_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Land a Tech Job for Dummies/linkedinprofileoptimizationfordummies.pdf]]
 ** TODO Douglas Adams (2013): The Hitchhiker's Guide to the Galaxy: The Complete Trilogy of Five
 :PROPERTIES:
 :Custom_id: reading_adams13:_hitch_guide_galax
@@ -971,6 +1096,11 @@
 :Custom_id: reading_mcbain15:_so_nude_so_dead
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/sonudesodead.pdf]]
+** TODO Edgar H. Schein (2013): Humble Inquiry - The Gentle Art of Asking Instead of Telling
+:PROPERTIES:
+:Custom_id: reading_schein13:_humbl_inquir_gentl_art_askin_instead_tellin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/humbleinquiry.pdf]]
 ** TODO Elisabeth Robson and Eric Freeman (2012): Head First HTML and CSS
 :PROPERTIES:
 :Custom_id: reading_robson12:_head_first_html_css
@@ -986,6 +1116,11 @@
 :Custom_id: reading_briggs16:_futur_shock
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB A Galaxy of Stars by Open Road/futureshock.pdf]]
+** TODO Ellen Datlow (2008): The Best Horror of the Year - Volume One
+:PROPERTIES:
+:Custom_id: reading_datlow08:_best_horror_year_volum_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/besthorroroftheyear_vol1.pdf]]
 ** TODO Ellen Datlow (2018): The Best of the Best Horror of the Year - 10 Years of Essential Short Horror Fiction
 :PROPERTIES:
 :Custom_id: reading_datlow18:_best_best_horror_year_years
@@ -1066,6 +1201,11 @@
 :Custom_id: reading_nury18:_tyler_cross_black_rock
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/tylercross_blackrock.pdf]]
+** TODO Florian Klaffenbach and Jan-Henrik Damaschke and Oliver Michalski (2017): Implementing Azure Solutions
+:PROPERTIES:
+:Custom_id: reading_klaffenbach17:_implem_azure_solut
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/implementsazuresolutions.pdf]]
 ** TODO Forrest Bice and Rose DeMaio and Spencer Florence and Feng-Yun Mimi Lin and Scott Lindeman and Nicole Nussbaum and Eric Peterson and Ryan Van Horn (2013): Learn to Program, One Game at a Time!
 :PROPERTIES:
 :Custom_id: reading_bice13:_learn_progr_one_game_time
@@ -1146,6 +1286,11 @@
 :Custom_id: reading_dvorchak10:_pocket_first_aid_field_guide
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Survive Anything by Skyhorse/thepocketfirst-aidfieldguide.pdf]]
+** TODO Georgia Weidman (2014): Penetration Testing - A Hands-On Introduction to Hacking
+:PROPERTIES:
+:Custom_id: reading_weidman14:_penet_testin_hands_introd_hackin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/penetrationtesting.pdf]]
 ** TODO Gigi Sayfan (2017): Mastering Kubernetes
 :PROPERTIES:
 :Custom_id: reading_sayfan17:_master_kuber
@@ -1156,6 +1301,11 @@
 :Custom_id: reading_conahan17:_heros_closet_sewin_cospl_costum
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cosplay 2.0/theheroscloset_sewingforcosplayandcostuming.pdf]]
+** TODO Glen Cook (2006): A Cruel Wind
+:PROPERTIES:
+:Custom_id: reading_cook06:_cruel_wind
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/acruelwind.pdf]]
 ** TODO Gordon Rennie (2017): Doctor Who: The Fourth Doctor - Volume 1 - Gaze of the Medusa
 :PROPERTIES:
 :Custom_id: reading_rennie17:_doctor_who_fourt_doct_vol1
@@ -1231,6 +1381,11 @@
 :Custom_id: reading_mcdonald17:_snatc
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/snatch.pdf]]
+** TODO Greyson Beights (2015): Medieval Lego
+:PROPERTIES:
+:Custom_id: reading_beights15:_mediev_lego
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Brainiac 2 by No Starch/medievallego.pdf]]
 ** TODO Harlan Ellison (1979): I Have No Mouth & I Must Scream
 :PROPERTIES:
 :Custom_id: reading_ellison79:_i_have_no_mouth_i_must_scream
@@ -1340,6 +1495,11 @@
 :Custom_id: reading_langbridge15:_arduin_sketc_tools_techn_progr_wizar
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DIY Electronics by Wiley/arduinosketches.pdf]]
+** TODO James Delaney (2017): Beautiful Minecraft
+:PROPERTIES:
+:Custom_id: reading_delaney17:_beaut_minec
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Brainiac 2 by No Starch/beautifulminecraft.pdf]]
 ** TODO James Lehmer (2016): Ten Steps to Linux Survival: Essentials for Navigating the Bash Jungle
 :PROPERTIES:
 :Custom_id: reading_lehmer16:_ten_steps_linux_surviv
@@ -1485,6 +1645,16 @@
 :Custom_id: reading_blum13:_explor_arduin_tools_techn_engin_wizar
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DIY Electronics by Wiley/exploringarduino.pdf]]
+** TODO Jeremy Kubica (2016): The CS Detective - An Algorithmic Tale of Crime, Conspiracy and Computation
+:PROPERTIES:
+:Custom_id: reading_kubica16:_cs_detec_algor_tale_crime_consp_comput
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Brainiac 2 by No Starch/thecsdetective.pdf]]
+** TODO Jeremy Robert Johnson (2017): Entropy in Bloom
+:PROPERTIES:
+:Custom_id: reading_johnson17:_entrop_bloom
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/entropyinbloom.pdf]]
 ** TODO Jeroen Janssens (2015): Data Science at the Command Line
 :PROPERTIES:
 :Custom_id: reading_janssens15:_data_scien_comman_line
@@ -1525,6 +1695,16 @@
 :Custom_id: reading_starlin12:_dread_omnib_volum
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Comics Bundle Dynamite/dreadstar_omnibus_vol1.pdf]]
+** TODO Jochen Nickel (2016): Mastering Identity and Access Management with Microsoft Azure
+:PROPERTIES:
+:Custom_id: reading_nickel16:_master_ident_acces_manag_micros_azure
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/masteringidentityandaccessmanagement.pdf]]
+** TODO Jodi Taylor (2013): Just One Damned Thing After Another - The Chronicles of St. Mary's - Book One
+:PROPERTIES:
+:Custom_id: reading_taylor13:_just_one_damned_thing_after
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/justonedamnedthingafteranother.pdf]]
 ** TODO Jody M. Farnham (2015): The Joy of Cheesemaking: The Ultimate Guide to Understanding, Making and Eating Fine Cheese
 :PROPERTIES:
 :Custom_id: reading_farnham15:_joy_chees
@@ -1579,6 +1759,11 @@
 :Custom_id: reading_graham-cumming15:_gnu_make_book
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux Geek by No Starch/thegnumakebook.pdf]]
+** TODO John Hornor Jacobs (2011): Southern Gods
+:PROPERTIES:
+:Custom_id: reading_jacobs11:_south_gods
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/southerngods.pdf]]
 ** TODO John J. Murphy (2010): Pulling Together
 :PROPERTIES:
 :Custom_id: reading_murphy10:_pullin_toget
@@ -1594,6 +1779,16 @@
 :Custom_id: reading_adams09:_improb_adven_sherl_holmes
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/theimprobableadventuresofsherlockholmes.pdf]]
+** TODO John Joseph Adams (2011): Brave New Worlds - Dystopian Stories
+:PROPERTIES:
+:Custom_id: reading_adams11:_brave_new_world_dystop_stories
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/bravenewworlds2ndedition.pdf]]
+** TODO John Joseph Adams (2012): Other Worlds Than These - Stories of Parallel Worlds
+:PROPERTIES:
+:Custom_id: reading_adams12:_other_world_than_these_stories_paral_world
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/otherworldsthanthese.pdf]]
 ** TODO John Layman (2017): Judge Dredd - Funko Universe
 :PROPERTIES:
 :Custom_id: reading_layman17:_judge_dredd_funko_univer
@@ -1614,6 +1809,11 @@
 :Custom_id: reading_nussey13:_arduin_dummies
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DIY Electronics by Wiley/arduinofordummies.pdf]]
+** TODO John Paul Mueller (2014): Beginning Programming with Python for Dummies
+:PROPERTIES:
+:Custom_id: reading_mueller14:_begin_progr_python_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Land a Tech Job for Dummies/beginningprogrammingwithpythonfordummies.pdf]]
 ** TODO John R. Levine and Tony Mason and Doug Brown (2012): lex and yacc
 :PROPERTIES:
 :Custom_id: reading_levine12
@@ -1669,6 +1869,11 @@
 :Custom_id: reading_chappell14:_guitar_all_one_for_dummies
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/guitarall-in-onefordummies.pdf]]
+** TODO Jon Erickson (2008): Hacking - The Art of Exploitation
+:PROPERTIES:
+:Custom_id: reading_erickson08:_hackin_art_exploit
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/hacking_artofexploitation_2ndedition.pdf]]
 ** TODO Jonathan Baier (2017): Getting Started with Kubernetes
 :PROPERTIES:
 :Custom_id: reading_baier17:_gettin_start_kuber
@@ -1704,11 +1909,31 @@
 :Custom_id: reading_backfield14:_becom_funct_steps_for_trans
 :END:
 [[file:/home/richard/humble bundles/oreilly-functional-programming/becomingfunctional.pdf]]
+** TODO Joshua Waldman (2013): Job Searching with Social Media for Dummies
+:PROPERTIES:
+:Custom_id: reading_waldman13:_job_searc_social_media_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Land a Tech Job for Dummies/jobsearchingwithsocialmediafordummies_2ndedition.pdf]]
+** TODO Joyce Lain Kennedy (2012): Job Interviews for Dummies
+:PROPERTIES:
+:Custom_id: reading_kennedy12:_job_inter_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Land a Tech Job for Dummies/jobinterviewsfordummies_4thedition.pdf]]
+** TODO Joyce Lain Kennedy (2013): Job Search Letters for Dummies
+:PROPERTIES:
+:Custom_id: reading_kennedy13:_job_searc_letter_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Land a Tech Job for Dummies/jobsearchlettersfordummies_4thedition.pdf]]
 ** TODO Juan Nunez-Iglesias and Stefan van der Walt and Harriet Dashnow (2017): Elegant SciPy: The Art of Scientific Python
 :PROPERTIES:
 :Custom_id: reading_nunez-iglesias17:_elegan_scipy
 :END:
 [[file:/home/richard/humble bundles/oreilly-python/elegantscipy.pdf]]
+** TODO Julian Treasure (2017): How to be Heard - Secrets for Powerful Speaking and Listening
+:PROPERTIES:
+:Custom_id: reading_treasure17:_how_heard_secret_power_speak_listen
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/howtobeheard.pdf]]
 ** TODO Junot Diaz and Katherine Dunn and Jonathan Lethem and George Saunders and Steven Millhauser and Amiri Baraka and W. P. Kinsella and Jami Attenberg and Robert Olen Butler and Deji Bryce Olukotun and Rivka Galchen and Jim Shepard and Molly Gloss and Max Apple (2016): Invaders - 22 Tales From The Outer Limits of Literature
 :PROPERTIES:
 :Custom_id: reading_diaz16:_invad_tales_from_outer_limit_liter
@@ -1749,6 +1974,11 @@
 :Custom_id: reading_elliott15:_very_best_kate_elliot
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/theverybestofkateelliott.pdf]]
+** TODO Kathleen Taylor and Bud E. Smith (2015): Getting a Web Development Job for Dummies
+:PROPERTIES:
+:Custom_id: reading_taylor15:_gettin_web_devel_job_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Land a Tech Job for Dummies/gettingawebdevelopmentjobfordummies.pdf]]
 ** TODO Kathryn Immonen and Stuart Immonen (2010): Moving Pictures
 :PROPERTIES:
 :Custom_id: reading_immonen10:_movin_pictur
@@ -1759,6 +1989,16 @@
 :Custom_id: reading_sierra05:_head_first_java
 :END:
 [[file:/home/richard/humble bundles/oreilly-headfirst/headfirstjava.pdf]]
+** TODO Kayla Buell (2016): Corporate Survival Guide For Your Twenties - A Guide To Help You Navigate The Business World
+:PROPERTIES:
+:Custom_id: reading_buell16:_corpor_surviv_guide_for_your
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/corporatesurvivalguideforyourtwenties.pdf]]
+** TODO Kazuhiro Fujitaki (2009): The Manga Guide To Electricity
+:PROPERTIES:
+:Custom_id: reading_fujitaki09:_manga_guide_to_elect
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Brainiac 2 by No Starch/themangaguidetoelectricity.pdf]]
 ** TODO Keith Yatsuhashi (2016): Kojiki
 :PROPERTIES:
 :Custom_id: reading_yatsuhashi16:_kojik
@@ -1824,6 +2064,11 @@
 :Custom_id: reading_hightower17:_kuber_up_runnin_dive_into_futur_infras
 :END:
 [[file:/home/richard/humble bundles/oreilly-devops/kubernetes_upandrunning.pdf]]
+** TODO Kelvin Davis (2017): Notoriously Dapper - How to be a Modern Gentleman with Manners, Style and Body Confidence
+:PROPERTIES:
+:Custom_id: reading_davis17:_notor_dapper_how_moder_gentl
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/notoriouslydapper.pdf]]
 ** TODO Kenneth Reitz and Tanya Schlusser (2016): The Hitchhiker's Guide to Python: Best Practices for Development
 :PROPERTIES:
 :Custom_id: reading_reitz16:_hitch_guide_python
@@ -1924,6 +2169,11 @@
 :Custom_id: reading_lights18:_skin_earth_volum_one
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Comics Bundle Dynamite/skninandearth.pdf]]
+** TODO Linda Byars Swindling (2017): Ask Outrageously! The Secret To Getting What You Really Want
+:PROPERTIES:
+:Custom_id: reading_swindling17:_ask_outrag
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/askoutrageously.pdf]]
 ** TODO Linda Holtzschue (2017): Understanding Color: An Introduction for Designers
 :PROPERTIES:
 :Custom_id: reading_holtzschue17:_under_color
@@ -1963,6 +2213,11 @@
 :Custom_id: reading_prince17:_coady_creep
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Geek Gals/coadyandthecreepies_vol1.pdf]]
+** TODO Logan J. Hunder (2015): Witches Be Crazy
+:PROPERTIES:
+:Custom_id: reading_hunder15:_witch_be_crazy
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/witchesbecrazy.pdf]]
 ** TODO Louisa May Alcott (????): Little Women
 :PROPERTIES:
 :Custom_id: reading_alcott:_littl_women
@@ -1972,6 +2227,11 @@
 :Custom_id: reading_cooper91:_sleep_stone
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Classic SciFi and Audiobooks/sleepofstone.pdf]]
+** TODO Lucas Chan and Rowan Udell (2017): AWS Administration Cookbook
+:PROPERTIES:
+:Custom_id: reading_chan17:_aws_admin_cookb
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/awsadministration_thedefinitiveguide_reupload.pdf]]
 ** TODO Luciano Ramalho (2015): Fluent Python: Clear, Concise and Effective Programming
 :PROPERTIES:
 :Custom_id: reading_ramalho15:_fluen_python
@@ -2012,6 +2272,11 @@
 :Custom_id: reading_ramanujam16:_monet_innov_how_smart_compan
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start a Startup by Wiley/monetizinginnovation.pdf]]
+** TODO Manish Sethi (2017): Cloud Native Python
+:PROPERTIES:
+:Custom_id: reading_sethi17:_cloud_nativ_python
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/cloudnativepython.pdf]]
 ** TODO Marc Silvestri (2009): The Art of Top Cow
 :PROPERTIES:
 :Custom_id: reading_silvestri09:_art_top_cow
@@ -2052,6 +2317,16 @@
 :Custom_id: reading_sniukas16:_art_oppor
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start a Startup by Wiley/theartofopportunity.pdf]]
+** TODO Marina Umaschi Bers and Mitchel Resnick (2016): The Official Scratch Jr. Book
+:PROPERTIES:
+:Custom_id: reading_bers16:_offic_scrat_jr
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Brainiac 2 by No Starch/theofficialscratchjrbook.pdf]]
+** TODO Mark Geddes (2016): Arduino Project Handbook - 25 Practical Projects To Get You Started
+:PROPERTIES:
+:Custom_id: reading_geddes16:_arduin_projec_handb_pract_projec
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Brainiac 2 by No Starch/arduinoprojecthandbook.pdf]]
 ** TODO Mark Geddes (2016): Arduino Project Handbook: 25 Practical Projects to Get You Started
 :PROPERTIES:
 :Custom_id: reading_geddes16:_arduin_projec_handb
@@ -2137,6 +2412,11 @@
 :Custom_id: reading_waid14:_mark_waids_green_hornet
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Comics Bundle Dynamite/markwaids_greenhornet_vol2.pdf]]
+** TODO Markus Klein and Susan Roesner (2017): Building Hybrid Clouds with Azure Stack
+:PROPERTIES:
+:Custom_id: reading_klein17:_build_hybrid_cloud_azure_stack
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/buildinghybridcloudswithazurestack.pdf]]
 ** TODO Markus Zusak (2008): The Book Thief
 :PROPERTIES:
 :Custom_id: reading_zusak08:_book_thief
@@ -2156,6 +2436,11 @@
 :Custom_id: reading_wells12:_siren_depth
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/thesirendepths.pdf]]
+** TODO Martha Wells (2016): The Edge of Worlds
+:PROPERTIES:
+:Custom_id: reading_wells16:_edge_world
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/edgeofworlds.pdf]]
 ** TODO Marty Halpern (2011): Alien Contact
 :PROPERTIES:
 :Custom_id: reading_halpern11:_alien_contac
@@ -2166,6 +2451,11 @@
 :Custom_id: reading_taylor06:_teach_yours_visual_piano
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/teachyourselfvisuallypiano.pdf]]
+** TODO Mary-Frances Winters (2017): We Can't Talk About That At Work! - How to Talk About Race, Religion, Politics and Other Polarizing Topics
+:PROPERTIES:
+:Custom_id: reading_winters17:_we_cant_talk_about_that_at_work
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/wecanttalkaboutthatatwork.pdf]]
 ** TODO Matt Hawkins (2012): Think Tank - Volume 1
 :PROPERTIES:
 :Custom_id: reading_hawkins12:_think_tank_volum1
@@ -2271,6 +2561,11 @@
 :Custom_id: reading_schaefer12:_illus_guide_to_brewin_beer
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Survive Anything by Skyhorse/theillustratedguidetobrewingbeer.pdf]]
+** TODO Mattia Zamboni (2016): Tiny Lego Wonders - Build 40 Surprisingly Realistic Mini-Models!
+:PROPERTIES:
+:Custom_id: reading_zamboni16:_tiny_lego_wonder_build_surpr
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Brainiac 2 by No Starch/tinylegowonders.pdf]]
 ** TODO Max Allan Collins (2008): The First Quarry
 :PROPERTIES:
 :Custom_id: reading_collins08:_first_quarr
@@ -2296,6 +2591,11 @@
 :Custom_id: reading_okeefe16:_steal_sky
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sci-Fi and Fantasy Angry Robot/stealthesky.pdf]]
+** TODO Melilot (2017): Proof of Concept - Get The F*ck Out Bible
+:PROPERTIES:
+:Custom_id: reading_melilot17:_proof_concep_get_f_out_bible
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/pocorgtfobible.pdf]]
 ** TODO Mercedes Lackey and Steve Libbey and Cody Martin and Dennis Lee (2012): Invasion
 :PROPERTIES:
 :Custom_id: reading_lackey12:_invas
@@ -2311,6 +2611,11 @@
 :Custom_id: reading_hammel12:_artis_guide_to_gimp
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux Geek by No Starch/theartistsguidetogimp.pdf]]
+** TODO Michael J. Martinez (????): The Daedalus Incident
+:PROPERTIES:
+:Custom_id: reading_martinez:_daedal_incid
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/daedalusincident.pdf]]
 ** TODO Michael Kerrisk (2010): The Linux Programming Interface: A Linux and UNIX System Programming Handbook
 :PROPERTIES:
 :Custom_id: reading_kerrisk10:_linux_progr_inter
@@ -2331,6 +2636,11 @@
 :Custom_id: reading_pilhofer15:_music_theor_dummies
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Learn to Play Music by Wiley/musictheoryfordummies.pdf]]
+** TODO Michael Solberg and Ben Silverman (2017): OpenStack for Architects
+:PROPERTIES:
+:Custom_id: reading_solberg17:_opens_archit
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/openstackforarchitects.pdf]]
 ** TODO Michael Swanwick (2016): Not So Much Said The Cat
 :PROPERTIES:
 :Custom_id: reading_swanwick16:_not_so_much_said_cat
@@ -2416,11 +2726,31 @@
 :Custom_id: reading_hopkinson15:_fallin_love_homin
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/fallinginlovewithhominids.pdf]]
+** TODO Namit Tanasseri and Rahul Rai (2017): Microservices with Azure
+:PROPERTIES:
+:Custom_id: reading_tanasseri17:_micros_azure
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/microserviceswithazure.pdf]]
 ** TODO Nancy Kress (2014): Yesterday's Kin
 :PROPERTIES:
 :Custom_id: reading_kress14:_yester_kin
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Stellar Sci-fi by Tachyon/yesterdayskin.pdf]]
+** TODO Nat Greene (2017): Stop Guessing - The 9 Behaviours of Great Problem Solvers
+:PROPERTIES:
+:Custom_id: reading_greene17:_stop_guess_behav_great_probl_solver
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/stopguessing.pdf]]
+** TODO Natalie Canavor (2017): Business Writing for Dummies
+:PROPERTIES:
+:Custom_id: reading_canavor17:_busin_writin_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Land a Tech Job for Dummies/businesswritingfordummies_2ndedition.pdf]]
+** TODO Natalie Rusk and Majed Marji and Gloria Winquist and Matt McCarthy and Jason R. Briggs and Craig Richardson and Tom Alphin and Holger Matthes and Laurens Valk and Mark Geddes and Brian Huang and Derek Runberg and Michio Shibuya and Takashi Tonagi (2017): More From No Starch Press - Brainiac 2 Sampler
+:PROPERTIES:
+:Custom_id: reading_rusk17:_more_from_no_starc_press_brain_sampl
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Brainiac 2 by No Starch/brainiac2_sampler.pdf]]
 ** TODO Nathaniel Felsen (2017): Effective DevOps with AWS
 :PROPERTIES:
 :Custom_id: reading_felsen17:_effec_devop_aws
@@ -2431,11 +2761,21 @@
 :Custom_id: reading_ford14:_funct_think_parad_over_syntax
 :END:
 [[file:/home/richard/humble bundles/oreilly-functional-programming/functionalthinking.pdf]]
+** TODO Neil Clarke (2017): Galactic Empires
+:PROPERTIES:
+:Custom_id: reading_clarke17:_galac_empir
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/galacticempires.pdf]]
 ** TODO Neil Clarke (2017): The Best Science Fiction of the Year - Volume 2
 :PROPERTIES:
 :Custom_id: reading_clarke17:_best_scien_fiction_year_volum
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/bestsciencefictionoftheyear_vol2.pdf]]
+** TODO Neil Clarke (2017): The Best Science Fiction of the Year - Volume Two
+:PROPERTIES:
+:Custom_id: reading_clarke17:_best_scien_fiction_year_volum_two
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/bestsciencefictionoftheyear_vol2.pdf]]
 ** TODO Neil Clarke (2018): The Final Frontier - Stories of Exploring Space, Colonizing The Universe and First Contact
 :PROPERTIES:
 :Custom_id: reading_clarke18:_final_front_stories_explor_space
@@ -2476,6 +2816,21 @@
 :Custom_id: reading_abadzis16:_doctor_who_tenth_doct_vol4
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Titan Doctor Who Comics 2018/doctorwho_tenthdoctor_vol4.pdf]]
+** TODO Nick Cano (2016): Game Hacking - Developing Autonomous Dots for Online Games
+:PROPERTIES:
+:Custom_id: reading_cano16:_game_hackin_devel_auton_dots_onlin_games
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/gamehacking.pdf]]
+** TODO Nick Mamatas (2016): I Am Providence
+:PROPERTIES:
+:Custom_id: reading_mamatas16:_i_am_provid
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/iamprovidence.pdf]]
+** TODO Nikhil Abraham and Kathleen Taylor and Bud E. Smith (2015): Getting a Coding Job for Dummies
+:PROPERTIES:
+:Custom_id: reading_abraham15:_gettin_codin_job_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Land a Tech Job for Dummies/gettingacodingjobfordummies.pdf]]
 ** TODO Nikhil Buduma (2017): Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms
 :PROPERTIES:
 :Custom_id: reading_buduma17:_fundam_deep_learn
@@ -2486,6 +2841,11 @@
 :Custom_id: reading_pathania17:_learn_contin_integ_jenkin
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/learningcontinuousintegrationwithjenkins.pdf]]
+** TODO Nikolay Elenkov (2015): Android Security Internals - An In-Depth Guide to Android's Security Architecture
+:PROPERTIES:
+:Custom_id: reading_elenkov15:_android_secur_inter_in_depth
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/androidsecurityinternals.pdf]]
 ** TODO Noelle Stevenson and Grace Ellis (2015): Lumberjanes - Beware the Kitten Holy
 :PROPERTIES:
 :Custom_id: reading_stevenson15:_lumber_bewar_kitten_holy
@@ -2536,6 +2896,16 @@
 :Custom_id: reading_lecarme13:_book_gimp
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux Geek by No Starch/thebookofgimp.pdf]]
+** TODO Omar Khedher and Chandan Dutta Chowdhury (2017): Mastering Openstack
+:PROPERTIES:
+:Custom_id: reading_khedher17:_master_opens
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/masteringopenstack.pdf]]
+** TODO Oyvind Nydal Dahl (2016): Electronics for Kids - Play With Simple Circuits and Experiment with Electricity
+:PROPERTIES:
+:Custom_id: reading_dahl16:_elect_kids_play_with_simpl
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Brainiac 2 by No Starch/electronicsforkids.pdf]]
 ** TODO Pamela Ribon (2017): Slam Volume 1
 :PROPERTIES:
 :Custom_id: reading_ribon17:_slam_volum
@@ -2631,6 +3001,11 @@
 :Custom_id: reading_guran15:_blood_sister_vampir_stories_women
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/bloodsisters.pdf]]
+** TODO Paula Guran (2016): Beyond The Woods - Fairy Tales Retold
+:PROPERTIES:
+:Custom_id: reading_guran16:_beyon_woods_fairy_tales_retol
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/beyondthewoods.pdf]]
 ** TODO Peggy Anderson (2017): Great Quotes From Great Leaders
 :PROPERTIES:
 :Custom_id: reading_anderson17:_great_quotes_from_great_leader
@@ -2646,6 +3021,11 @@
 :Custom_id: reading_rawlik13:_reanim
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/reanimators.pdf]]
+** DONE Pete Rawlik (2016): Reanimatrix - An Arkham Romance
+:PROPERTIES:
+:Custom_id: reading_rawlik16:_reanim_arkham_roman
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/reanimatrix.pdf]]
 ** TODO Peter McLean (2016): A Burned Man Book 1 - Drake
 :PROPERTIES:
 :Custom_id: reading_mclean16:_burned_man_book_drake
@@ -2761,6 +3141,11 @@
 :Custom_id: reading_aleas07:_songs_innoc
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Pulp Fiction Hard Case Crime/songsofinnocence.pdf]]
+** TODO Richard Bejtlich (2013): The Practice of Network Security Monitoring - Understanding Incident Detection and Response
+:PROPERTIES:
+:Custom_id: reading_bejtlich13:_pract_networ_secur_monit_under
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/practiceofnetworksecuritymonitoring.pdf]]
 ** TODO Richard Caddick and Steve Cable (2011): Communicating The User Experience: A Practical Guide for Creating Useful UX Documentation
 :PROPERTIES:
 :Custom_id: reading_caddick11:_commun_user_exper
@@ -2776,6 +3161,11 @@
 :Custom_id: reading_morris14:_joy_home_distil
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Survive Anything by Skyhorse/thejoyofhomedistilling.pdf]]
+** TODO Rick Peterson and Judd Hoekstra (2017): Crunch Time - How To Be Your Best When It Matters Most
+:PROPERTIES:
+:Custom_id: reading_peterson17:_crunc_time_how_to_be
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/crunchtime_ebook.pdf]]
 ** TODO Rick Remender (2001): Deadly Class - 1987 Reagan Youth
 :PROPERTIES:
 :Custom_id: reading_remender01:_deadl_class_reagan_youth
@@ -2791,6 +3181,11 @@
 :Custom_id: reading_hattem16:_master_python
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python Packt/masteringpython.pdf]]
+** TODO Rick Wilber (2014): Field of Fantasies - Baseball Stories of the Strange and Supernatural
+:PROPERTIES:
+:Custom_id: reading_wilber14:_field_fantas_baseb_stories_stran_super
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/fieldoffantasies.pdf]]
 ** TODO Robbie Morrison (2015): Doctor Who: The Tenth Doctor Volume 2: The Weeping Angels of Mons
 :PROPERTIES:
 :Custom_id: reading_morrison15:_doctor_who_tenth_doct_vol2
@@ -2951,6 +3346,11 @@
 :Custom_id: reading_michell18:_web_scrap_python
 :END:
 [[file:/home/richard/humble bundles/oreilly-python/webscrapingwithpython.pdf]]
+** TODO Sam Bracken (2016): GUTS - Find Your Greatness, Beat the Odds, Live From Passion
+:PROPERTIES:
+:Custom_id: reading_bracken16:_guts_find_your_great_beat
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/guts_ebook.pdf]]
 ** TODO Sam Humphries and Caitlin Rose Boyle (2016): Jonesy - Volume 1
 :PROPERTIES:
 :Custom_id: reading_humphries16:_jones_volum
@@ -3086,6 +3486,16 @@
 :Custom_id: reading_ludin17:_learn_http_pract_guide_begin
 :END:
 [[file:/home/richard/humble bundles/oreilly-webdesign-development/learninghttp2.pdf]]
+** TODO Stephen R. Covey (2015): The 7 Habits of Highly Effective People - Interactive Edition
+:PROPERTIES:
+:Custom_id: reading_covey15:_habit_highl_effec_peopl_inter_edition
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/the7habitsofhighlyeffectivepeople.pdf]]
+** TODO Steve Arneson (2014): What Your Boss Really Wants From You - 15 Insights to Improve Your Relationship
+:PROPERTIES:
+:Custom_id: reading_arneson14:_what_your_boss_reall_wants
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/whatyourbossreallywantsfromyou.pdf]]
 ** TODO Steve Hockensmith (2011): Pride and Prejudice and Zombies - Dreadfully Ever After
 :PROPERTIES:
 :Custom_id: reading_hockensmith11:_pride_prejud_zombies_dread_ever_after
@@ -3171,6 +3581,11 @@
 :Custom_id: reading_benjamin08:_manag_answer_book
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/managersanswerbook.pdf]]
+** TODO Susan Chritton (2014): Personal Branding for Dummies
+:PROPERTIES:
+:Custom_id: reading_chritton14:_person_brand_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Land a Tech Job for Dummies/personalbrandingfordummies_2ndedition.pdf]]
 ** TODO Susan Thurman (2003): The Only Grammar Book You'll Ever Need
 :PROPERTIES:
 :Custom_id: reading_thurman03:_only_gramm_book_youll_ever_need
@@ -3246,6 +3661,11 @@
 :Custom_id: reading_lee17:_window_server_autom_power_cookb
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB DevOps by Packt/windowsserver2016automationwithpowershellcookbook.pdf]]
+** TODO Tiffany Jana and Matthew Freeman (2016): Overcoming Bias
+:PROPERTIES:
+:Custom_id: reading_jana16:_overc_bias
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/overcomingbias.pdf]]
 ** TODO Tilman M. Davies (2016): The Book of R - A First Course in Programming and Statistics
 :PROPERTIES:
 :Custom_id: reading_davies16:_book_r_first_cours_progr_statis
@@ -3446,6 +3866,11 @@
 :Custom_id: reading_white15:_hadoop_defin_guide
 :END:
 [[file:/home/richard/humble bundles/oreilly-data-science/hadoop_thedefinitiveguide.pdf]]
+** TODO Tyler Regas (2015): Getting an IT Help Desk Job for Dummies
+:PROPERTIES:
+:Custom_id: reading_regas15:_gettin_it_help_desk_job_dummies
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Land a Tech Job for Dummies/gettinganithelpdeskjobfordummies.pdf]]
 ** TODO Ulises Farinas and Erick Freitas (2016): Judge Dredd - Mega-City Zero Volume 1
 :PROPERTIES:
 :Custom_id: reading_farinas16:_judge_dredd_mega_city_zero_volum
@@ -3536,6 +3961,11 @@
 :Custom_id: reading_oliver08:_bad_bosses_crazy_cowor_other_offic_idiot
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Secrets of Success/badbossescrazycoworkersandotherofficeidiots.pdf]]
+** TODO Violet Blue (2015): The Smart Girl's Guide to Privacy - Practical Tips for Staying Safe Online
+:PROPERTIES:
+:Custom_id: reading_blue15:_smart_girls_guide_privac_pract
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/smartgirlsguidetoprivacy.pdf]]
 ** TODO Walter Bentley (2016): OpenStack Administration with Ansible 2
 :PROPERTIES:
 :Custom_id: reading_bentley16:_opens_admin_ansib
@@ -3566,6 +3996,11 @@
 :Custom_id: reading_galitz07:_essen_guide_user_inter_desig
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB UI UX by Wiley/theessentialguidetouserinterfacedesign.pdf]]
+** TODO Will McIntosh (2012): Hitchers
+:PROPERTIES:
+:Custom_id: reading_mcintosh12:_hitch
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/hitchers.pdf]]
 ** TODO William E. Shotts (2012): The Linux Command Line - A Complete Introduction
 :PROPERTIES:
 :Custom_id: reading_shotts12:_linux_comman_line_compl_introd
@@ -3611,6 +4046,11 @@
 :Custom_id: reading_kobayashi08:_witch_manga
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Sex and Science by Top Cow/witchblademanga.pdf]]
+** TODO Yohan Wadia (2016): AWS Administration - The Definitive Guide
+:PROPERTIES:
+:Custom_id: reading_wadia16:_aws_admin_defin_guide
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/awsadministrationcookbook_reupload.pdf]]
 ** TODO Yuxi Liu (2019): Python Machine Learning By Example
 :PROPERTIES:
 :Custom_id: reading_liu19:_python_machin_learn_by_examp
@@ -3631,288 +4071,3 @@
 :Custom_id: reading_jernigan13:_no_retur
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/noreturn.pdf]]
-** TODO Glen Cook (2006): A Cruel Wind
-:PROPERTIES:
-:Custom_id: reading_cook06:_cruel_wind
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/acruelwind.pdf]]
-** TODO Ellen Datlow (2008): The Best Horror of the Year - Volume One
-:PROPERTIES:
-:Custom_id: reading_datlow08:_best_horror_year_volum_one
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/besthorroroftheyear_vol1.pdf]]
-** TODO Neil Clarke (2017): The Best Science Fiction of the Year - Volume Two
-:PROPERTIES:
-:Custom_id: reading_clarke17:_best_scien_fiction_year_volum_two
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/bestsciencefictionoftheyear_vol2.pdf]]
-** TODO Paula Guran (2016): Beyond The Woods - Fairy Tales Retold
-:PROPERTIES:
-:Custom_id: reading_guran16:_beyon_woods_fairy_tales_retol
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/beyondthewoods.pdf]]
-** TODO John Joseph Adams (2011): Brave New Worlds - Dystopian Stories
-:PROPERTIES:
-:Custom_id: reading_adams11:_brave_new_world_dystop_stories
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/bravenewworlds2ndedition.pdf]]
-** TODO Michael J. Martinez (????): The Daedalus Incident
-:PROPERTIES:
-:Custom_id: reading_martinez:_daedal_incid
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/daedalusincident.pdf]]
-** TODO Martha Wells (2016): The Edge of Worlds
-:PROPERTIES:
-:Custom_id: reading_wells16:_edge_world
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/edgeofworlds.pdf]]
-** TODO Jeremy Robert Johnson (2017): Entropy in Bloom
-:PROPERTIES:
-:Custom_id: reading_johnson17:_entrop_bloom
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/entropyinbloom.pdf]]
-** TODO Rick Wilber (2014): Field of Fantasies - Baseball Stories of the Strange and Supernatural
-:PROPERTIES:
-:Custom_id: reading_wilber14:_field_fantas_baseb_stories_stran_super
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/fieldoffantasies.pdf]]
-** TODO Neil Clarke (2017): Galactic Empires
-:PROPERTIES:
-:Custom_id: reading_clarke17:_galac_empir
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/galacticempires.pdf]]
-** TODO Will McIntosh (2012): Hitchers
-:PROPERTIES:
-:Custom_id: reading_mcintosh12:_hitch
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/hitchers.pdf]]
-** TODO Nick Mamatas (2016): I Am Providence
-:PROPERTIES:
-:Custom_id: reading_mamatas16:_i_am_provid
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/iamprovidence.pdf]]
-** TODO Jodi Taylor (2013): Just One Damned Thing After Another - The Chronicles of St. Mary's - Book One
-:PROPERTIES:
-:Custom_id: reading_taylor13:_just_one_damned_thing_after
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/justonedamnedthingafteranother.pdf]]
-** TODO John Joseph Adams (2012): Other Worlds Than These - Stories of Parallel Worlds
-:PROPERTIES:
-:Custom_id: reading_adams12:_other_world_than_these_stories_paral_world
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/otherworldsthanthese.pdf]]
-** DONE Pete Rawlik (2016): Reanimatrix - An Arkham Romance
-:PROPERTIES:
-:Custom_id: reading_rawlik16:_reanim_arkham_roman
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/reanimatrix.pdf]]
-** TODO John Hornor Jacobs (2011): Southern Gods
-:PROPERTIES:
-:Custom_id: reading_jacobs11:_south_gods
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/southerngods.pdf]]
-** TODO Logan J. Hunder (2015): Witches Be Crazy
-:PROPERTIES:
-:Custom_id: reading_hunder15:_witch_be_crazy
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Multi-Genre by Night Shade/witchesbecrazy.pdf]]
-** TODO Lucas Chan and Rowan Udell (2017): AWS Administration Cookbook
-:PROPERTIES:
-:Custom_id: reading_chan17:_aws_admin_cookb
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/awsadministration_thedefinitiveguide_reupload.pdf]]
-** TODO Yohan Wadia (2016): AWS Administration - The Definitive Guide
-:PROPERTIES:
-:Custom_id: reading_wadia16:_aws_admin_defin_guide
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/awsadministrationcookbook_reupload.pdf]]
-** TODO Markus Klein and Susan Roesner (2017): Building Hybrid Clouds with Azure Stack
-:PROPERTIES:
-:Custom_id: reading_klein17:_build_hybrid_cloud_azure_stack
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/buildinghybridcloudswithazurestack.pdf]]
-** TODO Manish Sethi (2017): Cloud Native Python
-:PROPERTIES:
-:Custom_id: reading_sethi17:_cloud_nativ_python
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/cloudnativepython.pdf]]
-** TODO Florian Klaffenbach and Jan-Henrik Damaschke and Oliver Michalski (2017): Implementing Azure Solutions
-:PROPERTIES:
-:Custom_id: reading_klaffenbach17:_implem_azure_solut
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/implementsazuresolutions.pdf]]
-** TODO Jochen Nickel (2016): Mastering Identity and Access Management with Microsoft Azure
-:PROPERTIES:
-:Custom_id: reading_nickel16:_master_ident_acces_manag_micros_azure
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/masteringidentityandaccessmanagement.pdf]]
-** TODO Omar Khedher and Chandan Dutta Chowdhury (2017): Mastering Openstack
-:PROPERTIES:
-:Custom_id: reading_khedher17:_master_opens
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/masteringopenstack.pdf]]
-** TODO Namit Tanasseri and Rahul Rai (2017): Microservices with Azure
-:PROPERTIES:
-:Custom_id: reading_tanasseri17:_micros_azure
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/microserviceswithazure.pdf]]
-** TODO Michael Solberg and Ben Silverman (2017): OpenStack for Architects
-:PROPERTIES:
-:Custom_id: reading_solberg17:_opens_archit
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cloud Computing by Packt/openstackforarchitects.pdf]]
-** TODO Linda Byars Swindling (2017): Ask Outrageously! The Secret To Getting What You Really Want
-:PROPERTIES:
-:Custom_id: reading_swindling17:_ask_outrag
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/askoutrageously.pdf]]
-** TODO Denise Jacobs (2017): Banish Your Inner Critic - Silence the Voice of Self-Doubt to Unleash Your Creativity and Do Your Best Work
-:PROPERTIES:
-:Custom_id: reading_jacobs17:_banis_your_inner_critic_silen
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/banishyourinnercritic.pdf]]
-** TODO Dianna Booher (2017): Communicate Like A Leader - Connecting Strategically To Coach, Inspire and Get Things Done
-:PROPERTIES:
-:Custom_id: reading_booher17:_commun_like_leader_connec_strat
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/communicatelikealeader.pdf]]
-** TODO Kayla Buell (2016): Corporate Survival Guide For Your Twenties - A Guide To Help You Navigate The Business World
-:PROPERTIES:
-:Custom_id: reading_buell16:_corpor_surviv_guide_for_your
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/corporatesurvivalguideforyourtwenties.pdf]]
-** TODO Rick Peterson and Judd Hoekstra (2017): Crunch Time - How To Be Your Best When It Matters Most
-:PROPERTIES:
-:Custom_id: reading_peterson17:_crunc_time_how_to_be
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/crunchtime_ebook.pdf]]
-** TODO Brian Tracy (2017): Eat That Frog - Snapshots Edition
-:PROPERTIES:
-:Custom_id: reading_tracy17:_eat_that_frog_snaps_edition
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/eatthatfrog.pdf]]
-** TODO Sam Bracken (2016): GUTS - Find Your Greatness, Beat the Odds, Live From Passion
-:PROPERTIES:
-:Custom_id: reading_bracken16:_guts_find_your_great_beat
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/guts_ebook.pdf]]
-** TODO Julian Treasure (2017): How to be Heard - Secrets for Powerful Speaking and Listening
-:PROPERTIES:
-:Custom_id: reading_treasure17:_how_heard_secret_power_speak_listen
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/howtobeheard.pdf]]
-** TODO Edgar H. Schein (2013): Humble Inquiry - The Gentle Art of Asking Instead of Telling
-:PROPERTIES:
-:Custom_id: reading_schein13:_humbl_inquir_gentl_art_askin_instead_tellin
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/humbleinquiry.pdf]]
-** TODO David Carlson (2016): Hustle Away Debt - Eliminate Your Debt by Making More Money
-:PROPERTIES:
-:Custom_id: reading_carlson16:_hustl_away_debt_elimin_your
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/hustleawaydebt.pdf]]
-** TODO Deepak Malhotra (2016): Negotiating The Impossible - How to Break Deadlocks and Resolve Ugly Conflicts (Without Money or Muscle)
-:PROPERTIES:
-:Custom_id: reading_malhotra16:_negot_impos_how_break_deadl
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/negotiatingtheimpossible.pdf]]
-** TODO Kelvin Davis (2017): Notoriously Dapper - How to be a Modern Gentleman with Manners, Style and Body Confidence
-:PROPERTIES:
-:Custom_id: reading_davis17:_notor_dapper_how_moder_gentl
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/notoriouslydapper.pdf]]
-** TODO Tiffany Jana and Matthew Freeman (2016): Overcoming Bias
-:PROPERTIES:
-:Custom_id: reading_jana16:_overc_bias
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/overcomingbias.pdf]]
-** TODO Nat Greene (2017): Stop Guessing - The 9 Behaviours of Great Problem Solvers
-:PROPERTIES:
-:Custom_id: reading_greene17:_stop_guess_behav_great_probl_solver
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/stopguessing.pdf]]
-** TODO Stephen R. Covey (2015): The 7 Habits of Highly Effective People - Interactive Edition
-:PROPERTIES:
-:Custom_id: reading_covey15:_habit_highl_effec_peopl_inter_edition
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/the7habitsofhighlyeffectivepeople.pdf]]
-** TODO Brenda Knowles (2017): The Quiet Rise of Introverts - 8 Practices for Living and Loving in a Noisy World
-:PROPERTIES:
-:Custom_id: reading_knowles17:_quiet_rise_introv_pract_livin
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/thequietriseofintroverts.pdf]]
-** TODO Mary-Frances Winters (2017): We Can't Talk About That At Work! - How to Talk About Race, Religion, Politics and Other Polarizing Topics
-:PROPERTIES:
-:Custom_id: reading_winters17:_we_cant_talk_about_that_at_work
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/wecanttalkaboutthatatwork.pdf]]
-** TODO Steve Arneson (2014): What Your Boss Really Wants From You - 15 Insights to Improve Your Relationship
-:PROPERTIES:
-:Custom_id: reading_arneson14:_what_your_boss_reall_wants
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/whatyourbossreallywantsfromyou.pdf]]
-** TODO Nikolay Elenkov (2015): Android Security Internals - An In-Depth Guide to Android's Security Architecture
-:PROPERTIES:
-:Custom_id: reading_elenkov15:_android_secur_inter_in_depth
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/androidsecurityinternals.pdf]]
-** TODO Nick Cano (2016): Game Hacking - Developing Autonomous Dots for Online Games
-:PROPERTIES:
-:Custom_id: reading_cano16:_game_hackin_devel_auton_dots_onlin_games
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/gamehacking.pdf]]
-** TODO Jon Erickson (2008): Hacking - The Art of Exploitation
-:PROPERTIES:
-:Custom_id: reading_erickson08:_hackin_art_exploit
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/hacking_artofexploitation_2ndedition.pdf]]
-** TODO David Thiel (2016): iOS Application Security - The Definitive Guide for Hackers and Developers
-:PROPERTIES:
-:Custom_id: reading_thiel16:_applic_secur_defin_guide_hacker_devel
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/iosapplicationsecurity.pdf]]
-** TODO David Kennedy and Jim O'Gorman and Devon Kearns and Mati Aharoni (2011): Metasploit - The Penetration Tester's Guide
-:PROPERTIES:
-:Custom_id: reading_kennedy11:_metas_penet_tester_guide
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/metasploit_apenetrationtestersguide.pdf]]
-** TODO Georgia Weidman (2014): Penetration Testing - A Hands-On Introduction to Hacking
-:PROPERTIES:
-:Custom_id: reading_weidman14:_penet_testin_hands_introd_hackin
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/penetrationtesting.pdf]]
-** TODO Melilot (2017): Proof of Concept - Get The F*ck Out Bible
-:PROPERTIES:
-:Custom_id: reading_melilot17:_proof_concep_get_f_out_bible
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/pocorgtfobible.pdf]]
-** TODO Bruce Nikkel (2016): Practical Forensic Imaging - Securing Digital Evidence with Linux Tools
-:PROPERTIES:
-:Custom_id: reading_nikkel16:_pract_foren_imagin_secur_digit
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/practicalforensicimaging.pdf]]
-** TODO Richard Bejtlich (2013): The Practice of Network Security Monitoring - Understanding Incident Detection and Response
-:PROPERTIES:
-:Custom_id: reading_bejtlich13:_pract_networ_secur_monit_under
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/practiceofnetworksecuritymonitoring.pdf]]
-** TODO Chris Sanders (2017): Practical Packet Analysis - Using Wireshark to Solve Real-World Network Problems
-:PROPERTIES:
-:Custom_id: reading_sanders17:_pract_packet_analy_using_wires
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/practicalpacketanalysis.pdf]]
-** TODO Craig Smith (2016): The Car Hacker's Handbook - A Guide for the Penetration Tester
-:PROPERTIES:
-:Custom_id: reading_smith16:_car_hacker_handb_guide_penet_tester
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/thecarhackershandbook.pdf]]
-** TODO Violet Blue (2015): The Smart Girl's Guide to Privacy - Practical Tips for Staying Safe Online
-:PROPERTIES:
-:Custom_id: reading_blue15:_smart_girls_guide_privac_pract
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/smartgirlsguidetoprivacy.pdf]]
-** TODO Chris Eagle (2011): The IDA Pro Book - The Unofficial Guide to the World's Most Popular Disassembler
-:PROPERTIES:
-:Custom_id: reading_eagle11:_ida_pro_book_unoff_guide
-:END:
-[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/theidaprobook_2ndedition.pdf]]
