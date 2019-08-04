@@ -4071,3 +4071,53 @@
 :Custom_id: reading_jernigan13:_no_retur
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Start/noreturn.pdf]]
+** TODO Ross Anderson (2008): Security Engineering - A Guide to Building Dependable Distributed Systems
+:PROPERTIES:
+:Custom_id: reading_anderson08:_secur_engin_guide_build_depen_distr_system
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cybersecurity by Wiley/security_engineering_a_guide_to_building_dependable_distributed_systems.pdf]]
+** TODO Christopher Hadnagy (2011): Social Engineering - The Art of Human Hacking
+:PROPERTIES:
+:Custom_id: reading_hadnagy11:_social_engin_art_human_hackin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cybersecurity by Wiley/social_engineering_the_art_of_human_hacking.pdf]]
+** TODO Wil Allsop (2009): Unauthorised Access - Physical Penetration Testing For IT Security Teams
+:PROPERTIES:
+:Custom_id: reading_allsop09:_unaut_acces_physic_penet_testin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cybersecurity by Wiley/unauthorised_access_physical_penetration_testing_for_it_security_teams.pdf]]
+** TODO Dafydd Stuttard and Marcus Pinto (2011): The Web Application Hacker's Handbook - Finding and Exploiting Security Flaws
+:PROPERTIES:
+:Custom_id: reading_stuttard11:_web_applic_hacker_handb_findin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cybersecurity by Wiley/web_application_hackers_handbook_finding_and_exploiting_security_flaws.pdf]]
+** TODO Bruce Schneier (2015): Applied Cryptography - Protocols, Algorithms and Source Code in C
+:PROPERTIES:
+:Custom_id: reading_schneier15:_applied_crypt_protoc_algor_sourc_code_c
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cybersecurity by Wiley/applied_cryptography_protocols_algorithms_and_source_code_in_c.pdf]]
+** TODO Sean-Philip Oriyano (2016): CEHv9 - Certified Ethical Hacker Version 9 - Study Guide
+:PROPERTIES:
+:Custom_id: reading_oriyano16:_cehv9_certif_ethic_hacker_version_study_guide
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cybersecurity by Wiley/ceh_v9_certified_ethical_hacker_study_guide.pdf]]
+** TODO Niels Ferguson and Bruce Schneier and Tadayoshi Kohno (2010): Cryptography Engineering - Design Principles and Practical Applications
+:PROPERTIES:
+:Custom_id: reading_ferguson10:_crypt_engin_desig_princ_pract_applic
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cybersecurity by Wiley/cryptography_engineering_design_principles_and_practical_applications.pdf]]
+** TODO Michael Hale Ligh and Steven Adair and Blake Hartstein and Matthew Richard (2011): Malware Analyst's Cookbook and DVD
+:PROPERTIES:
+:Custom_id: reading_ligh11:_malwar_analy_cookb_dvd
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cybersecurity by Wiley/malware_analysts_cookbook_and_dvd_tools_and_techniques_for_fighting_malicious_code.pdf]]
+** TODO Bruce Dang and Alexandre Gazet and Elias Bachaalany (2014): Practical Reverse Engineering
+:PROPERTIES:
+:Custom_id: reading_dang14:_pract_rever_engin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cybersecurity by Wiley/practical_reverse_engineering_x86_x64_arm_windows_kernel_reversing_tools_and_obfuscation.pdf]]
+** TODO Bruce Schneier (2015): Secrets & Lies - Digital Security in a Networked World
+:PROPERTIES:
+:Custom_id: reading_schneier15:_secret_lies_digit_secur_networ_world
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cybersecurity by Wiley/secrets_and_lies_digital_security_in_a_networked_world.pdf]]
