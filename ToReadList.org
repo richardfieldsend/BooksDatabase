@@ -3851,3 +3851,68 @@
 :Custom_id: reading_arneson14:_what_your_boss_reall_wants
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Win At  Work/whatyourbossreallywantsfromyou.pdf]]
+** TODO Nikolay Elenkov (2015): Android Security Internals - An In-Depth Guide to Android's Security Architecture
+:PROPERTIES:
+:Custom_id: reading_elenkov15:_android_secur_inter_in_depth
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/androidsecurityinternals.pdf]]
+** TODO Nick Cano (2016): Game Hacking - Developing Autonomous Dots for Online Games
+:PROPERTIES:
+:Custom_id: reading_cano16:_game_hackin_devel_auton_dots_onlin_games
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/gamehacking.pdf]]
+** TODO Jon Erickson (2008): Hacking - The Art of Exploitation
+:PROPERTIES:
+:Custom_id: reading_erickson08:_hackin_art_exploit
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/hacking_artofexploitation_2ndedition.pdf]]
+** TODO David Thiel (2016): iOS Application Security - The Definitive Guide for Hackers and Developers
+:PROPERTIES:
+:Custom_id: reading_thiel16:_applic_secur_defin_guide_hacker_devel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/iosapplicationsecurity.pdf]]
+** TODO David Kennedy and Jim O'Gorman and Devon Kearns and Mati Aharoni (2011): Metasploit - The Penetration Tester's Guide
+:PROPERTIES:
+:Custom_id: reading_kennedy11:_metas_penet_tester_guide
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/metasploit_apenetrationtestersguide.pdf]]
+** TODO Georgia Weidman (2014): Penetration Testing - A Hands-On Introduction to Hacking
+:PROPERTIES:
+:Custom_id: reading_weidman14:_penet_testin_hands_introd_hackin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/penetrationtesting.pdf]]
+** TODO Melilot (2017): Proof of Concept - Get The F*ck Out Bible
+:PROPERTIES:
+:Custom_id: reading_melilot17:_proof_concep_get_f_out_bible
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/pocorgtfobible.pdf]]
+** TODO Bruce Nikkel (2016): Practical Forensic Imaging - Securing Digital Evidence with Linux Tools
+:PROPERTIES:
+:Custom_id: reading_nikkel16:_pract_foren_imagin_secur_digit
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/practicalforensicimaging.pdf]]
+** TODO Richard Bejtlich (2013): The Practice of Network Security Monitoring - Understanding Incident Detection and Response
+:PROPERTIES:
+:Custom_id: reading_bejtlich13:_pract_networ_secur_monit_under
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/practiceofnetworksecuritymonitoring.pdf]]
+** TODO Chris Sanders (2017): Practical Packet Analysis - Using Wireshark to Solve Real-World Network Problems
+:PROPERTIES:
+:Custom_id: reading_sanders17:_pract_packet_analy_using_wires
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/practicalpacketanalysis.pdf]]
+** TODO Craig Smith (2016): The Car Hacker's Handbook - A Guide for the Penetration Tester
+:PROPERTIES:
+:Custom_id: reading_smith16:_car_hacker_handb_guide_penet_tester
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/thecarhackershandbook.pdf]]
+** TODO Violet Blue (2015): The Smart Girl's Guide to Privacy - Practical Tips for Staying Safe Online
+:PROPERTIES:
+:Custom_id: reading_blue15:_smart_girls_guide_privac_pract
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/smartgirlsguidetoprivacy.pdf]]
+** TODO Chris Eagle (2011): The IDA Pro Book - The Unofficial Guide to the World's Most Popular Disassembler
+:PROPERTIES:
+:Custom_id: reading_eagle11:_ida_pro_book_unoff_guide
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Reloaded by No Starch/theidaprobook_2ndedition.pdf]]
