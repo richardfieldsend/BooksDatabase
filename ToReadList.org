@@ -4186,3 +4186,23 @@
 :Custom_id: reading_vohra16:_pro_docker_learn_contain_servic_deploy
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Linux and Open Source by Apress/prodocker.pdf]]
+** TODO Justin Seitz (2015): Black Hat Python - Python Programming for Hackers and Pentesters
+:PROPERTIES:
+:Custom_id: reading_seitz15:_black_hat_python_python_progr_hacker_pentes
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python presented by No Starch/blackhatpython.pdf]]
+** TODO Eric Matthes (2016): Python Crash Course - A Hands-on, Project-Based Introduction to Programming
+:PROPERTIES:
+:Custom_id: reading_matthes16:_python_crash_cours_hands_projec
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python presented by No Starch/pythoncrashcourse_updated.pdf]]
+** TODO Jason R. Briggs (2013): Python for Kids - A Playful Introduction to Programming
+:PROPERTIES:
+:Custom_id: reading_briggs13:_python_kids_playf_introd_progr
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python presented by No Starch/pythonforkids_1490905401.pdf]]
+** TODO Mahesh Venkitachalam (2016): Python Playground - Geeky Projects for the Curious Programmer
+:PROPERTIES:
+:Custom_id: reading_venkitachalam16:_python_playg_geeky_projec_curious_progr
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python presented by No Starch/pythonplayground_geekyprojectsforthecuriousprogrammer.pdf]]

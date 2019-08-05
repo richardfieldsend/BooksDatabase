@@ -34,6 +34,7 @@ HB Land a Tech Job for Dummies
 HB Brainiac 2 by No Starch
 HB Cybersecurity by Wiley
 HB Linux and Open Source by Apress
+HB Python presented by No Starch
 audible
 book group
 business
