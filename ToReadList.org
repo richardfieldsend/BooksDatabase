@@ -4291,3 +4291,88 @@
 :Custom_id: reading_hand15:_wyldin_hall
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Women of Science Fiction and Fantasy by Open Road Media/wyldinghall.pdf]]
+** TODO Richard Chizmar (2017): A Long December
+:PROPERTIES:
+:Custom_id: reading_chizmar17:_long_decem
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Fantastic Fiction by Subterranean Press/alongdecember.pdf]]
+** TODO Alastair Reynolds (2010): Deep Navigation - A Collection of Stories by Alastair Reynolds
+:PROPERTIES:
+:Custom_id: reading_reynolds10:_deep_navig_collec_stories_alast_reynol
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Fantastic Fiction by Subterranean Press/deepnavigation.pdf]]
+** TODO Tim Powers (2016): Down and Out In Purgatory
+:PROPERTIES:
+:Custom_id: reading_powers16:_down_out_in_purgat
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Fantastic Fiction by Subterranean Press/downandoutinpurgatory.pdf]]
+** TODO Joe R. Lansdale (2015): Fender Lizards
+:PROPERTIES:
+:Custom_id: reading_lansdale15:_fender_lizar
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Fantastic Fiction by Subterranean Press/fenderlizards.pdf]]
+** TODO Mira Grant (2017): Final Girls
+:PROPERTIES:
+:Custom_id: reading_grant17:_final_girls
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Fantastic Fiction by Subterranean Press/finalgirls.pdf]]
+** TODO Lewis Shiner (1993): Glimpses
+:PROPERTIES:
+:Custom_id: reading_shiner93:_glimp
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Fantastic Fiction by Subterranean Press/glimpses.pdf]]
+** TODO Cherie Priest (2015): Jacaranda - A Novella of the Clockwork Century
+:PROPERTIES:
+:Custom_id: reading_priest15:_jacar_novel_clock_centur
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Fantastic Fiction by Subterranean Press/jacaranda_anovellaoftheclockworkcentury_1423266674.pdf]]
+** TODO Kelley Armstrong (2017): Lost Souls - A Cainsville Novella
+:PROPERTIES:
+:Custom_id: reading_armstrong17:_lost_souls_cains_novel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Fantastic Fiction by Subterranean Press/lostsouls.pdf]]
+** TODO John Scalzi (2016): Miniatures - The Very Short Fiction of John Scalzi
+:PROPERTIES:
+:Custom_id: reading_scalzi16:_miniat_very_short_fiction_john_scalz
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Fantastic Fiction by Subterranean Press/miniatures.pdf]]
+** TODO Jaqueline Carey (2016): One Hundred Ablutions
+:PROPERTIES:
+:Custom_id: reading_carey16:_one_hundr_ablut
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Fantastic Fiction by Subterranean Press/onehundredablutions.pdf]]
+** TODO Mike Carey (2018): Barbarella - Red Hot Gospel
+:PROPERTIES:
+:Custom_id: reading_carey18:_barbar_red_hot_gospel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Comics Bundle Dynamite/barbarella_vol1.pdf]]
+** TODO Robert R. McCammon (2015): The Border
+:PROPERTIES:
+:Custom_id: reading_mccammon15:_border
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Fantastic Fiction by Subterranean Press/theborder.pdf]]
+** TODO Catherynne M. Valente (2013): The Bread We Eat in Dreams
+:PROPERTIES:
+:Custom_id: reading_valente13:_bread_we_eat_dream
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Fantastic Fiction by Subterranean Press/thebreadweeatindreams.pdf]]
+** TODO Kevin Hearne (2016): Oberon's Meaty Mysteries - The Purloined Poodle
+:PROPERTIES:
+:Custom_id: reading_hearne16:_oberon_meaty_myster_purloin_poodl
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Fantastic Fiction by Subterranean Press/thepurloinedpoodle.pdf]]
+** TODO Connie Willis (2007): The Winds of Marble Arch and Other Stories - A Connie Willis Compendium
+:PROPERTIES:
+:Custom_id: reading_willis07:_winds_marbl_arch_other_stories
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Fantastic Fiction by Subterranean Press/thewindsofmarblearchandotherstories.pdf]]
+** TODO Clive Barker (2015): Tortured Souls - The Legend of Primordium
+:PROPERTIES:
+:Custom_id: reading_barker15:_tortur_souls_legen_primor
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Fantastic Fiction by Subterranean Press/torturedsouls_thelegendofprimordium_1423266674.pdf]]
+** TODO Jim Butcher (2015): Working For Bigfoot - Stories from the Dresden Files
+:PROPERTIES:
+:Custom_id: reading_butcher15:_workin_for_bigfoot_stories_dresd_files
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Fantastic Fiction by Subterranean Press/workingforbigfoot.pdf]]
