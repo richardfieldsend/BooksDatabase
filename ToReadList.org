@@ -4206,3 +4206,88 @@
 :Custom_id: reading_venkitachalam16:_python_playg_geeky_projec_curious_progr
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Python presented by No Starch/pythonplayground_geekyprojectsforthecuriousprogrammer.pdf]]
+** TODO Elizabeth Hand (2012): Black Light
+:PROPERTIES:
+:Custom_id: reading_hand12:_black_light
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Women of Science Fiction and Fantasy by Open Road Media/blacklight.pdf]]
+** TODO Robin McKinley (2014): Beauty
+:PROPERTIES:
+:Custom_id: reading_mckinley14:_beaut
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Women of Science Fiction and Fantasy by Open Road Media/beauty_aretellingofthestory.pdf]]
+** TODO Katherine Kurtz (2016): Camber of Culdi - The Legends of Camber of Culdi Volume One
+:PROPERTIES:
+:Custom_id: reading_kurtz16:_camber_culdi_legen_camber_culdi_volum_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Women of Science Fiction and Fantasy by Open Road Media/camberofculdi.pdf]]
+** TODO Robin McKinley (2014): The Hero and the  Crown
+:PROPERTIES:
+:Custom_id: reading_mckinley14:_hero_crown
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Women of Science Fiction and Fantasy by Open Road Media/heroandthecrown.pdf]]
+** TODO Kate Elliott (2013): Jaran
+:PROPERTIES:
+:Custom_id: reading_elliott13:_jaran
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Women of Science Fiction and Fantasy by Open Road Media/jaran.pdf]]
+** TODO Katherine Kurtz (2016): Lammas Night
+:PROPERTIES:
+:Custom_id: reading_kurtz16:_lammas_night
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Women of Science Fiction and Fantasy by Open Road Media/lammasnight.pdf]]
+** TODO Octavia E. Butler (2012): Parable of the Sower
+:PROPERTIES:
+:Custom_id: reading_butler12:_parab_sower
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Women of Science Fiction and Fantasy by Open Road Media/parableofthesower.pdf]]
+** TODO Octavia E. Butler (2012): Parable of the Talents
+:PROPERTIES:
+:Custom_id: reading_butler12:_parab_talen
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Women of Science Fiction and Fantasy by Open Road Media/parableofthetalents.pdf]]
+** TODO Diana Pharaoh Francis (2016): Path of Fate - The Path Trilogy
+:PROPERTIES:
+:Custom_id: reading_francis16:_path_fate_path_trilog
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Women of Science Fiction and Fantasy by Open Road Media/pathoffate.pdf]]
+** TODO Elizabeth Hand (2014): Saffron and Brimstone
+:PROPERTIES:
+:Custom_id: reading_hand14:_saffr_brims
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Women of Science Fiction and Fantasy by Open Road Media/saffronandbrimstone.pdf]]
+** TODO Jane Yolen (2016): Sister Light, Sister Dark
+:PROPERTIES:
+:Custom_id: reading_yolen16:_sister_light_sister_dark
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Women of Science Fiction and Fantasy by Open Road Media/sisterlight_sisterdark.pdf]]
+** TODO Jo Clayton (2016): Skeen's Leap
+:PROPERTIES:
+:Custom_id: reading_clayton16:_skeen_leap
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Women of Science Fiction and Fantasy by Open Road Media/skeensleap.pdf]]
+** TODO Nalo Hopkinson (2015): Skin Folk
+:PROPERTIES:
+:Custom_id: reading_hopkinson15:_skin_folk
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Women of Science Fiction and Fantasy by Open Road Media/skinfolk.pdf]]
+** TODO Robin McKinley (2014): Sunshine
+:PROPERTIES:
+:Custom_id: reading_mckinley14:_sunsh
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Women of Science Fiction and Fantasy by Open Road Media/sunshine.pdf]]
+** TODO Pamela Sargent (2014): The Shore of Women
+:PROPERTIES:
+:Custom_id: reading_sargent14:_shore_women
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Women of Science Fiction and Fantasy by Open Road Media/theshoreofwomen_updated.pdf]]
+** TODO Octavia E. Butler (2014): Unexpected Stories
+:PROPERTIES:
+:Custom_id: reading_butler14:_unexp_stories
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Women of Science Fiction and Fantasy by Open Road Media/unexpectedstories.pdf]]
+** TODO Elizabeth Hand (2015): Wylding Hall
+:PROPERTIES:
+:Custom_id: reading_hand15:_wyldin_hall
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Women of Science Fiction and Fantasy by Open Road Media/wyldinghall.pdf]]
