@@ -4376,3 +4376,283 @@
 :Custom_id: reading_butcher15:_workin_for_bigfoot_stories_dresd_files
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Fantastic Fiction by Subterranean Press/workingforbigfoot.pdf]]
+** TODO Greg Rucka (2013): Lazarus Volume 1 - Family
+:PROPERTIES:
+:Custom_id: reading_rucka13:_lazar_volum_famil
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/Lazarus_vol1_lores.pdf]]
+** TODO Marjorie Liu (2015): Monstress - Issue 1
+:PROPERTIES:
+:Custom_id: reading_liu15:_monst_issue
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/Monstress_01.pdf]]
+** TODO Nick Spencer (2011): Morning Glories - Volume 1
+:PROPERTIES:
+:Custom_id: reading_spencer11:_mornin_glories_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/MorningGlories_vol1.pdf]]
+** TODO Tim Seeley (2012): Revival Volume One: You're Among Friends
+:PROPERTIES:
+:Custom_id: reading_seeley12:_reviv_volum_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/Revival_vol1_lores.pdf]]
+** TODO Joe Keatinge (2014): Shutter #1
+:PROPERTIES:
+:Custom_id: reading_keatinge14:_shutt
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/Shutter_01_1420484117.pdf]]
+** TODO Joshua Williamson (2015): Birthright Volume One - Homecoming
+:PROPERTIES:
+:Custom_id: reading_williamson15:_birth_volum_one_homec
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/birthright_vol1.pdf]]
+** TODO Brian Wood (2016): Black Road - The Holy North - Issue 1
+:PROPERTIES:
+:Custom_id: reading_wood16:_black_road_holy_north_issue
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/blackroad_issue1.pdf]]
+** TODO Rick Remender (2014): Black Science Volume 1 - How To Fall Forever
+:PROPERTIES:
+:Custom_id: reading_remender14:_black_scien_volum_how_to_fall_forev
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/blackscience_vol1.pdf]]
+** TODO J. Young and Brian Buccellato (2016): Cannibal - Issue One
+:PROPERTIES:
+:Custom_id: reading_young16:_cannib_issue_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/cannibal_issue1.pdf]]
+** TODO Matt Fraction and Gabriel Ba (2014): Casanova Volume One - Luxuria
+:PROPERTIES:
+:Custom_id: reading_fraction14:_casan_volum_one_luxur
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/casanova_vol1.pdf]]
+** TODO John Layman (2009): Chew Volume 1
+:PROPERTIES:
+:Custom_id: reading_layman09:_chew_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/chew_vol1.pdf]]
+** TODO Christopher Sebela (2016): Demonic No. 1
+:PROPERTIES:
+:Custom_id: reading_sebela16:_demon_no
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/demonic_issue1.pdf]]
+** TODO Jeff Lemire (2015): Descender Book One - Tin Stars
+:PROPERTIES:
+:Custom_id: reading_lemire15:_descen_book_one_tin_stars
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/descender_vol1.pdf]]
+** TODO Jeff Lemire (2016): Descender Book Two - Machine Moon
+:PROPERTIES:
+:Custom_id: reading_lemire16:_descen_book_two_machin_moon
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/descender_vol2.pdf]]
+** TODO Ivan Brandon (2015): Drifter Volume 01
+:PROPERTIES:
+:Custom_id: reading_brandon15:_drift_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/drifter_vol1.pdf]]
+** TODO Jonathan Hickman (2013): East of West - Volume 1
+:PROPERTIES:
+:Custom_id: reading_hickman13:_east_west_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/eastofwest_vol1.pdf]]
+** TODO Jonathan Hickman (2014): East of West - Volume 2
+:PROPERTIES:
+:Custom_id: reading_hickman14:_east_west_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/eastofwest_vol2.pdf]]
+** TODO Brandon Thomas (2016): Horizon Issue 1
+:PROPERTIES:
+:Custom_id: reading_thomas16:_horiz_issue
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/horizon_issue1.pdf]]
+** TODO Skottie Young (2016): I Hate Fairyland Volume One - Madly Ever After
+:PROPERTIES:
+:Custom_id: reading_young16:_i_hate_fairy_volum_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/ihatefairyland_vol1.pdf]]
+** TODO Warren Ellis (2015): Injection Volume One
+:PROPERTIES:
+:Custom_id: reading_ellis15:_injec_volum_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/injection_vol1_optimized.pdf]]
+** TODO Brandon Graham (2015): Island Issue 1
+:PROPERTIES:
+:Custom_id: reading_graham15:_islan_issue
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/island_issue1.pdf]]
+** TODO Chip Zdarsky and Kagan McLeod (2015): Kaptara Volume One - Fear Not, Tiny Alien
+:PROPERTIES:
+:Custom_id: reading_zdarsky15:_kaptar_volum_one_fear_not_tiny_alien
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/kaptara_vol1_optimized.pdf]]
+** TODO Ed Brubaker and Sean Phillips and Elizabeth Breitweiser (2016): Kill or Be Killed
+:PROPERTIES:
+:Custom_id: reading_brubaker16:_kill_be_killed
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/killorbekilled_issue1.pdf]]
+** TODO Caspar Wijngaard and Dan Watters (2016): Limbo Volume 1
+:PROPERTIES:
+:Custom_id: reading_wijngaard16:_limbo_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/limbo_vol1.pdf]]
+** TODO Emma Rios and Hwei Lim (2016): Mirror Volume One - The Mountain
+:PROPERTIES:
+:Custom_id: reading_rios16:_mirror_volum_one_mount
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/mirror_vol1.pdf]]
+** TODO Brian Azzarello (2016): Moonshine No. 1
+:PROPERTIES:
+:Custom_id: reading_azzarello16:_moons_no
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/moonshine_issue1.pdf]]
+** TODO Joshua Williamson (2014): Nailbiter Volume One - There Will Be Blood
+:PROPERTIES:
+:Custom_id: reading_williamson14:_nailb_volum_one_there_will_be_blood
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/nailbiter_vol1.pdf]]
+** TODO Eric Stephenson (2013): Nowhere Men
+:PROPERTIES:
+:Custom_id: reading_stephenson13:_nowher_men
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/nowheremen_optimized.pdf]]
+** TODO Matt Fraction (2015): Ody-C Volume One - Off to Far Iteicaa
+:PROPERTIES:
+:Custom_id: reading_fraction15:_ody_c_volum_one_off_far_iteic
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/ody-c_vol1.pdf]]
+** TODO Robert Kirkman (2015): Outcast Volume One - A Darkness Surrounds Him
+:PROPERTIES:
+:Custom_id: reading_kirkman15:_outcas_volum_one_darkn_surroun_him
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/outcast_vol1.pdf]]
+** TODO Brandon Graham and Simon Roy and Farel Dalrymple and Giannis Milonogiannis (2012): Prophet Volume One - Remission TP
+:PROPERTIES:
+:Custom_id: reading_graham12:_proph_volum_one_remis_tp
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/prophet_vol1.pdf]]
+** TODO Kurtis J. Weibe (2014): Rat Queens Volume One - Sass and Sorcery
+:PROPERTIES:
+:Custom_id: reading_weibe14:_rat_queen_volum_one_sass_sorcer
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/ratqueens_vol1.pdf]]
+** TODO Michael Moreci (2015): Roche Limit Volume One
+:PROPERTIES:
+:Custom_id: reading_moreci15:_roche_limit_volum_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/rochelimit_vol1.pdf]]
+** TODO Joe Harris (2016): Rockstars Issue 1 - Nativity in Blacklight
+:PROPERTIES:
+:Custom_id: reading_harris16:_rocks_issue_nativ_black
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/rockstars_issue1.pdf]]
+** TODO Bryan Hill (2016): Romulus Chapter One - Last of the Wolves
+:PROPERTIES:
+:Custom_id: reading_hill16:_romul_chapt_one_last_wolves
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/romulus_issue1.pdf]]
+** TODO John Arcudi and James Harren (2015): Rumble Volume One - The Color of Darkness
+:PROPERTIES:
+:Custom_id: reading_arcudi15:_rumbl_volum_one_color_darkn
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/rumble_vol1.pdf]]
+** TODO Brian K. Vaughan (2014): Saga Book One
+:PROPERTIES:
+:Custom_id: reading_vaughan14:_saga_book_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/saga_bookone.pdf]]
+** TODO Rick Remender (2016): Seven To Eternity Issue One
+:PROPERTIES:
+:Custom_id: reading_remender16:_seven_to_etern_issue_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/seventoeternity_issue1.pdf]]
+** TODO Matt Fraction and Chip Zdarsky (2014): Sex Criminals Volume One - One Weird Trick
+:PROPERTIES:
+:Custom_id: reading_fraction14:_sex_crimin_volum_one_one_weird_trick
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/sexcriminals_vol1_optimized_1420484117.pdf]]
+** TODO Rich Tommaso (2016): She Wolf Issue One - Spell Number One - Shapeshifting
+:PROPERTIES:
+:Custom_id: reading_tommaso16:_she_wolf_issue_one_spell
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/shewolf_issue1.pdf]]
+** TODO Joe Keatinge (2014): Shutter Volume One
+:PROPERTIES:
+:Custom_id: reading_keatinge14:_shutt_volum_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/shutter_vol1.pdf]]
+** TODO Bryan Lee O'Malley (2016): Snotgirl Issue One
+:PROPERTIES:
+:Custom_id: reading_omalley16:_snotg_issue_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/snotgirl_issue1.pdf]]
+** TODO Brian Buccellato (2015): Sons of the Devil Issue One
+:PROPERTIES:
+:Custom_id: reading_buccellato15:_sons_devil_issue_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/sonsofthedevil_issue1.pdf]]
+** TODO Jason Aaron (2014): Southern Bastards Volume One - Here Was A Man
+:PROPERTIES:
+:Custom_id: reading_aaron14:_south_bastar_volum_one_here_was_man
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/southernbastards_vol1.pdf]]
+** TODO Becky Cloonan (2015): Southern Cross Issue One
+:PROPERTIES:
+:Custom_id: reading_cloonan15:_south_cross_issue_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/southerncross_issue1.pdf]]
+** TODO Justin Jordan (2014): Spread Volume One - No Hope
+:PROPERTIES:
+:Custom_id: reading_jordan14:_spread_volum_one_no_hope
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/spread_vol1.pdf]]
+** TODO Justin Jordan (2013): Strange Talent of Luther Strode Volume One
+:PROPERTIES:
+:Custom_id: reading_jordan13:_stran_talen_luther_strod_volum_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/strangetalentoflutherstrode_vol1.pdf]]
+** TODO Sara Kenney (2016): Surgeon X Issue One
+:PROPERTIES:
+:Custom_id: reading_kenney16:_surgeon_x_issue_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/surgeonx_issue1.pdf]]
+** TODO Jeremy Haun and Jason A. Hurley (2015): The Beauty Issue 1
+:PROPERTIES:
+:Custom_id: reading_haun15:_beaut_issue
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/thebeauty_issue1.pdf]]
+** TODO Jonathan Hickman (2016): The Black Monday Murders Issue One
+:PROPERTIES:
+:Custom_id: reading_hickman16:_black_monday_murder_issue_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/theblackmondaymurders_issue1.pdf]]
+** TODO Peter Milligan (2016): The Discipline Issue One
+:PROPERTIES:
+:Custom_id: reading_milligan16:_discip_issue_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/thediscipline_issue1.pdf]]
+** TODO Ed Brubaker and Sean Phillips (2015): The Fadeout Volume One
+:PROPERTIES:
+:Custom_id: reading_brubaker15:_fadeout_volum_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/thefadeout_vol1.pdf]]
+** TODO Nick Spencer (2016): The Fix Issue One
+:PROPERTIES:
+:Custom_id: reading_spencer16:_fix_issue_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/thefix_issue1.pdf]]
+** TODO Nick Spencer (2016): The Fix Volume 1 - Where Beagles Dare
+:PROPERTIES:
+:Custom_id: reading_spencer16:_fix_volum_where_beagl_dare
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/thefix_vol1.pdf]]
+** TODO Kieron Gillen (2016): The Wicked and the Divine - Book One
+:PROPERTIES:
+:Custom_id: reading_gillen16:_wicked_divin_book_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/thewickedandthedivine_bookone.pdf]]
+** TODO Caitlin Kittredge (2016): Throwaways Issue One
+:PROPERTIES:
+:Custom_id: reading_kittredge16:_throw_issue_one
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Image at 25/throwaways_issue1.pdf]]

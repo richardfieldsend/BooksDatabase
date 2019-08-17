@@ -37,6 +37,7 @@ HB Linux and Open Source by Apress
 HB Python presented by No Starch
 HB Women of Science Fiction and Fantasy by Open Road Media
 HB Fantastic Fiction presented by Subterranean Press
+HB Image at 25
 audible
 book group
 business
@@ -56,7 +57,7 @@ fiction
 games
 get things done
 hardware
-historoical
+historical
 horror
 humble bundle
 kindle
