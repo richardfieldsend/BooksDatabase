@@ -4796,3 +4796,98 @@
 :Custom_id: reading_martin17:_tank_girl_class_5
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Tank Girl by Titan/tankgirlclassic_issue5.pdf]]
+** TODO Will Budiaman (2016): Be The BBQ Pitmaster
+:PROPERTIES:
+:Custom_id: reading_budiaman16:_be_bbq_pitmas
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Dude Care/bethebbqpitmaster.pdf]]
+** TODO Irvin Finau (2015): Bold - 212 Charisma & Small Talk Tips to Engage, Charm & Leave a Lasting Impression
+:PROPERTIES:
+:Custom_id: reading_finau15:_bold_charis_small_talk_tips
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Dude Care/bold_212charismaandsmalltalktips.pdf]]
+** TODO Justin Kuepper (2015): Day Trading - Beat The System & Make Money In Any Market Environment
+:PROPERTIES:
+:Custom_id: reading_kuepper15:_day_tradin_beat_system_make
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Dude Care/daytrading.pdf]]
+** TODO Anthony Clark (2016): Economics Through Everyday Life - From China & Chili Dogs to Marx & Marijuana
+:PROPERTIES:
+:Custom_id: reading_clark16:_econom_throug_every_life_from
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Dude Care/economicsthrougheverydaylife.pdf]]
+** TODO Jeremy Dillahunt (2016): F*ck Your Resume - The Revolutionary Guide to Getting Hired In The Digital Age
+:PROPERTIES:
+:Custom_id: reading_dillahunt16:_f_your_resum_revol_guide
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Dude Care/fckyourresume.pdf]]
+** TODO Will Budiaman (2015): Handcrafted Bitters - Simple Recipes for Artisanal Bitters and the Cocktails that Love Them
+:PROPERTIES:
+:Custom_id: reading_budiaman15:_handc_bitter_simpl_recip_artis
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Dude Care/handcraftedbitters.pdf]]
+** TODO Jeff Norman (2015): LinkedIn - Tell Your Story - Land The Job
+:PROPERTIES:
+:Custom_id: reading_norman15:_linked_tell_your_story_land_job
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Dude Care/linkedin_tellyourstorylandthejob.pdf]]
+** TODO Kenzie Swanhart (2015): Paleo In 28 - 4 Weeks, 5 Ingredients, 130 Recipes
+:PROPERTIES:
+:Custom_id: reading_swanhart15:_paleo_in_weeks_ingred_recip
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Dude Care/paleoin28.pdf]]
+** TODO Richard Ganis (2015): Politics - From A to Z
+:PROPERTIES:
+:Custom_id: reading_ganis15:_polit_from_z
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Dude Care/politicsfromatoz.pdf]]
+** TODO Kevin Perry (2015): Philosophy
+:PROPERTIES:
+:Custom_id: reading_perry15:_philos
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Dude Care/philosophy.pdf]]
+** TODO Andrea Bonior (2016): Psychology - Essential Thinkers, Classic Theories and How They Inform Your World
+:PROPERTIES:
+:Custom_id: reading_bonior16:_psych_essen_think_class_theor
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Dude Care/psychology.pdf]]
+** TODO Will Budiaman (2015): Real BBQ - The Ultimate Step-by-step Smoker Cookbook
+:PROPERTIES:
+:Custom_id: reading_budiaman15:_real_bbq_ultim_step_smoker_cookb
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Dude Care/realbbq.pdf]]
+** TODO Rockridge Press (2015): Sushi At Home - A Mat-to-Table Sushi Cookbook
+:PROPERTIES:
+:Custom_id: reading_press15:_sushi_at_home_mat_table_sushi_cookb
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Dude Care/sushiathome.pdf]]
+** TODO Laurie Wolf and Mary Wolf (2016): The Medical Marijuana Dispensary
+:PROPERTIES:
+:Custom_id: reading_wolf16:_medic_marij_dispen
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Dude Care/themedicalmarijuanadispensary.pdf]]
+** TODO Anne Kennedy (2016): The Portable Essential Oils - A Pocket Reference of Everyday Remedies for Natural Health & Wellness
+:PROPERTIES:
+:Custom_id: reading_kennedy16:_portab_essen_oils_pocket_refer
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Dude Care/theportableessentialoils.pdf]]
+** TODO Jeffrey L. Seglin (2015): The Simple Art of Business Etiquette - How To Rise To The Top by Playing Nice
+:PROPERTIES:
+:Custom_id: reading_seglin15:_simpl_art_busin_etiquet_how
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Dude Care/thesimpleartofbusinessetiquette.pdf]]
+** TODO Kendall Lou Schmidt (2016): The Ultimate Bodybuilding Cookbook - High-Impact Recipes to Make You Stronger Than Ever
+:PROPERTIES:
+:Custom_id: reading_schmidt16:_ultim_bodyb_cookb_high_impac
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Dude Care/theultimatebodybuildingcookbook.pdf]]
+** TODO Hattie C. Cooper (2014): Thriving with Social Anxiety
+:PROPERTIES:
+:Custom_id: reading_cooper14:_thriv_social_anxiet
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Dude Care/thrivingwithsocialanxiety.pdf]]
+** TODO Mark Ettensohn (2016): Unmasking Narcissism - A Guide to Understanding The Narcissist In Your Life
+:PROPERTIES:
+:Custom_id: reading_ettensohn16:_unmas_narcis_guide_under_narcis
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Dude Care/unmaskingnarcissism.pdf]]
