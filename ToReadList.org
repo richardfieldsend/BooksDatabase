@@ -4966,3 +4966,83 @@
 :Custom_id: reading_lang17:_make_zero_maker
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science and Discovery by Make/zerotomaker_learntomakeanything.pdf]]
+** TODO John De Graaf and David Wann and Thomas H. Naylor (2014): Affluenza - How Over-consumption is Killing Us - and How to Fight Back
+:PROPERTIES:
+:Custom_id: reading_graaf14:_affluen_how_over_killin_us
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Capitalism/affluenza.pdf]]
+** TODO David C. Korten (2010): Agenda For A New Economy - From Phantom Wealth to Real Wealth
+:PROPERTIES:
+:Custom_id: reading_korten10:_agend_for_new_econom_from
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Capitalism/agendaforaneweconomy.pdf]]
+** TODO David C. Korten (2015): Change The Story, Change The Future - A Living Economy For A Living Earth
+:PROPERTIES:
+:Custom_id: reading_korten15:_chang_story_chang_futur_livin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Capitalism/changethestorychangethefuture.pdf]]
+** TODO Jeffrey D. Clements (2014): Corporations Are Not People - Reclaiming Democracy from Big Money and Global Corporations
+:PROPERTIES:
+:Custom_id: reading_clements14:_corpor_are_not_peopl_reclaim
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Capitalism/corporationsarenotpeople.pdf]]
+** TODO Sarah Van Gelder (2017): The Revolution Where You Live - Stories From a 12,000 Mile Journey Through a New America
+:PROPERTIES:
+:Custom_id: reading_gelder17:_revol_where_you_live_stories
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Capitalism/firstchapterteasers_therevolutionwhereyoulive.pdf]]
+** TODO Sasha Chanoff and David Chanoff (2016): From Crisis to Calling - Finding Your Moral Center in the Toughest Decisions
+:PROPERTIES:
+:Custom_id: reading_chanoff16:_from_crisis_callin_findin_your
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Capitalism/fromcrisistocalling.pdf]]
+** TODO John Hope Bryant (2014): How The Poor Can Save Capitalism - Rebuilding The Path to the Middle Class
+:PROPERTIES:
+:Custom_id: reading_bryant14:_how_poor_can_save_capit
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Capitalism/howthepoorcansavecapitalism.pdf]]
+** TODO Maya Schenwar (2014): Locked Down, Locked Out - Why Prison Doesn't Work and How We Can Do Better
+:PROPERTIES:
+:Custom_id: reading_schenwar14:_locked_down_locked_out_why
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Capitalism/lockdownlockedout.pdf]]
+** TODO Henry Mintzberg (2015): Rebalancing Society - Radical Renewal Beyond Left, Right and Center
+:PROPERTIES:
+:Custom_id: reading_mintzberg15:_rebal_societ_radic_renew_beyon
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Capitalism/rebalancingsociety.pdf]]
+** TODO Thom Hartmann (2007): Screwed - The Undeclared War Against the Middle Class - And What We Can Do About It
+:PROPERTIES:
+:Custom_id: reading_hartmann07:_screw_undec_war_again_middl
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Capitalism/screwed.pdf]]
+** TODO Joe Solmonese (2016): The Gift of Anger - Use Passion to Build Not Destroy
+:PROPERTIES:
+:Custom_id: reading_solmonese16:_gift_anger_use_passion_build_not_destr
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Capitalism/thegiftofanger.pdf]]
+** TODO John Perkins (2016): The New Confessions of an Economic Hit Man
+:PROPERTIES:
+:Custom_id: reading_perkins16:_new_confes_econom_hit_man
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Capitalism/thenewconfessionsofaneconomichitman.pdf]]
+** TODO Mark Gerzon (2016): The Reunited States of America - How We Can Bridge the Partisan Divide
+:PROPERTIES:
+:Custom_id: reading_gerzon16:_reunit_states_americ_how_we
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Capitalism/thereunitedstatesofamerica.pdf]]
+** TODO Lynn Stout (2012): The Shareholder Value Myth - How Putting Shareholders First Harms Investors, Corporations and the Public
+:PROPERTIES:
+:Custom_id: reading_stout12:_shareh_value_myth_how_puttin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Capitalism/theshareholdervaluemyth.pdf]]
+** TODO Sarah Van Gelder (2011): This Changes Every Thing - Occupy Wall Street and the 99% Movement
+:PROPERTIES:
+:Custom_id: reading_gelder11:_this_chang_every_thing_occup
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Capitalism/thischangeseverything.pdf]]
+** TODO David C. Korten (2015): When Corporations Rule The World
+:PROPERTIES:
+:Custom_id: reading_korten15:_when_corpor_rule_world
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Capitalism/whencorporationsruletheworld.pdf]]
