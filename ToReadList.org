@@ -4891,3 +4891,78 @@
 :Custom_id: reading_ettensohn16:_unmas_narcis_guide_under_narcis
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Dude Care/unmaskingnarcissism.pdf]]
+** TODO Brian David Johnson (2015): Make - 21st Century Robot
+:PROPERTIES:
+:Custom_id: reading_johnson15:_make_centur_robot
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science and Discovery by Make/21stcenturyrobot.pdf]]
+** TODO Patrick Di Justo (2016): Make - DIY Drone and Quadcopter Projects
+:PROPERTIES:
+:Custom_id: reading_justo16:_make_diy_drone_quadc_projec
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science and Discovery by Make/diydroneandquadcopterprojects.pdf]]
+** TODO Sandy Antunes (2013): Make - DIY Instruments for Amateur Space - Inventing Utility for Your Spacecraft Once It Achieves Orbit
+:PROPERTIES:
+:Custom_id: reading_antunes13:_make_diy_instr_amateur_space
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science and Discovery by Make/diyinstrumentsforamateurspace.pdf]]
+** TODO Sandy Antunes (2012): Make - DIY Satellite Platforms - Building a Space-Ready General Base Picosatellite for Any Mission
+:PROPERTIES:
+:Custom_id: reading_antunes12:_make_diy_satel_platf_build
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science and Discovery by Make/diysatelliteplatforms.pdf]]
+** TODO Robert Bruce Thompson and Barbara Fritchman Thompson (2007): Make - Illustrated Guide to Astronomical Wonders
+:PROPERTIES:
+:Custom_id: reading_thompson07:_make_illus_guide_astron_wonder
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science and Discovery by Make/illustratedguidetoastronomicalwonders.pdf]]
+** TODO Sandy Antunes (2015): Make - DIY Comms and Control for Amateur Space - Talking and Listening to Your Satellite
+:PROPERTIES:
+:Custom_id: reading_antunes15:_make_diy_comms_contr_amateur
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science and Discovery by Make/make_diycommsandcontrolforamateurspace.pdf]]
+** TODO Alan Rothschild and Ann Rothschild (2015): Make - Inventing A Better Mousetrap - 200 Years of American History in the Amazing World of Patent Models
+:PROPERTIES:
+:Custom_id: reading_rothschild15:_make_inven_better_mouset_years
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science and Discovery by Make/make_inventingabettermousetrap.pdf]]
+** TODO Mark Frauenfelder (2009): Make - Magazine Volume 20
+:PROPERTIES:
+:Custom_id: reading_frauenfelder09:_make_magaz_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science and Discovery by Make/make_magazine_vol20.pdf]]
+** TODO Mark Frauenfelder (2012): Make - Magazine Volume 31
+:PROPERTIES:
+:Custom_id: reading_frauenfelder12:_make_magaz_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science and Discovery by Make/make_magazine_vol31.pdf]]
+** TODO Rafe Needleman (2015): Make - Magazine Volume 47
+:PROPERTIES:
+:Custom_id: reading_needleman15:_make_magaz_volum
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science and Discovery by Make/make_vol47_madeonmars.pdf]]
+** TODO John Baichtal (2015): Maker Pro - Essays on Making a Living as a Maker
+:PROPERTIES:
+:Custom_id: reading_baichtal15:_maker_pro_essay_makin_livin_maker
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science and Discovery by Make/makerpro.pdf]]
+** TODO Sandy Antunes (2012): Make - Surviving Orbit the DIY Way - Testing the Limits Your Satellite Can and Must Match
+:PROPERTIES:
+:Custom_id: reading_antunes12:_make_surviv_orbit_diy_way
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science and Discovery by Make/survivingorbitthediyway.pdf]]
+** TODO Mark Frauenfelder (2007): Make - The Best of Make
+:PROPERTIES:
+:Custom_id: reading_frauenfelder07:_make_best_make
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science and Discovery by Make/thebestofmake_optimized.pdf]]
+** TODO James H. Carrott and Brian David Johnson (2013): Vintage Tomorrows
+:PROPERTIES:
+:Custom_id: reading_carrott13:_vintag_tomor
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science and Discovery by Make/vintagetomorrows.pdf]]
+** TODO David Lang (2017): Make - Zero to Maker
+:PROPERTIES:
+:Custom_id: reading_lang17:_make_zero_maker
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science and Discovery by Make/zerotomaker_learntomakeanything.pdf]]
