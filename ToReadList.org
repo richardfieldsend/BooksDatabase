@@ -5046,3 +5046,248 @@
 :Custom_id: reading_korten15:_when_corpor_rule_world
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Hacking Capitalism/whencorporationsruletheworld.pdf]]
+** TODO Harrison Krix (2017): Painting & Weathering For Props & Replicas
+:PROPERTIES:
+:Custom_id: reading_krix17:_paint_weath_for_props_replic
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cosplay/Painting_and_Weathering_unlocked.pdf]]
+** TODO Bob Knetzger (2016): Kitchen Floor Vacuum Former
+:PROPERTIES:
+:Custom_id: reading_knetzger16:_kitch_floor_vacuum_former
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cosplay/make_kitchenfloorvacuumformer_1475879964.pdf]]
+** TODO Keith Hammond (2016): Make - Special Issue - Halloween
+:PROPERTIES:
+:Custom_id: reading_hammond16:_make_special_issue_hallow
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Cosplay/make_specialhalloweenissue2016.pdf]]
+** TODO Dirk Schulze-Makuch (2014): Alien Encounter - A Scientific Novel
+:PROPERTIES:
+:Custom_id: reading_schulze-makuch14:_alien_encoun_scien_novel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Real Scientists/alienencounter.pdf]]
+** TODO Giancarlo Genta (2016): A Man From Planet Earth - A Scientific Novel
+:PROPERTIES:
+:Custom_id: reading_genta16:_man_from_planet_earth_scien_novel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Real Scientists/amanfromplanetearth.pdf]]
+** TODO Erik Seedhouse (2014): Beyond Human - Engineering Our Future Evolution
+:PROPERTIES:
+:Custom_id: reading_seedhouse14:_beyon_human_engin_our_futur_evolut
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Real Scientists/beyondhuman_engineeringourfutureevolution.pdf]]
+** TODO Barry B. Luokkala (2014): Exploring Science Through Science Fiction
+:PROPERTIES:
+:Custom_id: reading_luokkala14:_explor_scien_throug_scien_fiction
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Real Scientists/exploringsciencethroughsciencefiction.pdf]]
+** TODO Kevin R. Grazier and Stephen Cass (2015): Hollyweird Science - From Quantum Quirks to the Multiverse
+:PROPERTIES:
+:Custom_id: reading_grazier15:_holly_scien_from_quant_quirk_multiv
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Real Scientists/hollyweirdscience.pdf]]
+** TODO Stephen Webb (2015): If the Universe Is Teeming with Aliens... Where Is Everybody? Seventy-Five Solutions to the Fermi Paradox and the Problem of Extraterrestrial Life
+:PROPERTIES:
+:Custom_id: reading_webb15:_if_univer_is_teemin_alien
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Real Scientists/iftheuniverseisteemingwithaliens.pdf]]
+** TODO Harun Siljak (2016): Murder on the Einstein Express and Other Stories
+:PROPERTIES:
+:Custom_id: reading_siljak16:_murder_einst_expres_other_stories
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Real Scientists/murderontheeinsteinexpressandotherstories.pdf]]
+** TODO Michael Carroll (2015): On the Shores of Titan's Farthest Sea - A Scientific Novel
+:PROPERTIES:
+:Custom_id: reading_carroll15:_shores_titan_farth_sea_scien_novel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Real Scientists/ontheshoresoftitansfarthestsea.pdf]]
+** TODO Brad Aiken (2014): Small Doses of the Future - A Collection of Medical Scienc Fiction Stories
+:PROPERTIES:
+:Custom_id: reading_aiken14:_small_doses_futur_collec_medic
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Real Scientists/smalldosesofthefuture.pdf]]
+** TODO Nick Kanas (2016): The Caloris Network - A Scientific Novel
+:PROPERTIES:
+:Custom_id: reading_kanas16:_calor_networ_scien_novel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Real Scientists/thecalorisnetwork.pdf]]
+** TODO Giancarlo Genta (2014): The Hunter - A Scientific Novel
+:PROPERTIES:
+:Custom_id: reading_genta14:_hunter_scien_novel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Real Scientists/thehunter.pdf]]
+** TODO Wallace Kaufman and David Deamer (2016): The Hunt for FOXP5 - A Genomic Mystery Novel
+:PROPERTIES:
+:Custom_id: reading_kaufman16:_hunt_foxp5_genom_myster_novel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Real Scientists/thehuntforfoxp5.pdf]]
+** TODO Nick Kanas (2014): The New Martians - A Scientific Novel
+:PROPERTIES:
+:Custom_id: reading_kanas14:_new_martian_scien_novel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Real Scientists/thenewmartians.pdf]]
+** TODO Nick Kanas (2014): The Protos Mandate - A Scientific Novel
+:PROPERTIES:
+:Custom_id: reading_kanas14:_protos_mandat_scien_novel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Real Scientists/theprotosmandate.pdf]]
+** TODO Jayant V. Narlikar (2015): The Return of Vaman - A Scientific Novel
+:PROPERTIES:
+:Custom_id: reading_narlikar15:_retur_vaman_scien_novel
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Real Scientists/thereturnofvaman.pdf]]
+** TODO H. G. Stratmann (2016): Using Medicine in Science Fiction - The SF Writer's Guide to Human Biology
+:PROPERTIES:
+:Custom_id: reading_stratmann16:_using_medic_scien_fiction_sf
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Science Fiction by Real Scientists/usingmedicineinsciencefiction.pdf]]
+** TODO Marijn Haverbeke (2015): Eloquent Javascript
+:PROPERTIES:
+:Custom_id: reading_haverbeke15:_eloquen_javas
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Joy of Coding by No Starch/eloquentjavascript_2ndedition.pdf]]
+** TODO Angus Croll (2015): If Hemingway Wrote Javascript
+:PROPERTIES:
+:Custom_id: reading_croll15:_if_hemin_wrote_javas
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Joy of Coding by No Starch/ifhemmingwaywrotejavascript.pdf]]
+** TODO Dave Fancher (2014): The Book of F# - Breaking Free with Managed Functional Programming
+:PROPERTIES:
+:Custom_id: reading_fancher14:_book_f_break_free_manag_funct_progr
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Joy of Coding by No Starch/thebookoffsharp.pdf]]
+** TODO William E. Shotts (2012): The Linux Command Line - A Complete Introduction
+:PROPERTIES:
+:Custom_id: reading_<new-entry5>
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Joy of Coding by No Starch/thelinuxcommandline.pdf]]
+** TODO Nicholas C. Zakas (2014): The Principles of Ojbect-Orientated Javascript
+:PROPERTIES:
+:Custom_id: reading_zakas14:_princ_ojbec_orien_javas
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Joy of Coding by No Starch/theprinciplesofobjectorientedjavascript.pdf]]
+** TODO Randall Hyde (2004): Write Great Code - Volume 1 - Understanding the Machine
+:PROPERTIES:
+:Custom_id: reading_hyde04:_write_great_code_volum_under_machin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Joy of Coding by No Starch/writegreatcode_vol1_1473205548.pdf]]
+** TODO Randall Hyde (2004): Write Great Code - Volume 1 - Understanding the Machine
+:PROPERTIES:
+:Custom_id: reading_hyde04:_write_great_code_volum_under_machine
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Joy of Coding by No Starch/writegreatcode_vol1_1473205548.pdf]]
+** TODO Randall Hyde (2006): Write Great Code - Volume 2 - Thinking Low-Level, Writing High-Level
+:PROPERTIES:
+:Custom_id: reading_hyde06:_write_great_code_volum_think
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Joy of Coding by No Starch/writegreatcode_vol2.pdf]]
+** TODO Mark Geddes and Tilman M. Davies and Gloria Winquist and Jeremy Kubica and Oyvind Nydal Dahl and Shin Takahashi and Nicholas C. Zakas and Dave Taylor (2016): The Joy of Coding - Sampler
+:PROPERTIES:
+:Custom_id: reading_geddes16:_joy_codin_sampl
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Joy of Coding by No Starch/joyofcoding_sampler.pdf]]
+** TODO David Feinleib (2014): Big Data Bootcamp
+:PROPERTIES:
+:Custom_id: reading_feinleib14:_big_data_bootc
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/bigdatabootcamp.pdf]]
+** TODO Mikael Olsson (2013): Build a Profitable Online Business - The No-Nonsense Guide
+:PROPERTIES:
+:Custom_id: reading_olsson13:_build_profit_onlin_busin_no_nonsen_guide
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/buildaprofitableonlinebusiness.pdf]]
+** TODO Josh Tyler (2015): Building Great Software Engineering Teams - Recruiting, Hiring and Managing Your Team from Startup to Success
+:PROPERTIES:
+:Custom_id: reading_tyler15:_build_great_softw_engin_teams
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/buildinggreatsoftwareengineeringteams.pdf]]
+** TODO Jerry Schaufeld (2015): Commercializing Innovation - Turning Technology Breakthroughs into Products
+:PROPERTIES:
+:Custom_id: reading_schaufeld15:_commer_innov_turnin_techn_break_produc
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/commercializinginnovation.pdf]]
+** TODO Anna Manning (2015): Databases for Small Business - Essentials of Database Management, Data Analysis and Staff Training for Entrepreneurs and Professionals
+:PROPERTIES:
+:Custom_id: reading_manning15:_datab_small_busin_essen_datab
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/databasesforsmallbusiness.pdf]]
+** TODO Beverly Rudkin Ingle (2013): Design Thinking for Entrepreneurs and Small Businesses - Putting the Power of Design to Work
+:PROPERTIES:
+:Custom_id: reading_ingle13:_desig_think_entrep_small_busin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/designthinkingforentrepreneursandsmallbusinesses.pdf]]
+** TODO Paul Paetz (2014): Disruption by Design
+:PROPERTIES:
+:Custom_id: reading_paetz14:_disrup_desig
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/disruptionbydesign.pdf]]
+** TODO Jeffrey W. Berkman (2013): Due Diligence and the Business Transaction
+:PROPERTIES:
+:Custom_id: reading_berkman13:_due_dilig_busin_trans
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/duediligenceandthebusinesstransaction.pdf]]
+** TODO Laurel J. Delaney (2013): Exporting - The Definitive Guide to Selling Abroad Profitably
+:PROPERTIES:
+:Custom_id: reading_delaney13:_expor_defin_guide_sellin_abroad_profit
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/exporting_thedefinitiveguidetosellingabroadprofitably.pdf]]
+** TODO Tom Y. Sawyer (2015): Financial Modelling for Business Owners and Entrepreneurs
+:PROPERTIES:
+:Custom_id: reading_sawyer15:_finan_model_busin_owner_entrep
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/financialmodelingforbusinessownersandentrepreneurs.pdf]]
+** TODO Scott Cromar (2013): From Techie to Boss - Transitioning to Leadership
+:PROPERTIES:
+:Custom_id: reading_cromar13:_from_techie_boss_trans_leader
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/fromtechietoboss.pdf]]
+** TODO Tom Taulli (2012): How To Create the Next Facebook - Seeing Your Startup Through from Idea to IPO
+:PROPERTIES:
+:Custom_id: reading_taulli12:_how_to_creat_next_faceb
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/howtocreatethenextfacebook.pdf]]
+** TODO Brett Stern (2012): Inventors At Work
+:PROPERTIES:
+:Custom_id: reading_stern12:_inven_at_work
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/inventorsatwork.pdf]]
+** TODO Tim McDaniel (2013): Know And Grow The Value of Your Business - An Owner's Guide to Retiring Rich
+:PROPERTIES:
+:Custom_id: reading_mcdaniel13:_know_and_grow_value_your
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/knowandgrowthevalueofyourbusiness.pdf]]
+** TODO Bintu Harwani (2015): Make an E-commerce Site in a Weekend - Design and create your own e-commerce website in no time
+:PROPERTIES:
+:Custom_id: reading_harwani15:_make_e_site_weeken_desig
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/makeanecommercesiteinaweekend.pdf]]
+** TODO Phillip Whitt (2015): Pro Freeware and Open Source Solutions for Business - An Introduction To Money-Saving, Open Source Software Alternatives for Business
+:PROPERTIES:
+:Custom_id: reading_whitt15:_pro_freew_open_sourc_solut
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/profreewareandopensourcesolutionsforbusiness.pdf]]
+** TODO Paul M. Getty and Dinesh Gupta and Robert R. Kaplan (2015): Regulation A+ - How the JOBS Act Creates Opportunities for Entrepreneurs and Investors
+:PROPERTIES:
+:Custom_id: reading_getty15:_regul_how_jobs_act_creat
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/regulationa_howthejobsactcreatesopportunities.pdf]]
+** TODO Kevin Ready (2011): Startup - An Insider's Guide to Launching and Running a Business
+:PROPERTIES:
+:Custom_id: reading_ready11:_start_insid_guide_launc_runnin_busin
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/startup_aninsidersguidetolaunchingandrunningabusiness.pdf]]
+** TODO Andrew R. Thomas and Timothy J. Wilkinson (2015): The Customer Trap - How To Avoid the Biggest Mistake in Business
+:PROPERTIES:
+:Custom_id: reading_thomas15:_custom_trap_how_to_avoid
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/thecustomertrap.pdf]]
+** TODO Manuel Stagars (2015): University Startups and Spin-Offs - Guide for Entrepreneurs in Academia
+:PROPERTIES:
+:Custom_id: reading_stagars15:_univer_start_spin_offs_guide_entrep_academ
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/universitystartupsandspinoffs.pdf]]
+** TODO David Feinleib (2012): Why Startups Fail - And How Yours Can Succeed
+:PROPERTIES:
+:Custom_id: reading_feinleib12:_why_start_fail_and_how
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/whystartupsfail.pdf]]
