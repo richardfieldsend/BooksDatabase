@@ -44,6 +44,7 @@ HB Science and Discovery by Make
 HB Hacking Capitalism
 HB Science Fiction by Real Scientists
 HB Start Your Own Tech Company
+HB Electronics Presented by Make
 audible
 book group
 business

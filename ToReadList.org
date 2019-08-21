@@ -5291,3 +5291,33 @@
 :Custom_id: reading_feinleib12:_why_start_fail_and_how
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Start Your Own Tech Company/whystartupsfail.pdf]]
+** TODO Charles Platt (2015): Encyclopedia of Electronic Components Volume 2 - Signal Processing
+:PROPERTIES:
+:Custom_id: reading_platt15:_encyc_elect_compon_volum_signal_proces
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Electronics Presented by Make/encylopediaofelectroniccomponents_vol2_signalprocessing.pdf]]
+** TODO Charles Platt (2016): Encyclopedia of Electronic Components Volume 3 - Sensors
+:PROPERTIES:
+:Custom_id: reading_platt16:_encyc_elect_compon_volum_sensor
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Electronics Presented by Make/encylopediaofelectroniccomponents_vol3_sensors.pdf]]
+** TODO Mark Frauenfelder (2013): Make - Board Games
+:PROPERTIES:
+:Custom_id: reading_frauenfelder13:_make_board_games
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Electronics Presented by Make/make_boardgames.pdf]]
+** TODO Mark Frauenfelder (2013): Make - Maker Projects Guide Special Issue
+:PROPERTIES:
+:Custom_id: reading_frauenfelder13:_make_maker_projec_guide_special_issue
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Electronics Presented by Make/make_makerprojectsguide.pdf]]
+** TODO Mark Frauenfelder (2013): Make - The Danger Issue
+:PROPERTIES:
+:Custom_id: reading_frauenfelder13:_make_danger_issue
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Electronics Presented by Make/make_thedangerissue_1466008389.pdf]]
+** TODO Tom Igoe (2017): Making Things Talk
+:PROPERTIES:
+:Custom_id: reading_igoe17:_makin_thing_talk
+:END:
+[[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB Electronics Presented by Make/makingthingstalk.pdf]]
