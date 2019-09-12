@@ -7331,3 +7331,23 @@
 :Custom_id: reading_larbalestier10:_zombies_vs
 :END:
 [[file:/media/rf343/ziggystor/Humble Bundle/eBooks/HB eBook Bundle 3/ZombiesVsUnicorns_ananthology.pdf]]
+* TODO Pelham Grenville Wodehouse (2012): The Jeeves Omnibus - Volume 1
+:PROPERTIES:
+:Custom_id: reading_wodehouse12:_jeeves_omnib_volum
+:END:
+* TODO Pelham Grenville Wodehouse (1917): The Man with Two Left Feet And Other Stories (Jeeves and Wooster)
+:PROPERTIES:
+:Custom_id: reading_wodehouse17:_man_two_left_feet_and
+:END:
+* TODO Adrianne Taylor Abbot (2017): Intermittent Fasting: Stronger Digestion, Better Weight and Greater Energy.
+:PROPERTIES:
+:Custom_id: reading_abbot17:_inter_fastin
+:END:
+* TODO Richard Wiseman (2011): Paranormality: Why we see what isn't there
+:PROPERTIES:
+:Custom_id: reading_wiseman11:_paran
+:END:
+* TODO Richard Wiseman (2012): Rip It Up: Forget positive thinking, it's time for positive action
+:PROPERTIES:
+:Custom_id: reading_wiseman12:_rip_it_up
+:END:
